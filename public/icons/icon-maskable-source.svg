@@ -1,9 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <!-- Full bleed background for maskable (gets cropped to various shapes) -->
+  <defs>
+    <clipPath id="circle">
+      <circle cx="256" cy="256" r="140"/>
+    </clipPath>
+  </defs>
+  <!-- Dark background for maskable (gets cropped to various shapes) -->
   <rect width="512" height="512" fill="#0A0A0F"/>
-  <!-- Finnish flag scaled down, centered in safe zone with rounded corners -->
-  <rect x="96" y="96" width="320" height="320" rx="28" fill="#FFFFFF"/>
-  <!-- Blue Nordic cross, offset into the flag area -->
-  <rect x="96" y="226" width="320" height="60" fill="#003580"/>
-  <rect x="202" y="96" width="60" height="320" fill="#003580"/>
+  <!-- Circular Finnish flag, smaller for safe zone -->
+  <circle cx="256" cy="256" r="140" fill="#FFFFFF"/>
+  <g clip-path="url(#circle)">
+    <rect x="116" y="228" width="280" height="56" fill="#003580"/>
+    <rect x="210" y="116" width="56" height="280" fill="#003580"/>
+  </g>
 </svg>
