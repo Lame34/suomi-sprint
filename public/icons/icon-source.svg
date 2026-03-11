@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <defs>
     <clipPath id="circle">
-      <circle cx="256" cy="256" r="160"/>
+      <circle cx="256" cy="256" r="190"/>
     </clipPath>
   </defs>
   <!-- Transparent background -->
-  <!-- Circular Finnish flag, ~62% of icon -->
-  <circle cx="256" cy="256" r="160" fill="#FFFFFF"/>
+  <!-- Circular Finnish flag, ~74% of icon -->
+  <circle cx="256" cy="256" r="190" fill="#FFFFFF"/>
   <g clip-path="url(#circle)">
-    <rect x="96" y="224" width="320" height="64" fill="#003580"/>
-    <rect x="200" y="96" width="64" height="320" fill="#003580"/>
+    <rect x="66" y="220" width="380" height="72" fill="#003580"/>
+    <rect x="192" y="66" width="72" height="380" fill="#003580"/>
   </g>
 </svg>

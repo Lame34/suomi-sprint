@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <defs>
     <clipPath id="circle">
-      <circle cx="256" cy="256" r="140"/>
+      <circle cx="256" cy="256" r="165"/>
     </clipPath>
   </defs>
   <!-- Dark background for maskable (gets cropped to various shapes) -->
   <rect width="512" height="512" fill="#0A0A0F"/>
-  <!-- Circular Finnish flag, smaller for safe zone -->
-  <circle cx="256" cy="256" r="140" fill="#FFFFFF"/>
+  <!-- Circular Finnish flag, safe zone -->
+  <circle cx="256" cy="256" r="165" fill="#FFFFFF"/>
   <g clip-path="url(#circle)">
-    <rect x="116" y="228" width="280" height="56" fill="#003580"/>
-    <rect x="210" y="116" width="56" height="280" fill="#003580"/>
+    <rect x="91" y="224" width="330" height="64" fill="#003580"/>
+    <rect x="198" y="91" width="64" height="330" fill="#003580"/>
   </g>
 </svg>
