@@ -17,7 +17,7 @@ import { formatRelativeDate } from '../lib/utils';
 export function ReviewPage() {
   const navigate = useNavigate();
   const { dueItems, dueCount, loading, refresh } = useSpacedRepetition();
-  const { state, progress, summary, startSession, submitAnswer, advance } = useExercise();
+  const { state, progress, summary, startSession, submitAnswer, advance } = useExercise('review');
 
   const [settings, setSettings] = useState<UserSettings | null>(null);
 

@@ -94,12 +94,15 @@ export interface Exercise {
 
 /* ── Settings ── */
 
+export type Theme = 'dark' | 'light';
+
 export interface UserSettings {
   questionsPerSession: number;
   exerciseTypes: ExerciseType[];
   showHints: boolean;
   autoAdvance: boolean;
   reviewMode: 'mixed' | 'vocabOnly' | 'phrasesOnly';
+  theme: Theme;
 }
 
 /* ── Session ── */

@@ -11,8 +11,10 @@ import {
   Upload,
   Info,
   ChevronDown,
+  Moon,
+  Sun,
 } from 'lucide-react';
-import type { ExerciseType, ProgressRecord } from '../types';
+import type { ExerciseType, ProgressRecord, Theme } from '../types';
 import { useSettings } from '../hooks/useSettings';
 import { db } from '../lib/db';
 import {
@@ -211,6 +213,41 @@ export function SettingsPage() {
         </div>
       )}
 
+      {/* ═══ Theme ═══ */}
+      <div className="card space-y-3">
+        <h3 className="font-display font-semibold text-xs text-text-secondary uppercase tracking-wide">
+          Theme
+        </h3>
+        <div className="flex gap-2">
+          {([
+            { value: 'dark' as Theme, label: 'Dark', icon: Moon },
+            { value: 'light' as Theme, label: 'Light', icon: Sun },
+          ]).map(({ value, label, icon: Icon }) => {
+            const active = (settings.theme ?? 'dark') === value;
+            return (
+              <button
+                key={value}
+                onClick={() => {
+                  update('theme', value);
+                  document.documentElement.setAttribute('data-theme', value);
+                  window.dispatchEvent(new CustomEvent('theme-change', { detail: value }));
+                }}
+                className={`flex-1 flex items-center justify-center gap-2 p-3 rounded-xl border-2 transition-all duration-200 min-h-[48px] ${
+                  active
+                    ? 'border-primary bg-selected'
+                    : 'border-frost bg-surface-raised hover:border-primary-light'
+                }`}
+              >
+                <Icon className={`w-4 h-4 ${active ? 'text-primary' : 'text-text-secondary'}`} />
+                <span className={`font-display text-sm font-medium ${active ? 'text-primary' : 'text-text-secondary'}`}>
+                  {label}
+                </span>
+              </button>
+            );
+          })}
+        </div>
+      </div>
+
       {/* ═══ Session Settings ═══ */}
       <div className="card space-y-4">
         <h3 className="font-display font-semibold text-xs text-text-secondary uppercase tracking-wide">
@@ -254,7 +291,7 @@ export function SettingsPage() {
                   onClick={() => toggleType(id)}
                   className={`flex items-center gap-2 p-3 rounded-xl border-2 transition-all duration-200 min-h-[48px] ${
                     isEnabled
-                      ? 'border-primary bg-[#1A2540]'
+                      ? 'border-primary bg-selected'
                       : 'border-frost bg-surface-raised hover:border-primary-light'
                   }`}
                 >

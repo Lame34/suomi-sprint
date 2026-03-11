@@ -45,7 +45,7 @@ function buildCategoryOptions(): CategoryOption[] {
 export function PracticePage() {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
-  const { state, progress, summary, startSession, submitAnswer, advance } = useExercise();
+  const { state, progress, summary, startSession, submitAnswer, advance } = useExercise('practice');
 
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [selectedType, setSelectedType] = useState<'vocab' | 'phrase' | null>(null);
@@ -244,7 +244,7 @@ export function PracticePage() {
                 onClick={() => toggleType(id)}
                 className={`flex items-center gap-2 p-3 rounded-xl border-2 transition-all duration-200 min-h-[48px] ${
                   isEnabled
-                    ? 'border-primary bg-[#1A2540]'
+                    ? 'border-primary bg-selected'
                     : 'border-frost bg-surface-raised hover:border-primary-light'
                 }`}
               >

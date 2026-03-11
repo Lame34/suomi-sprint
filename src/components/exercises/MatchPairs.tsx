@@ -101,25 +101,13 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
           });
         }
       } else {
-        // Wrong match
+        // Wrong match — just deselect, no item highlighting
         setWrongAttempts((prev) => prev + 1);
-        const statusMap = new Map(pairStatus);
-        statusMap.set(selectedLeft, 'wrong');
-        statusMap.set(pairIndex, 'wrong');
-        setPairStatus(statusMap);
-
-        wrongTimerRef.current = setTimeout(() => {
-          setPairStatus((prev) => {
-            const next = new Map(prev);
-            next.delete(selectedLeft!);
-            next.delete(pairIndex);
-            return next;
-          });
-          setSelectedLeft(null);
-        }, 600);
+        setSelectedLeft(null);
       }
     },
     [disabled, completed, matched, selectedLeft, pairs.length, pairStatus, wrongAttempts, questionStartTime, item.id, onAnswer],
+    // pairStatus and wrongAttempts kept for correct-match path
   );
 
   return (
@@ -149,7 +137,7 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
             }
 
             let classes = 'border-frost bg-surface-raised hover:border-primary-light';
-            if (isSelected) classes = 'border-primary bg-[#1A2540]';
+            if (isSelected) classes = 'border-primary bg-selected';
             if (status === 'wrong') classes = 'border-error bg-error-light answer-wrong';
 
             return (

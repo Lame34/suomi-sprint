@@ -80,6 +80,11 @@ function mapResultToQuality(result: ExerciseResult): number {
   return 0;
 }
 
+/* ── Persistent state across navigation ── */
+
+const persistedStates = new Map<string, ExerciseState>();
+const sessionSavedFlags = new Map<string, boolean>();
+
 /* ── Hook ── */
 
 interface UseExerciseReturn {
@@ -96,9 +101,19 @@ interface UseExerciseReturn {
  * Manages exercise session state via useReducer.
  * Handles: START → ANSWER → feedback delay → NEXT → ... → COMPLETE.
  * Persists progress to IndexedDB via SM-2 after each answer.
+ * State survives navigation via module-level cache keyed by sessionKey.
  */
-export function useExercise(): UseExerciseReturn {
-  const [state, dispatch] = useReducer(reducer, initialState);
+export function useExercise(sessionKey: string = 'practice'): UseExerciseReturn {
+  const [state, dispatch] = useReducer(
+    reducer,
+    null,
+    () => persistedStates.get(sessionKey) ?? initialState,
+  );
+
+  // Sync state back to persistent store
+  useEffect(() => {
+    persistedStates.set(sessionKey, state);
+  }, [sessionKey, state]);
   const feedbackTimerRef = useRef<ReturnType<typeof setTimeout>>(undefined);
 
   // Clean up timer on unmount
@@ -180,10 +195,9 @@ export function useExercise(): UseExerciseReturn {
   }
 
   // Persist session record to IndexedDB when session completes
-  const sessionSavedRef = useRef(false);
   useEffect(() => {
-    if (state.status === 'complete' && state.results.length > 0 && !sessionSavedRef.current) {
-      sessionSavedRef.current = true;
+    if (state.status === 'complete' && state.results.length > 0 && !sessionSavedFlags.get(sessionKey)) {
+      sessionSavedFlags.set(sessionKey, true);
       const correctCount = state.results.filter((r) => r.correct || r.almostCorrect).length;
       const uniqueItems = new Set(state.results.map((r) => r.itemId)).size;
       db.sessions.add({
@@ -197,9 +211,9 @@ export function useExercise(): UseExerciseReturn {
       });
     }
     if (state.status === 'idle') {
-      sessionSavedRef.current = false;
+      sessionSavedFlags.set(sessionKey, false);
     }
-  }, [state.status, state.results, state.exercises.length, state.sessionStartTime]);
+  }, [sessionKey, state.status, state.results, state.exercises.length, state.sessionStartTime]);
 
   return {
     state,

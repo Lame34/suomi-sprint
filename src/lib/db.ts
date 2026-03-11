@@ -8,6 +8,7 @@ export const DEFAULT_SETTINGS: UserSettings = {
   showHints: true,
   autoAdvance: true,
   reviewMode: 'mixed',
+  theme: 'dark',
 };
 
 /**
