@@ -1,6 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <!-- Full bleed background (maskable icons get cropped to various shapes) -->
-  <rect width="512" height="512" fill="#003580"/>
-  <!-- Content within safe zone (inner 80% = 410px centered, with ~51px padding) -->
-  <text x="256" y="340" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="260" fill="#FFFFFF">S</text>
+  <!-- Full bleed background for maskable (gets cropped to various shapes) -->
+  <rect width="512" height="512" fill="#FFFFFF"/>
+  <!-- Finnish flag: blue Nordic cross, centered in safe zone -->
+  <rect x="0" y="192" width="512" height="128" fill="#003580"/>
+  <rect x="144" y="0" width="128" height="512" fill="#003580"/>
 </svg>
