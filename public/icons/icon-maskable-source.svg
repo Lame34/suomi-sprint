@@ -1,7 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
   <!-- Full bleed background for maskable (gets cropped to various shapes) -->
-  <rect width="512" height="512" fill="#FFFFFF"/>
-  <!-- Finnish flag: blue Nordic cross, centered in safe zone -->
-  <rect x="0" y="192" width="512" height="128" fill="#003580"/>
-  <rect x="144" y="0" width="128" height="512" fill="#003580"/>
+  <rect width="512" height="512" fill="#0A0A0F"/>
+  <!-- Finnish flag scaled down, centered in safe zone with rounded corners -->
+  <rect x="96" y="96" width="320" height="320" rx="28" fill="#FFFFFF"/>
+  <!-- Blue Nordic cross, offset into the flag area -->
+  <rect x="96" y="226" width="320" height="60" fill="#003580"/>
+  <rect x="202" y="96" width="60" height="320" fill="#003580"/>
 </svg>

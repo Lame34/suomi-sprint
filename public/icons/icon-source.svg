@@ -5,9 +5,12 @@
     </clipPath>
   </defs>
   <g clip-path="url(#rounded)">
-    <rect width="512" height="512" fill="#FFFFFF"/>
-    <!-- Finnish flag: blue Nordic cross -->
-    <rect x="0" y="192" width="512" height="128" fill="#003580"/>
-    <rect x="144" y="0" width="128" height="512" fill="#003580"/>
+    <!-- Dark background -->
+    <rect width="512" height="512" fill="#0A0A0F"/>
+    <!-- Finnish flag scaled down (70%), centered with rounded corners -->
+    <rect x="76" y="76" width="360" height="360" rx="32" fill="#FFFFFF"/>
+    <!-- Blue Nordic cross, offset into the flag area -->
+    <rect x="76" y="222" width="360" height="68" fill="#003580"/>
+    <rect x="196" y="76" width="68" height="360" fill="#003580"/>
   </g>
 </svg>
