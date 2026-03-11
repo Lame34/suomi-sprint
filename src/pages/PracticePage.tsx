@@ -149,7 +149,7 @@ export function PracticePage() {
         </h3>
         <button
           onClick={() => setShowPicker(!showPicker)}
-          className="w-full flex items-center justify-between p-3 rounded-lg border border-frost bg-white hover:border-primary-light transition-colors duration-200 min-h-[48px]"
+          className="w-full flex items-center justify-between p-3 rounded-lg border border-frost bg-surface-raised hover:border-primary-light transition-colors duration-200 min-h-[48px]"
         >
           <span className="font-display font-medium text-sm">{selectedLabel}</span>
           <ChevronDown
@@ -244,8 +244,8 @@ export function PracticePage() {
                 onClick={() => toggleType(id)}
                 className={`flex items-center gap-2 p-3 rounded-xl border-2 transition-all duration-200 min-h-[48px] ${
                   isEnabled
-                    ? 'border-primary bg-[#e8f0fe]'
-                    : 'border-frost bg-white hover:border-primary-light'
+                    ? 'border-primary bg-[#1A2540]'
+                    : 'border-frost bg-surface-raised hover:border-primary-light'
                 }`}
               >
                 <Icon className={`w-4 h-4 shrink-0 ${isEnabled ? 'text-primary' : 'text-text-secondary'}`} />

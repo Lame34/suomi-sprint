@@ -16,7 +16,7 @@ export function Header({ title = 'SuomiSprint' }: Props) {
   const isSettings = location.pathname === '/settings';
 
   return (
-    <header className="fixed top-0 left-0 right-0 z-50 bg-white border-b border-frost h-14 flex items-center px-4">
+    <header className="fixed top-0 left-0 right-0 z-50 bg-surface border-b border-frost h-14 flex items-center px-4">
       <div className="w-full max-w-[480px] mx-auto flex items-center justify-between">
         {/* Left slot: back button or spacer */}
         <div className="w-10 flex items-center">

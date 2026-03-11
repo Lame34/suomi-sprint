@@ -118,7 +118,7 @@ export function WordList() {
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search words..."
-          className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-frost bg-white text-sm focus:outline-none focus:border-primary transition-colors duration-200"
+          className="w-full pl-10 pr-4 py-2.5 rounded-lg border border-frost bg-surface-raised text-sm focus:outline-none focus:border-primary transition-colors duration-200"
         />
       </div>
 

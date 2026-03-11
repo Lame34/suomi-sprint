@@ -148,8 +148,8 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
               );
             }
 
-            let classes = 'border-frost bg-white hover:border-primary-light';
-            if (isSelected) classes = 'border-primary bg-[#e8f0fe]';
+            let classes = 'border-frost bg-surface-raised hover:border-primary-light';
+            if (isSelected) classes = 'border-primary bg-[#1A2540]';
             if (status === 'wrong') classes = 'border-error bg-error-light answer-wrong';
 
             return (
@@ -183,7 +183,7 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
               );
             }
 
-            let classes = 'border-frost bg-white hover:border-primary-light';
+            let classes = 'border-frost bg-surface-raised hover:border-primary-light';
             if (status === 'wrong') classes = 'border-error bg-error-light answer-wrong';
 
             return (

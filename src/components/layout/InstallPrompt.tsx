@@ -52,7 +52,7 @@ export function InstallPrompt() {
 
   return (
     <div className="fixed bottom-20 left-4 right-4 z-50 max-w-[480px] mx-auto page-enter">
-      <div className="bg-white rounded-xl border border-frost p-4 shadow-lg flex items-start gap-3">
+      <div className="bg-surface-raised rounded-xl border border-frost p-4 shadow-lg flex items-start gap-3">
         <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center shrink-0">
           <Download className="w-5 h-5 text-white" />
         </div>

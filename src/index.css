@@ -4,38 +4,41 @@
    Design Tokens — Finnish Flag / Nordic Blue
    ══════════════════════════════════════════════ */
 :root {
-  --color-primary: #003580;
-  --color-primary-light: #1a5fb4;
-  --color-primary-dark: #002455;
-  --color-white: #ffffff;
-  --color-ice: #f0f4f8;
-  --color-frost: #d6e4f0;
-  --color-text-primary: #1a1a2e;
-  --color-text-secondary: #5a6678;
-  --color-success: #2e7d32;
-  --color-success-light: #e8f5e9;
-  --color-error: #c62828;
-  --color-error-light: #ffebee;
-  --color-warning: #f57f17;
+  --color-primary: #4A90E2;
+  --color-primary-light: #6AADE8;
+  --color-primary-dark: #3A7BD5;
+  --color-surface: #0A0A0F;
+  --color-surface-raised: #141420;
+  --color-ice: #1A1A28;
+  --color-frost: #2A2A3C;
+  --color-text-primary: #E8ECF4;
+  --color-text-secondary: #8892A4;
+  --color-success: #4CAF50;
+  --color-success-light: #1A2E1C;
+  --color-error: #EF5350;
+  --color-error-light: #2E1A1A;
+  --color-warning: #FFB74D;
 }
 
 /* ══════════════════════════════════════════════
    Tailwind v4 Theme — Colors, Fonts, Animations
    ══════════════════════════════════════════════ */
 @theme {
-  /* Colors */
-  --color-primary: #003580;
-  --color-primary-light: #1a5fb4;
-  --color-primary-dark: #002455;
-  --color-ice: #f0f4f8;
-  --color-frost: #d6e4f0;
-  --color-text-primary: #1a1a2e;
-  --color-text-secondary: #5a6678;
-  --color-success: #2e7d32;
-  --color-success-light: #e8f5e9;
-  --color-error: #c62828;
-  --color-error-light: #ffebee;
-  --color-warning: #f57f17;
+  /* Colors — Dark Nordic */
+  --color-primary: #4A90E2;
+  --color-primary-light: #6AADE8;
+  --color-primary-dark: #3A7BD5;
+  --color-surface: #0A0A0F;
+  --color-surface-raised: #141420;
+  --color-ice: #1A1A28;
+  --color-frost: #2A2A3C;
+  --color-text-primary: #E8ECF4;
+  --color-text-secondary: #8892A4;
+  --color-success: #4CAF50;
+  --color-success-light: #1A2E1C;
+  --color-error: #EF5350;
+  --color-error-light: #2E1A1A;
+  --color-warning: #FFB74D;
 
   /* Font families */
   --font-display: "Instrument Sans", sans-serif;
@@ -88,7 +91,7 @@
     margin: 0;
     font-family: var(--font-body);
     color: var(--color-text-primary);
-    background-color: var(--color-white);
+    background-color: var(--color-surface);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     /* Prevent rubber-band overscroll showing white gaps on mobile */
@@ -115,7 +118,7 @@
 @layer components {
   /* ── Cards ── */
   .card {
-    background-color: var(--color-white);
+    background-color: var(--color-surface-raised);
     border-radius: 0.75rem; /* rounded-xl */
     border: 1px solid var(--color-frost);
     padding: 1rem;

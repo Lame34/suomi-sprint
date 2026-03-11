@@ -2,24 +2,29 @@
 
 > Read this skill before creating ANY visual component or page.
 
-## Design Identity: "Nordic Ice"
+## Design Identity: "Dark Nordic"
 
-The app looks like it was made by a Finnish design studio. Clean, confident, blue.
+The app looks like it was made by a Finnish design studio. Deep black, bright Finnish blue, clean.
 
-### Color Application Rules
+### Color Application Rules — Dark Nordic Theme
 | Element | Color | Token |
 |---------|-------|-------|
-| Background (app) | `#FFFFFF` white | `--color-white` |
-| Background (sections) | `#F0F4F8` ice | `--color-ice` |
-| Primary buttons & CTAs | `#003580` Finnish blue | `--color-primary` |
-| Button hover | `#1a5fb4` lighter blue | `--color-primary-light` |
-| Button active/pressed | `#002455` deep blue | `--color-primary-dark` |
-| Card borders | `#D6E4F0` frost | `--color-frost` |
-| Primary text | `#1A1A2E` near-black | `--color-text-primary` |
-| Secondary text | `#5A6678` grey | `--color-text-secondary` |
-| Correct answer | `#2E7D32` on `#E8F5E9` | `--color-success` / `--color-success-light` |
-| Wrong answer | `#C62828` on `#FFEBEE` | `--color-error` / `--color-error-light` |
-| Needs review badge | `#F57F17` | `--color-warning` |
+| Background (app) | `#0A0A0F` deep black | `--color-surface` |
+| Background (cards) | `#141420` raised surface | `--color-surface-raised` |
+| Background (sections) | `#1A1A28` dark ice | `--color-ice` |
+| Primary buttons & CTAs | `#4A90E2` bright Finnish blue | `--color-primary` |
+| Button hover | `#6AADE8` lighter blue | `--color-primary-light` |
+| Button active/pressed | `#3A7BD5` deep blue | `--color-primary-dark` |
+| Card borders | `#2A2A3C` dark frost | `--color-frost` |
+| Primary text | `#E8ECF4` off-white | `--color-text-primary` |
+| Secondary text | `#8892A4` muted grey | `--color-text-secondary` |
+| Correct answer | `#4CAF50` on `#1A2E1C` | `--color-success` / `--color-success-light` |
+| Wrong answer | `#EF5350` on `#2E1A1A` | `--color-error` / `--color-error-light` |
+| Needs review badge | `#FFB74D` | `--color-warning` |
+| Selected/active highlight | `#1A2540` | (inline) |
+| Warning badge bg | `#2E2810` | (inline) |
+
+**Important**: Use `bg-surface` for app/header/nav backgrounds, `bg-surface-raised` for cards/inputs/elevated elements. Never use `bg-white`.
 
 ### Font Loading
 ```html
@@ -61,9 +66,9 @@ font-family: 'Source Serif 4', serif;
 └─────────────────────────────┘
 ```
 
-- Header: fixed top, white bg, subtle bottom border (`border-b border-frost`)
+- Header: fixed top, `bg-surface`, subtle bottom border (`border-b border-frost`)
 - Content: `overflow-y-auto`, padding bottom for nav clearance (`pb-20`)
-- Bottom Nav: fixed bottom, white bg, top border, `safe-area-inset-bottom` padding
+- Bottom Nav: fixed bottom, `bg-surface`, top border, `safe-area-inset-bottom` padding
 
 ### Bottom Navigation Pattern
 ```tsx
@@ -77,8 +82,8 @@ font-family: 'Source Serif 4', serif;
 
 ### Cards
 ```tsx
-<div className="bg-white rounded-xl border border-frost p-4 shadow-sm">
-  {/* Card content */}
+<div className="bg-surface-raised rounded-xl border border-frost p-4 shadow-sm">
+  {/* Card content — or use the .card class which applies bg-surface-raised */}
 </div>
 ```
 
@@ -104,11 +109,11 @@ font-family: 'Source Serif 4', serif;
 ### MCQ Option Button
 ```tsx
 // Default state
-<button className="w-full text-left p-4 rounded-xl border-2 border-frost 
-  bg-white transition-all duration-200 hover:border-primary-light">
+<button className="w-full text-left p-4 rounded-xl border-2 border-frost
+  bg-surface-raised transition-all duration-200 hover:border-primary-light">
 
 // Selected (awaiting confirmation)
-<button className="... border-primary bg-blue-50">
+<button className="... border-primary bg-[#1A2540]">
 
 // Correct
 <button className="... border-success bg-success-light">

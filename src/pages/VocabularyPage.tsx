@@ -30,7 +30,7 @@ export function VocabularyPage() {
           onClick={() => setTab('vocabulary')}
           className={`flex-1 text-center py-2.5 rounded-md text-sm font-display font-semibold transition-all duration-200 min-h-[44px] ${
             tab === 'vocabulary'
-              ? 'bg-white text-primary shadow-sm'
+              ? 'bg-surface-raised text-primary shadow-sm'
               : 'text-text-secondary hover:text-primary'
           }`}
         >
@@ -42,7 +42,7 @@ export function VocabularyPage() {
           onClick={() => setTab('phrases')}
           className={`flex-1 text-center py-2.5 rounded-md text-sm font-display font-semibold transition-all duration-200 min-h-[44px] ${
             tab === 'phrases'
-              ? 'bg-white text-primary shadow-sm'
+              ? 'bg-surface-raised text-primary shadow-sm'
               : 'text-text-secondary hover:text-primary'
           }`}
         >

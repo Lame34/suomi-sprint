@@ -178,7 +178,7 @@ function FillBlankSub({
       {/* Word options */}
       <div className="flex justify-center gap-3">
         {options.map((word) => {
-          let classes = 'border-frost bg-white hover:border-primary-light';
+          let classes = 'border-frost bg-surface-raised hover:border-primary-light';
           let icon = null;
 
           if (answered) {
@@ -189,7 +189,7 @@ function FillBlankSub({
               classes = 'border-error bg-error-light answer-wrong';
               icon = <X className="w-4 h-4 text-error" />;
             } else {
-              classes = 'border-frost bg-white opacity-40';
+              classes = 'border-frost bg-surface-raised opacity-40';
             }
           }
 
@@ -319,7 +319,7 @@ function WordOrder({ exercise, questionStartTime, onAnswer, disabled }: WordOrde
             key={`placed-${i}`}
             onClick={() => handleRemoveWord(i)}
             disabled={checked || disabled}
-            className="px-3 py-1.5 rounded-lg bg-white border border-frost font-serif text-primary text-sm min-h-[36px] transition-all duration-150 hover:bg-error-light hover:border-error active:scale-95"
+            className="px-3 py-1.5 rounded-lg bg-surface-raised border border-frost font-serif text-primary text-sm min-h-[36px] transition-all duration-150 hover:bg-error-light hover:border-error active:scale-95"
           >
             {word}
           </button>
@@ -354,7 +354,7 @@ function WordOrder({ exercise, questionStartTime, onAnswer, disabled }: WordOrde
             key={`pool-${scrIdx}`}
             onClick={() => handlePlaceWord(scrIdx)}
             disabled={checked || disabled}
-            className="px-4 py-2.5 rounded-xl border-2 border-frost bg-white font-serif text-primary text-base min-h-[48px] transition-all duration-200 hover:border-primary-light active:scale-95"
+            className="px-4 py-2.5 rounded-xl border-2 border-frost bg-surface-raised font-serif text-primary text-base min-h-[48px] transition-all duration-200 hover:border-primary-light active:scale-95"
           >
             {scrambled[scrIdx]}
           </button>

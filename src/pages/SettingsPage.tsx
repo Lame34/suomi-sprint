@@ -254,8 +254,8 @@ export function SettingsPage() {
                   onClick={() => toggleType(id)}
                   className={`flex items-center gap-2 p-3 rounded-xl border-2 transition-all duration-200 min-h-[48px] ${
                     isEnabled
-                      ? 'border-primary bg-[#e8f0fe]'
-                      : 'border-frost bg-white hover:border-primary-light'
+                      ? 'border-primary bg-[#1A2540]'
+                      : 'border-frost bg-surface-raised hover:border-primary-light'
                   }`}
                 >
                   <Icon className={`w-4 h-4 shrink-0 ${isEnabled ? 'text-primary' : 'text-text-secondary'}`} />
@@ -332,7 +332,7 @@ export function SettingsPage() {
             onClick={handleResetAll}
             className={`w-full flex items-center justify-center gap-2 rounded-lg border-2 min-h-[48px] px-4 py-2.5 font-display font-semibold text-sm transition-all duration-200 ${
               resetConfirmStep === 0
-                ? 'border-frost bg-white text-error hover:border-error hover:bg-error-light'
+                ? 'border-frost bg-surface-raised text-error hover:border-error hover:bg-error-light'
                 : resetConfirmStep === 1
                   ? 'border-error bg-error-light text-error'
                   : 'border-error bg-error text-white'
@@ -361,7 +361,7 @@ export function SettingsPage() {
               setCatResetConfirm(false);
               setCatResetTarget(null);
             }}
-            className="w-full flex items-center justify-between p-3 rounded-lg border border-frost bg-white hover:border-primary-light transition-colors duration-200 min-h-[48px]"
+            className="w-full flex items-center justify-between p-3 rounded-lg border border-frost bg-surface-raised hover:border-primary-light transition-colors duration-200 min-h-[48px]"
           >
             <span className="text-sm font-medium">Reset category progress</span>
             <ChevronDown className={`w-4 h-4 text-text-secondary transition-transform duration-200 ${catResetOpen ? 'rotate-180' : ''}`} />
@@ -406,7 +406,7 @@ export function SettingsPage() {
                     setCatResetConfirm(false);
                     setCatResetTarget(null);
                   }}
-                  className="flex-1 bg-white border border-frost rounded-lg py-2 text-sm font-display font-medium min-h-[44px]"
+                  className="flex-1 bg-surface-raised border border-frost rounded-lg py-2 text-sm font-display font-medium min-h-[44px]"
                 >
                   Cancel
                 </button>
@@ -418,7 +418,7 @@ export function SettingsPage() {
         {/* Export */}
         <button
           onClick={handleExport}
-          className="w-full flex items-center justify-center gap-2 rounded-lg border border-frost bg-white hover:bg-ice transition-colors duration-200 min-h-[48px] px-4 py-2.5 text-sm font-display font-medium"
+          className="w-full flex items-center justify-center gap-2 rounded-lg border border-frost bg-surface-raised hover:bg-ice transition-colors duration-200 min-h-[48px] px-4 py-2.5 text-sm font-display font-medium"
         >
           <Download className="w-4 h-4 text-primary" />
           Export progress as JSON
@@ -427,7 +427,7 @@ export function SettingsPage() {
         {/* Import */}
         <button
           onClick={() => fileInputRef.current?.click()}
-          className="w-full flex items-center justify-center gap-2 rounded-lg border border-frost bg-white hover:bg-ice transition-colors duration-200 min-h-[48px] px-4 py-2.5 text-sm font-display font-medium"
+          className="w-full flex items-center justify-center gap-2 rounded-lg border border-frost bg-surface-raised hover:bg-ice transition-colors duration-200 min-h-[48px] px-4 py-2.5 text-sm font-display font-medium"
         >
           <Upload className="w-4 h-4 text-primary" />
           Import progress from JSON

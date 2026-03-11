@@ -1,4 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#003580"/>
-  <text x="16" y="23" text-anchor="middle" font-family="'Instrument Sans', 'Segoe UI', system-ui, sans-serif" font-weight="700" font-size="20" fill="#FFFFFF">S</text>
+  <defs>
+    <clipPath id="c">
+      <rect width="32" height="32" rx="6"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <!-- White background -->
+    <rect width="32" height="32" fill="#FFFFFF"/>
+    <!-- Finnish flag blue cross -->
+    <rect x="0" y="12" width="32" height="8" fill="#003580"/>
+    <rect x="9" y="0" width="8" height="32" fill="#003580"/>
+  </g>
 </svg>

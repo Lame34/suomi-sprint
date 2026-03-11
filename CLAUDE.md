@@ -40,24 +40,27 @@
 
 ---
 
-## 🎨 Design System — "Nordic Blue"
+## 🎨 Design System — "Dark Nordic"
 
-### Colors (Finnish Flag)
+### Colors (Deep black + Finnish blue)
 ```
---color-primary:        #003580    /* Finnish blue — main actions, headers */
---color-primary-light:  #1a5fb4    /* Hover states, secondary elements */
---color-primary-dark:   #002455    /* Active states, deep accents */
---color-white:          #FFFFFF    /* Background, cards */
---color-ice:            #F0F4F8    /* Light background, subtle sections */
---color-frost:          #D6E4F0    /* Borders, dividers, inactive */
---color-text-primary:   #1A1A2E    /* Main text — near-black with blue undertone */
---color-text-secondary: #5A6678    /* Secondary text, hints */
---color-success:        #2E7D32    /* Correct answer */
---color-success-light:  #E8F5E9    /* Correct answer background */
---color-error:          #C62828    /* Wrong answer */
---color-error-light:    #FFEBEE    /* Wrong answer background */
---color-warning:        #F57F17    /* Review needed, attention */
+--color-primary:        #4A90E2    /* Bright Finnish blue — main actions, headers */
+--color-primary-light:  #6AADE8    /* Hover states, secondary elements */
+--color-primary-dark:   #3A7BD5    /* Active states, deep accents */
+--color-surface:        #0A0A0F    /* Deep black — app background */
+--color-surface-raised: #141420    /* Cards, elevated surfaces */
+--color-ice:            #1A1A28    /* Section backgrounds, subtle areas */
+--color-frost:          #2A2A3C    /* Borders, dividers, inactive */
+--color-text-primary:   #E8ECF4    /* Main text — off-white */
+--color-text-secondary: #8892A4    /* Secondary text, hints */
+--color-success:        #4CAF50    /* Correct answer */
+--color-success-light:  #1A2E1C    /* Correct answer background */
+--color-error:          #EF5350    /* Wrong answer */
+--color-error-light:    #2E1A1A    /* Wrong answer background */
+--color-warning:        #FFB74D    /* Review needed, attention */
 ```
+
+**Note**: Use `bg-surface` for page/header/nav backgrounds, `bg-surface-raised` for cards/inputs/buttons. Never use `bg-white`.
 
 ### Typography
 - **Display / Headers**: `"Instrument Sans"` (Google Fonts) — geometric, Nordic feel

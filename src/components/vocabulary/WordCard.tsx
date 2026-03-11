@@ -17,7 +17,7 @@ const difficultyLabel: Record<number, string> = {
 
 const difficultyColor: Record<number, string> = {
   1: 'bg-success-light text-success',
-  2: 'bg-[#FFF8E1] text-warning',
+  2: 'bg-[#2E2810] text-warning',
   3: 'bg-error-light text-error',
 };
 

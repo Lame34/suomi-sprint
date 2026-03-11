@@ -89,7 +89,7 @@ export function MCQ({ exercise, pool, questionStartTime, onAnswer, disabled }: P
           const isCorrectOption = index === correctIndex;
           const isSelected = index === selected;
 
-          let stateClasses = 'border-frost bg-white hover:border-primary-light';
+          let stateClasses = 'border-frost bg-surface-raised hover:border-primary-light';
           let icon = null;
 
           if (answered) {
@@ -100,7 +100,7 @@ export function MCQ({ exercise, pool, questionStartTime, onAnswer, disabled }: P
               stateClasses = 'border-error bg-error-light answer-wrong';
               icon = <X className="w-5 h-5 text-error shrink-0" />;
             } else {
-              stateClasses = 'border-frost bg-white opacity-50';
+              stateClasses = 'border-frost bg-surface-raised opacity-50';
             }
           }
 
