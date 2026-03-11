@@ -1,0 +1,350 @@
+{
+  "category": "survival",
+  "categoryLabel": "Survival Phrases",
+  "icon": "life-buoy",
+  "description": "Essential phrases for getting by in Finland",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "survival-001",
+      "finnish": "Puhutko englantia?",
+      "english": "Do you speak English?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Speak-you English?",
+      "notes": "Informal (sinä). Use 'Puhutteko englantia?' for formal (Te).",
+      "words": ["puhua", "englanti"]
+    },
+    {
+      "id": "survival-002",
+      "finnish": "En puhu suomea.",
+      "english": "I don't speak Finnish.",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Not speak-I Finnish.",
+      "notes": "Negation with 'en' (first person). The verb stays in stem form after the negative.",
+      "words": ["ei", "puhua", "suomi"]
+    },
+    {
+      "id": "survival-003",
+      "finnish": "Ymmärrätkö?",
+      "english": "Do you understand?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Understand-you?",
+      "notes": "Informal (sinä). The -kö suffix makes it a question.",
+      "words": ["ymmärtää"]
+    },
+    {
+      "id": "survival-004",
+      "finnish": "En ymmärrä.",
+      "english": "I don't understand.",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Not understand-I.",
+      "notes": "Very useful phrase. 'En' is the first person negative verb.",
+      "words": ["ei", "ymmärtää"]
+    },
+    {
+      "id": "survival-005",
+      "finnish": "Ymmärrän vähän.",
+      "english": "I understand a little.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "A polite way to indicate partial understanding.",
+      "words": ["ymmärtää", "vähän"]
+    },
+    {
+      "id": "survival-006",
+      "finnish": "Voitko puhua hitaammin?",
+      "english": "Can you speak slower?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Can-you speak slower?",
+      "notes": "Informal (sinä). 'Hitaammin' is the comparative adverb of 'hitaasti' (slowly).",
+      "words": ["voida", "puhua", "hitaasti"]
+    },
+    {
+      "id": "survival-007",
+      "finnish": "Voitko toistaa?",
+      "english": "Can you repeat?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Can-you repeat?",
+      "notes": "Informal (sinä). Formal: 'Voisitteko toistaa?'",
+      "words": ["voida", "toistaa"]
+    },
+    {
+      "id": "survival-008",
+      "finnish": "Mitä tämä tarkoittaa?",
+      "english": "What does this mean?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "What this means?",
+      "notes": "'Mitä' is the partitive form of 'mikä' (what).",
+      "words": ["mikä", "tämä", "tarkoittaa"]
+    },
+    {
+      "id": "survival-009",
+      "finnish": "Mitä tämä on?",
+      "english": "What is this?",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "Basic question structure. Very useful when shopping or exploring.",
+      "words": ["mikä", "tämä", "olla"]
+    },
+    {
+      "id": "survival-010",
+      "finnish": "Paljonko tämä maksaa?",
+      "english": "How much does this cost?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "How-much this costs?",
+      "notes": "'Paljonko' means 'how much'. Essential for shopping.",
+      "words": ["paljonko", "tämä", "maksaa"]
+    },
+    {
+      "id": "survival-011",
+      "finnish": "Missä on vessa?",
+      "english": "Where is the toilet?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Where is toilet?",
+      "notes": "'Vessa' is informal for toilet. 'WC' (pronounced 'vee-see') is also widely understood.",
+      "words": ["missä", "olla", "vessa"]
+    },
+    {
+      "id": "survival-012",
+      "finnish": "Tarvitsen apua.",
+      "english": "I need help.",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Need-I help.",
+      "notes": "'Apua' is the partitive form of 'apu' (help).",
+      "words": ["tarvita", "apu"]
+    },
+    {
+      "id": "survival-013",
+      "finnish": "Olen eksynyt.",
+      "english": "I am lost.",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Am-I lost.",
+      "notes": "'Eksynyt' is the past participle of 'eksyä' (to get lost).",
+      "words": ["olla", "eksyä"]
+    },
+    {
+      "id": "survival-014",
+      "finnish": "Voitko auttaa minua?",
+      "english": "Can you help me?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Can-you help me?",
+      "notes": "Informal (sinä). 'Minua' is the partitive form of 'minä'.",
+      "words": ["voida", "auttaa", "minä"]
+    },
+    {
+      "id": "survival-015",
+      "finnish": "Haluaisin...",
+      "english": "I would like...",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Would-want-I...",
+      "notes": "Polite conditional form of 'haluta'. More polite than 'haluan' (I want). Use this when ordering or requesting.",
+      "words": ["haluta"]
+    },
+    {
+      "id": "survival-016",
+      "finnish": "Onko teillä...?",
+      "english": "Do you have...?",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Is-whether you-on...?",
+      "notes": "Formal (Te). Uses the adessive case 'teillä' (on you) — Finnish expresses 'having' as something being 'on' someone. Informal: 'Onko sinulla...?'",
+      "words": ["olla", "te"]
+    },
+    {
+      "id": "survival-017",
+      "finnish": "Voisitteko auttaa?",
+      "english": "Could you help?",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Could-you(formal) help?",
+      "notes": "Formal (Te) and conditional mood — very polite. Use with strangers and in service situations.",
+      "words": ["voida", "auttaa"]
+    },
+    {
+      "id": "survival-018",
+      "finnish": "Puhutteko englantia?",
+      "english": "Do you speak English?",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Speak-you(formal) English?",
+      "notes": "Formal (Te) version of 'Puhutko englantia?'. Use with strangers, older people, or in official settings.",
+      "words": ["puhua", "englanti"]
+    },
+    {
+      "id": "survival-019",
+      "finnish": "Olen allerginen.",
+      "english": "I am allergic.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "Follow with the allergen in allative case, e.g., 'Olen allerginen pähkinöille' (I am allergic to nuts).",
+      "words": ["olla", "allerginen"]
+    },
+    {
+      "id": "survival-020",
+      "finnish": "Olen turisti.",
+      "english": "I am a tourist.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "Finnish does not use articles (a/the), so 'turisti' alone means 'a tourist'.",
+      "words": ["olla", "turisti"]
+    },
+    {
+      "id": "survival-021",
+      "finnish": "Olen kotoisin...",
+      "english": "I am from...",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Am-I originally-from...",
+      "notes": "Follow with the elative case of your country/city, e.g., 'Olen kotoisin Englannista' (I am from England). 'Kotoisin' indicates origin.",
+      "words": ["olla", "kotoisin"]
+    },
+    {
+      "id": "survival-022",
+      "finnish": "Kuinka pääsen...?",
+      "english": "How do I get to...?",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "How get-I-to...?",
+      "notes": "Follow with the illative case of the destination, e.g., 'Kuinka pääsen keskustaan?' (How do I get to the center?). 'Pääsen' is from 'päästä' (to get to/reach).",
+      "words": ["kuinka", "päästä"]
+    },
+    {
+      "id": "survival-023",
+      "finnish": "Missä on lähin...?",
+      "english": "Where is the nearest...?",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Where is nearest...?",
+      "notes": "'Lähin' is the superlative of 'lähellä' (near). Follow with a noun, e.g., 'Missä on lähin apteekki?' (Where is the nearest pharmacy?).",
+      "words": ["missä", "olla", "lähellä"]
+    },
+    {
+      "id": "survival-024",
+      "finnish": "Saanko laskun?",
+      "english": "Can I get the bill?",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Get-I-whether bill?",
+      "notes": "'Saanko' uses the -ko question suffix on 'saan' (I get/may I). Used in restaurants.",
+      "words": ["saada", "lasku"]
+    },
+    {
+      "id": "survival-025",
+      "finnish": "Yksi, kiitos.",
+      "english": "One, please.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "Simple way to order one of something. 'Kiitos' means both 'please' and 'thank you'.",
+      "words": ["yksi", "kiitos"]
+    },
+    {
+      "id": "survival-026",
+      "finnish": "Ei kiitos.",
+      "english": "No thanks.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "Polite refusal. Very commonly used.",
+      "words": ["ei", "kiitos"]
+    },
+    {
+      "id": "survival-027",
+      "finnish": "Kyllä, kiitos.",
+      "english": "Yes, please.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "'Kyllä' is the emphatic yes. In casual speech, 'joo' is more common for yes.",
+      "words": ["kyllä", "kiitos"]
+    },
+    {
+      "id": "survival-028",
+      "finnish": "Minulla on varaus.",
+      "english": "I have a reservation.",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Me-on is reservation.",
+      "notes": "Finnish expresses possession with the adessive case: 'minulla' (on me) + 'on' (is). Used at hotels and restaurants.",
+      "words": ["minä", "olla", "varaus"]
+    },
+    {
+      "id": "survival-029",
+      "finnish": "Puhun vähän suomea.",
+      "english": "I speak a little Finnish.",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Speak-I little Finnish.",
+      "notes": "A great icebreaker. Finns appreciate any effort to speak Finnish.",
+      "words": ["puhua", "vähän", "suomi"]
+    },
+    {
+      "id": "survival-030",
+      "finnish": "Miten tämä sanotaan suomeksi?",
+      "english": "How do you say this in Finnish?",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "How this is-said Finnish-as?",
+      "notes": "'Sanotaan' is the passive form of 'sanoa' (to say). 'Suomeksi' uses the translative case meaning 'in Finnish/as Finnish'.",
+      "words": ["miten", "tämä", "sanoa", "suomi"]
+    },
+    {
+      "id": "survival-031",
+      "finnish": "Kirjoita se, ole hyvä.",
+      "english": "Write it down, please.",
+      "category": "survival",
+      "difficulty": 2,
+      "literalTranslation": "Write it, be good.",
+      "notes": "Informal imperative. 'Ole hyvä' literally means 'be good' and is used as 'please' or 'here you go'. Formal: 'Kirjoittakaa se, olkaa hyvä.'",
+      "words": ["kirjoittaa", "se", "olla", "hyvä"]
+    },
+    {
+      "id": "survival-032",
+      "finnish": "Odota hetki.",
+      "english": "Wait a moment.",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "Wait moment.",
+      "notes": "Informal imperative of 'odottaa'. 'Hetki' means a moment/instant.",
+      "words": ["odottaa", "hetki"]
+    },
+    {
+      "id": "survival-033",
+      "finnish": "Hetkinen.",
+      "english": "Just a moment.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "Very common and natural expression. Diminutive form of 'hetki' (moment). Used constantly in everyday speech.",
+      "words": ["hetki"]
+    },
+    {
+      "id": "survival-034",
+      "finnish": "Minä en tiedä.",
+      "english": "I don't know.",
+      "category": "survival",
+      "difficulty": 1,
+      "literalTranslation": "I not know.",
+      "notes": "Can also be shortened to 'En tiedä' by dropping the pronoun, which is more natural in spoken Finnish.",
+      "words": ["minä", "ei", "tietää"]
+    },
+    {
+      "id": "survival-035",
+      "finnish": "Se on okei.",
+      "english": "It's okay.",
+      "category": "survival",
+      "difficulty": 1,
+      "notes": "'Okei' is a common Finnish loanword from English. 'Se' means 'it/that'.",
+      "words": ["se", "olla"]
+    }
+  ]
+}

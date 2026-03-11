@@ -1,0 +1,234 @@
+@import "tailwindcss";
+
+/* ══════════════════════════════════════════════
+   Design Tokens — Finnish Flag / Nordic Blue
+   ══════════════════════════════════════════════ */
+:root {
+  --color-primary: #003580;
+  --color-primary-light: #1a5fb4;
+  --color-primary-dark: #002455;
+  --color-white: #ffffff;
+  --color-ice: #f0f4f8;
+  --color-frost: #d6e4f0;
+  --color-text-primary: #1a1a2e;
+  --color-text-secondary: #5a6678;
+  --color-success: #2e7d32;
+  --color-success-light: #e8f5e9;
+  --color-error: #c62828;
+  --color-error-light: #ffebee;
+  --color-warning: #f57f17;
+}
+
+/* ══════════════════════════════════════════════
+   Tailwind v4 Theme — Colors, Fonts, Animations
+   ══════════════════════════════════════════════ */
+@theme {
+  /* Colors */
+  --color-primary: #003580;
+  --color-primary-light: #1a5fb4;
+  --color-primary-dark: #002455;
+  --color-ice: #f0f4f8;
+  --color-frost: #d6e4f0;
+  --color-text-primary: #1a1a2e;
+  --color-text-secondary: #5a6678;
+  --color-success: #2e7d32;
+  --color-success-light: #e8f5e9;
+  --color-error: #c62828;
+  --color-error-light: #ffebee;
+  --color-warning: #f57f17;
+
+  /* Font families */
+  --font-display: "Instrument Sans", sans-serif;
+  --font-body: "Source Sans 3", sans-serif;
+  --font-serif: "Source Serif 4", serif;
+
+  /* Animations (usable as Tailwind `animate-*` classes) */
+  --animate-correct: correct-pulse 0.3s ease-out;
+  --animate-shake: shake 0.4s ease-out;
+  --animate-fade-in: fade-slide-in 0.25s ease-out forwards;
+  --animate-spin-slow: spin 1s linear infinite;
+}
+
+/* ══════════════════════════════════════════════
+   Keyframes
+   ══════════════════════════════════════════════ */
+@keyframes correct-pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.02); }
+  100% { transform: scale(1); }
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  20%, 60% { transform: translateX(-6px); }
+  40%, 80% { transform: translateX(6px); }
+}
+
+@keyframes fade-slide-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ══════════════════════════════════════════════
+   Base Styles
+   ══════════════════════════════════════════════ */
+@layer base {
+  html {
+    /* Enable safe area insets on iOS (notch, home indicator) */
+    padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  }
+
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    color: var(--color-text-primary);
+    background-color: var(--color-white);
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* Prevent rubber-band overscroll showing white gaps on mobile */
+    overscroll-behavior-y: contain;
+  }
+
+  #root {
+    min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Smooth focus rings on all interactive elements */
+  *:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+}
+
+/* ══════════════════════════════════════════════
+   Component Layer — Reusable Patterns
+   ══════════════════════════════════════════════ */
+@layer components {
+  /* ── Cards ── */
+  .card {
+    background-color: var(--color-white);
+    border-radius: 0.75rem; /* rounded-xl */
+    border: 1px solid var(--color-frost);
+    padding: 1rem;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  }
+
+  /* ── Primary Button ── */
+  .btn-primary {
+    width: 100%;
+    background-color: var(--color-primary);
+    color: white;
+    font-family: var(--font-display);
+    font-weight: 600;
+    border-radius: 0.5rem; /* rounded-lg */
+    min-height: 48px;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    cursor: pointer;
+    transition: all 200ms ease-out;
+  }
+  .btn-primary:hover {
+    background-color: var(--color-primary-light);
+  }
+  .btn-primary:active {
+    background-color: var(--color-primary-dark);
+    transform: scale(0.98);
+  }
+  .btn-primary:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  /* ── Secondary Button ── */
+  .btn-secondary {
+    width: 100%;
+    background-color: var(--color-ice);
+    color: var(--color-primary);
+    font-family: var(--font-display);
+    font-weight: 600;
+    border-radius: 0.5rem;
+    min-height: 48px;
+    padding: 0.75rem 1.5rem;
+    border: 1px solid var(--color-frost);
+    cursor: pointer;
+    transition: all 200ms ease-out;
+  }
+  .btn-secondary:hover {
+    background-color: var(--color-frost);
+  }
+  .btn-secondary:active {
+    transform: scale(0.98);
+  }
+
+  /* ── Finnish Word Display ── */
+  .finnish-word {
+    font-family: var(--font-serif);
+    color: var(--color-primary);
+  }
+  .finnish-word-lg {
+    font-family: var(--font-serif);
+    font-size: 1.5rem; /* text-2xl */
+    font-weight: 500;
+    color: var(--color-primary);
+  }
+
+  /* ── Progress Bar ── */
+  .progress-bar {
+    width: 100%;
+    height: 0.5rem;
+    background-color: var(--color-frost);
+    border-radius: 9999px;
+    overflow: hidden;
+  }
+  .progress-bar-fill {
+    height: 100%;
+    background-color: var(--color-primary);
+    border-radius: 9999px;
+    transition: width 500ms ease-out;
+  }
+
+  /* ── Answer Feedback States ── */
+  .answer-correct {
+    animation: correct-pulse 0.3s ease-out;
+    background-color: var(--color-success-light);
+    border-color: var(--color-success);
+  }
+  .answer-wrong {
+    animation: shake 0.4s ease-out;
+    background-color: var(--color-error-light);
+    border-color: var(--color-error);
+  }
+
+  /* ── Page Entrance ── */
+  .page-enter {
+    animation: fade-slide-in 0.25s ease-out forwards;
+  }
+
+  /* ── Staggered Card Entrance ── */
+  .stagger-enter {
+    opacity: 0;
+    animation: fade-slide-in 0.25s ease-out forwards;
+  }
+}
+
+/* ══════════════════════════════════════════════
+   Reduced Motion — Accessibility
+   ══════════════════════════════════════════════ */
+@media (prefers-reduced-motion: reduce) {
+  .answer-correct,
+  .answer-wrong,
+  .page-enter,
+  .stagger-enter {
+    animation: none !important;
+    opacity: 1;
+  }
+}

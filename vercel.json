@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/((?!assets|icons|sw\\.js|workbox-.*\\.js|manifest\\.webmanifest|registerSW\\.js|offline\\.html|favicon\\.svg).*)", "destination": "/index.html" }
+  ]
+}

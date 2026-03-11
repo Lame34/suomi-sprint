@@ -1,0 +1,441 @@
+{
+  "category": "adjectives",
+  "categoryLabel": "Common Adjectives",
+  "icon": "sliders",
+  "description": "Frequently used adjectives for describing things",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "adjectives-001",
+      "finnish": "hyvä",
+      "english": "good",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Tämä on hyvä kirja. — This is a good book.", "Hyvää päivää! — Good day!"]
+    },
+    {
+      "id": "adjectives-002",
+      "finnish": "huono",
+      "english": "bad",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Sää on huono tänään. — The weather is bad today.", "Huono idea! — Bad idea!"]
+    },
+    {
+      "id": "adjectives-003",
+      "finnish": "iso",
+      "english": "big, large",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Talo on iso. — The house is big.", "Hänellä on iso koira. — He/she has a big dog."]
+    },
+    {
+      "id": "adjectives-004",
+      "finnish": "pieni",
+      "english": "small, little",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Kissa on pieni. — The cat is small.", "Pieni hetki, kiitos. — One small moment, please."]
+    },
+    {
+      "id": "adjectives-005",
+      "finnish": "pitkä",
+      "english": "long, tall",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Tie on pitkä. — The road is long.", "Hän on pitkä mies. — He is a tall man."]
+    },
+    {
+      "id": "adjectives-006",
+      "finnish": "lyhyt",
+      "english": "short",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Matka on lyhyt. — The journey is short.", "Hänellä on lyhyet hiukset. — He/she has short hair."]
+    },
+    {
+      "id": "adjectives-007",
+      "finnish": "uusi",
+      "english": "new",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Minulla on uusi auto. — I have a new car.", "Uusi vuosi alkaa tammikuussa. — The new year starts in January."]
+    },
+    {
+      "id": "adjectives-008",
+      "finnish": "vanha",
+      "english": "old",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Tämä kirkko on vanha. — This church is old.", "Vanha ystävä on paras ystävä. — An old friend is the best friend."]
+    },
+    {
+      "id": "adjectives-009",
+      "finnish": "nuori",
+      "english": "young",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Hän on nuori nainen. — She is a young woman.", "Nuoret oppivat nopeasti. — Young people learn fast."]
+    },
+    {
+      "id": "adjectives-010",
+      "finnish": "nopea",
+      "english": "fast, quick",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Juna on nopea. — The train is fast.", "Nopea vastaus, kiitos. — A quick answer, please."]
+    },
+    {
+      "id": "adjectives-011",
+      "finnish": "hidas",
+      "english": "slow",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Stem changes: hidas → hitaa- in inflected forms (e.g. partitive: hidasta, genitive: hitaan).",
+      "examples": ["Bussi on hidas. — The bus is slow.", "Puhu hitaasti, kiitos. — Speak slowly, please."]
+    },
+    {
+      "id": "adjectives-012",
+      "finnish": "helppo",
+      "english": "easy",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Tämä tehtävä on helppo. — This task is easy.", "Suomi ei ole helppo kieli. — Finnish is not an easy language."]
+    },
+    {
+      "id": "adjectives-013",
+      "finnish": "vaikea",
+      "english": "difficult, hard",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Tentti oli vaikea. — The exam was difficult.", "Tämä on vaikea kysymys. — This is a difficult question."]
+    },
+    {
+      "id": "adjectives-014",
+      "finnish": "kaunis",
+      "english": "beautiful",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Stem changes: kaunis → kaunii- in inflected forms (e.g. partitive: kaunista, genitive: kauniin).",
+      "examples": ["Suomi on kaunis maa. — Finland is a beautiful country.", "Kaunis päivä! — Beautiful day!"]
+    },
+    {
+      "id": "adjectives-015",
+      "finnish": "ruma",
+      "english": "ugly",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Tuo rakennus on ruma. — That building is ugly.", "Ruma ankanpoikanen on satu. — The ugly duckling is a fairy tale."]
+    },
+    {
+      "id": "adjectives-016",
+      "finnish": "suuri",
+      "english": "great, large",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Stem changes: suuri → suure- in inflected forms (e.g. partitive: suurta, genitive: suuren). More formal than 'iso'.",
+      "examples": ["Se on suuri ongelma. — It is a big problem.", "Kiitos, suuri kiitos! — Thanks, many thanks!"]
+    },
+    {
+      "id": "adjectives-017",
+      "finnish": "tärkeä",
+      "english": "important",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Tämä on tärkeä asia. — This is an important matter.", "Terveys on tärkeää. — Health is important."]
+    },
+    {
+      "id": "adjectives-018",
+      "finnish": "hauska",
+      "english": "fun, funny",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Peli on hauska. — The game is fun.", "Hauska tutustua! — Nice to meet you!"]
+    },
+    {
+      "id": "adjectives-019",
+      "finnish": "mukava",
+      "english": "nice, pleasant",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Hän on mukava ihminen. — He/she is a nice person.", "Mukava nähdä sinua! — Nice to see you!"]
+    },
+    {
+      "id": "adjectives-020",
+      "finnish": "kiva",
+      "english": "nice, cool",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Informal synonym of 'mukava'. Very common in spoken Finnish, especially among younger speakers.",
+      "examples": ["Se oli kiva ilta. — It was a nice evening.", "Kiva kun tulit! — Nice that you came!"]
+    },
+    {
+      "id": "adjectives-021",
+      "finnish": "hyvännäköinen",
+      "english": "good-looking",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Compound adjective: 'hyvän' (good, genitive) + 'näköinen' (looking). Follows -inen declension pattern. Used for people.",
+      "examples": ["Hän on hyvännäköinen mies. — He is a good-looking man.", "Hyvännäköinen tarjoilija hymyili. — The good-looking waiter smiled."]
+    },
+    {
+      "id": "adjectives-022",
+      "finnish": "vahva",
+      "english": "strong",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Kahvi on vahvaa. — The coffee is strong.", "Hän on vahva nainen. — She is a strong woman."]
+    },
+    {
+      "id": "adjectives-023",
+      "finnish": "heikko",
+      "english": "weak",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Stem changes: heikko → heiko- in some forms due to consonant gradation (kk → k). Opposite of 'vahva'.",
+      "examples": ["Signaali on heikko. — The signal is weak.", "Tee on liian heikkoa. — The tea is too weak."]
+    },
+    {
+      "id": "adjectives-024",
+      "finnish": "paksu",
+      "english": "thick, fat",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Used for objects (thick book, thick wall). For people, 'lihava' is more common for 'fat'. Partitive: paksua.",
+      "examples": ["Kirja on paksu. — The book is thick.", "Jää on paksua. — The ice is thick."]
+    },
+    {
+      "id": "adjectives-025",
+      "finnish": "ohut",
+      "english": "thin",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Stem changes: ohut → ohue- in inflected forms (e.g. partitive: ohutta, genitive: ohuen). Opposite of 'paksu'.",
+      "examples": ["Jää on ohutta. — The ice is thin.", "Tämä kangas on ohut. — This fabric is thin."]
+    },
+    {
+      "id": "adjectives-026",
+      "finnish": "leveä",
+      "english": "wide, broad",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Note the front vowels (e, ä). Partitive: leveää. Often used for roads, rivers, and shoulders.",
+      "examples": ["Joki on leveä. — The river is wide.", "Tie on leveä ja suora. — The road is wide and straight."]
+    },
+    {
+      "id": "adjectives-027",
+      "finnish": "kapea",
+      "english": "narrow",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Opposite of 'leveä'. Partitive: kapeaa. Common in describing streets, passages, and physical shapes.",
+      "examples": ["Katu on kapea. — The street is narrow.", "Kapea polku vie metsään. — A narrow path leads to the forest."]
+    },
+    {
+      "id": "adjectives-028",
+      "finnish": "kevyt",
+      "english": "light (weight)",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Refers to weight, not brightness. Stem changes: kevyt → kevye- (e.g. partitive: kevyttä, genitive: kevyen). Also used for light food/meals.",
+      "examples": ["Laukku on kevyt. — The bag is light.", "Haluaisin kevyen lounaan. — I would like a light lunch."]
+    },
+    {
+      "id": "adjectives-029",
+      "finnish": "raskas",
+      "english": "heavy",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Stem changes: raskas → raskaa- in inflected forms (e.g. partitive: raskasta, genitive: raskaan). Also used figuratively: 'raskas päivä' (a heavy/tough day).",
+      "examples": ["Laatikko on raskas. — The box is heavy.", "Työ on raskasta. — The work is heavy/hard."]
+    },
+    {
+      "id": "adjectives-030",
+      "finnish": "pehmeä",
+      "english": "soft",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Note the front vowels (e, ä). Partitive: pehmeää. Used for texture, materials, and figuratively for personality.",
+      "examples": ["Tyyny on pehmeä. — The pillow is soft.", "Vauvan iho on pehmeä. — The baby's skin is soft."]
+    },
+    {
+      "id": "adjectives-031",
+      "finnish": "kova",
+      "english": "hard, loud",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Kivi on kova. — The stone is hard.", "Musiikki on liian kovalla. — The music is too loud."]
+    },
+    {
+      "id": "adjectives-032",
+      "finnish": "tyhjä",
+      "english": "empty",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Note the front vowels (y, ä). Partitive: tyhjää. Can also be used figuratively: 'tyhjä lupaus' (an empty promise).",
+      "examples": ["Lasi on tyhjä. — The glass is empty.", "Huone on tyhjä. — The room is empty."]
+    },
+    {
+      "id": "adjectives-033",
+      "finnish": "täysi",
+      "english": "full",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Stem changes: täysi → täyde- in some inflected forms (e.g. partitive: täyttä, genitive: täyden). Also 'täynnä' means 'full of'.",
+      "examples": ["Bussi on täynnä. — The bus is full.", "Lasi on täysi. — The glass is full."]
+    },
+    {
+      "id": "adjectives-034",
+      "finnish": "puhdas",
+      "english": "clean, pure",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Stem changes: puhdas → puhtaa- in inflected forms (e.g. partitive: puhdasta, genitive: puhtaan). Consonant gradation: hd → ht.",
+      "examples": ["Vesi on puhdasta. — The water is clean.", "Ilma on puhdasta Suomessa. — The air is pure in Finland."]
+    },
+    {
+      "id": "adjectives-035",
+      "finnish": "likainen",
+      "english": "dirty",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'lika' (dirt). Follows -inen adjective declension: likainen → likaista (partitive), likaisen (genitive).",
+      "examples": ["Vaatteet ovat likaiset. — The clothes are dirty.", "Älä koske, se on likainen! — Don't touch, it is dirty!"]
+    },
+    {
+      "id": "adjectives-036",
+      "finnish": "märkä",
+      "english": "wet",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Stem changes due to consonant gradation: märkä → märä- (rk → r) in some forms. Partitive: märkää.",
+      "examples": ["Lattia on märkä. — The floor is wet.", "Älä astu märälle lattialle! — Don't step on the wet floor!"]
+    },
+    {
+      "id": "adjectives-037",
+      "finnish": "kuiva",
+      "english": "dry",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Opposite of 'märkä'. Partitive: kuivaa. Also used figuratively: 'kuiva huumori' (dry humor).",
+      "examples": ["Pyyhkeet ovat kuivat. — The towels are dry.", "Kesä oli kuiva. — The summer was dry."]
+    },
+    {
+      "id": "adjectives-038",
+      "finnish": "totta",
+      "english": "true",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Partitive form of 'tosi' (true/real). Used predicatively: 'Se on totta' (It is true). 'Tosi' is also used as an informal intensifier meaning 'really'.",
+      "examples": ["Se on totta! — That is true!", "Onko se totta? — Is it true?"]
+    },
+    {
+      "id": "adjectives-039",
+      "finnish": "mahdollinen",
+      "english": "possible",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'mahto' (might/power). Follows -inen declension: mahdollista (partitive), mahdollisen (genitive). Often used with 'on': 'Se on mahdollista' (It is possible).",
+      "examples": ["Kaikki on mahdollista. — Everything is possible.", "Se ei ole mahdollista. — It is not possible."]
+    },
+    {
+      "id": "adjectives-040",
+      "finnish": "mahdoton",
+      "english": "impossible",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 3,
+      "notes": "Negative form of 'mahdollinen', using the -ton/-tön suffix which indicates absence. Stem: mahdottoma- (e.g. partitive: mahdotonta). The double 't' is critical.",
+      "examples": ["Tehtävä on mahdoton. — The task is impossible.", "Se tuntuu mahdottomalta. — It feels impossible."]
+    },
+    {
+      "id": "adjectives-041",
+      "finnish": "tavallinen",
+      "english": "ordinary, usual",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'tapa' (habit/way). Follows -inen declension. 'Tavallisesti' is the adverb form meaning 'usually'.",
+      "examples": ["Se on tavallinen päivä. — It is an ordinary day.", "Tämä on tavallista. — This is normal/usual."]
+    },
+    {
+      "id": "adjectives-042",
+      "finnish": "erikoinen",
+      "english": "special, unusual",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'eri' (different/separate). Follows -inen declension. Can have positive or neutral connotation, unlike 'outo' (strange/weird).",
+      "examples": ["Tämä on erikoinen tapaus. — This is a special case.", "Ruoka oli erikoista. — The food was unusual."]
+    },
+    {
+      "id": "adjectives-043",
+      "finnish": "samanlainen",
+      "english": "similar, the same kind",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 3,
+      "notes": "Compound: 'saman' (same, genitive) + 'lainen' (kind of). Follows -inen declension. Takes 'kuin' for comparison: 'samanlainen kuin sinä' (similar to you).",
+      "examples": ["Meillä on samanlaiset kengät. — We have similar shoes.", "Tämä on samanlainen kuin edellinen. — This one is similar to the previous one."]
+    },
+    {
+      "id": "adjectives-044",
+      "finnish": "erilainen",
+      "english": "different",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Compound: 'eri' (different) + 'lainen' (kind of). Follows -inen declension. Takes 'kuin' for comparison: 'erilainen kuin muut' (different from others).",
+      "examples": ["Jokainen ihminen on erilainen. — Every person is different.", "Tämä on erilainen kuin tuo. — This is different from that."]
+    },
+    {
+      "id": "adjectives-045",
+      "finnish": "viimeinen",
+      "english": "last, final",
+      "category": "adjectives",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'viime' (last, as in most recent). Follows -inen declension. 'Viime' is used for time (viime viikolla = last week), 'viimeinen' for sequences (viimeinen sivu = the last page).",
+      "examples": ["Tämä on viimeinen kysymys. — This is the last question.", "Hän oli viimeinen jonossa. — He/she was the last in the queue."]
+    }
+  ]
+}

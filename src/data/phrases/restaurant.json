@@ -1,0 +1,288 @@
+{
+  "category": "restaurant",
+  "categoryLabel": "At a Restaurant",
+  "icon": "utensils-crossed",
+  "description": "Ordering food, asking about the menu, and dining out",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "restaurant-001",
+      "finnish": "Pöytä kahdelle, kiitos.",
+      "english": "A table for two, please.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Table for-two, thanks.",
+      "notes": "Standard polite request when entering a restaurant. 'Kahdelle' is the allative form of 'kaksi'.",
+      "words": ["pöytä", "kaksi", "kiitos"]
+    },
+    {
+      "id": "restaurant-002",
+      "finnish": "Saanko ruokalistan?",
+      "english": "Can I get the menu?",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "May-I-get the food-list?",
+      "notes": "Polite request. 'Ruokalista' is a compound of 'ruoka' (food) + 'lista' (list). 'Saanko' is a polite way to ask permission.",
+      "words": ["saada", "ruokalista"]
+    },
+    {
+      "id": "restaurant-003",
+      "finnish": "Mitä suosittelette?",
+      "english": "What do you recommend?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "What recommend-you?",
+      "notes": "Formal/plural 'te' form, appropriate for addressing restaurant staff. 'Suosittelette' is the te-form of 'suositella'.",
+      "words": ["mikä", "suositella"]
+    },
+    {
+      "id": "restaurant-004",
+      "finnish": "Haluaisin tilata.",
+      "english": "I would like to order.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "I-would-like to-order.",
+      "notes": "Conditional form 'haluaisin' is more polite than 'haluan' (I want). Standard way to signal readiness to order.",
+      "words": ["haluta", "tilata"]
+    },
+    {
+      "id": "restaurant-005",
+      "finnish": "Otan tämän.",
+      "english": "I'll take this.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "I-take this.",
+      "notes": "Simple and direct way to order while pointing at a menu item. Very common in casual dining.",
+      "words": ["ottaa", "tämä"]
+    },
+    {
+      "id": "restaurant-006",
+      "finnish": "Yksi kahvi, kiitos.",
+      "english": "One coffee, please.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "notes": "Straightforward order. Finns are among the world's biggest coffee drinkers — ordering coffee is extremely common.",
+      "words": ["yksi", "kahvi", "kiitos"]
+    },
+    {
+      "id": "restaurant-007",
+      "finnish": "Voisinko saada vettä?",
+      "english": "Could I get water?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Could-I get water?",
+      "notes": "Very polite conditional form. 'Voisinko' (could I) is the conditional of 'voida' + question suffix '-ko'. 'Vettä' is the partitive of 'vesi'. In Finland, tap water is free and excellent quality.",
+      "words": ["voida", "saada", "vesi"]
+    },
+    {
+      "id": "restaurant-008",
+      "finnish": "Onko teillä kasvisruokaa?",
+      "english": "Do you have vegetarian food?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Is at-you vegetarian-food?",
+      "notes": "Formal 'te' form ('teillä' = at you, formal/plural). 'Kasvisruoka' is a compound: 'kasvis' (vegetable) + 'ruoka' (food). Partitive 'kasvisruokaa' used in questions about existence.",
+      "words": ["olla", "kasvisruoka"]
+    },
+    {
+      "id": "restaurant-009",
+      "finnish": "Olen allerginen pähkinöille.",
+      "english": "I am allergic to nuts.",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "I-am allergic to-nuts.",
+      "notes": "Important safety phrase. 'Pähkinöille' is the allative plural of 'pähkinä'. Always inform staff about allergies in Finland — they take this seriously.",
+      "words": ["olla", "allerginen", "pähkinä"]
+    },
+    {
+      "id": "restaurant-010",
+      "finnish": "Ilman maitoa, kiitos.",
+      "english": "Without milk, please.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Without milk, thanks.",
+      "notes": "'Ilman' (without) takes the partitive case: 'maitoa'. Useful when ordering coffee or tea.",
+      "words": ["ilman", "maito", "kiitos"]
+    },
+    {
+      "id": "restaurant-011",
+      "finnish": "Sama minulle.",
+      "english": "Same for me.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Same for-me.",
+      "notes": "Quick way to duplicate a companion's order. 'Minulle' is the allative of 'minä'.",
+      "words": ["sama", "minä"]
+    },
+    {
+      "id": "restaurant-012",
+      "finnish": "Saisinko laskun?",
+      "english": "Could I get the bill?",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Could-I-get the bill?",
+      "notes": "Polite conditional form of 'saada'. In Finland, the bill is usually not brought until requested. Tipping is not expected but rounding up is appreciated.",
+      "words": ["saada", "lasku"]
+    },
+    {
+      "id": "restaurant-013",
+      "finnish": "Voinko maksaa kortilla?",
+      "english": "Can I pay by card?",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Can-I pay by-card?",
+      "notes": "Finland is very card-friendly — almost everywhere accepts card payments, even small amounts.",
+      "words": ["voida", "maksaa", "kortti"]
+    },
+    {
+      "id": "restaurant-014",
+      "finnish": "Ruoka oli hyvää!",
+      "english": "The food was good!",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Food was good!",
+      "notes": "'Hyvää' is partitive of 'hyvä', used because 'ruoka' is an uncountable/mass concept here. A nice compliment to give.",
+      "words": ["ruoka", "olla", "hyvä"]
+    },
+    {
+      "id": "restaurant-015",
+      "finnish": "Kiitos, oli herkullista!",
+      "english": "Thanks, it was delicious!",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Thanks, was delicious!",
+      "notes": "'Herkullista' is the partitive of 'herkullinen'. A stronger compliment than 'hyvää'. Finns appreciate sincere but brief compliments about food.",
+      "words": ["kiitos", "olla", "herkullinen"]
+    },
+    {
+      "id": "restaurant-016",
+      "finnish": "Onko tämä gluteeniton?",
+      "english": "Is this gluten-free?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Is this gluten-free?",
+      "notes": "Important dietary question. 'Gluteeniton' follows the Finnish '-ton/-tön' suffix pattern meaning 'without'. Finland has good awareness of celiac disease and gluten-free options are widely available.",
+      "words": ["olla", "tämä", "gluteeniton"]
+    },
+    {
+      "id": "restaurant-017",
+      "finnish": "Haluaisin lisää leipää.",
+      "english": "I'd like more bread.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "I-would-like more bread.",
+      "notes": "Polite conditional 'haluaisin'. 'Leipää' is partitive of 'leipä'. Bread is a staple at Finnish meals — rye bread (ruisleipä) is the most traditional.",
+      "words": ["haluta", "lisää", "leipä"]
+    },
+    {
+      "id": "restaurant-018",
+      "finnish": "Tämä ei ole minun tilaukseni.",
+      "english": "This is not my order.",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "This not is my order-my.",
+      "notes": "Polite way to flag a mistake. 'Tilaukseni' = 'tilaus' (order) + possessive suffix '-ni' (my). Finnish negation uses 'ei' + verb stem.",
+      "words": ["tämä", "ei", "olla", "minä", "tilaus"]
+    },
+    {
+      "id": "restaurant-019",
+      "finnish": "Saanko maistaa?",
+      "english": "Can I taste/try?",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "May-I-get taste?",
+      "notes": "Useful when someone else's dish looks appealing or when offered a sample. 'Maistaa' means to taste or try food.",
+      "words": ["saada", "maistaa"]
+    },
+    {
+      "id": "restaurant-020",
+      "finnish": "Kaksi olutta, kiitos.",
+      "english": "Two beers, please.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "Two beer, thanks.",
+      "notes": "'Olutta' is the partitive singular of 'olut', used after numbers. Finland has a thriving craft beer scene alongside traditional lagers.",
+      "words": ["kaksi", "olut", "kiitos"]
+    },
+    {
+      "id": "restaurant-021",
+      "finnish": "Onko teillä lounaslistaa?",
+      "english": "Do you have a lunch menu?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Is at-you lunch-list?",
+      "notes": "Formal 'te' form. 'Lounaslista' is a compound: 'lounas' (lunch) + 'lista' (list). Many Finnish restaurants offer affordable set lunch menus ('lounas') on weekdays, typically 10–15 euros including salad, bread, drink, and coffee.",
+      "words": ["olla", "lounas", "lounaslista"]
+    },
+    {
+      "id": "restaurant-022",
+      "finnish": "Mitä päivän keitto on?",
+      "english": "What is the soup of the day?",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "What day's soup is?",
+      "notes": "'Päivän' is the genitive of 'päivä' (day). Soup of the day is a very common lunch option in Finnish restaurants and workplace cafeterias.",
+      "words": ["mikä", "päivä", "keitto", "olla"]
+    },
+    {
+      "id": "restaurant-023",
+      "finnish": "Otan jälkiruoan.",
+      "english": "I'll take dessert.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "I-take the after-food.",
+      "notes": "'Jälkiruoka' is a compound: 'jälki' (after) + 'ruoka' (food). The accusative form 'jälkiruoan' indicates a specific dessert.",
+      "words": ["ottaa", "jälkiruoka"]
+    },
+    {
+      "id": "restaurant-024",
+      "finnish": "Kiitos hyvästä ruoasta!",
+      "english": "Thanks for the good food!",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Thanks good-from food-from!",
+      "notes": "Elative case used after 'kiitos' to express what you are thankful for: 'hyvästä' (from 'hyvä') and 'ruoasta' (from 'ruoka'). A warm way to thank the host or staff.",
+      "words": ["kiitos", "hyvä", "ruoka"]
+    },
+    {
+      "id": "restaurant-025",
+      "finnish": "Voisimmeko istua terassille?",
+      "english": "Could we sit on the terrace?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Could-we sit to-terrace?",
+      "notes": "'Voisimmeko' is the conditional 'we' form of 'voida' + question suffix. 'Terassille' is the allative of 'terassi'. Terrace dining is cherished during Finnish summers when daylight lasts very long.",
+      "words": ["voida", "istua", "terassi"]
+    },
+    {
+      "id": "restaurant-026",
+      "finnish": "Onko tässä palvelurahaa?",
+      "english": "Is service charge included?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Is in-this service-money?",
+      "notes": "'Palveluraha' is a compound: 'palvelu' (service) + 'raha' (money). In Finland, service charge is typically included in the price and tipping is not customary, though it is appreciated for exceptional service.",
+      "words": ["olla", "tämä", "palveluraha"]
+    },
+    {
+      "id": "restaurant-027",
+      "finnish": "Haluatteko juotavaa?",
+      "english": "Would you like something to drink?",
+      "category": "restaurant",
+      "difficulty": 2,
+      "literalTranslation": "Want-you something-to-drink?",
+      "notes": "Formal 'te' form — a question the waiter might ask you. 'Juotavaa' is the partitive of the verbal noun 'juotava' (something drinkable), derived from 'juoda' (to drink).",
+      "words": ["haluta", "juoda"]
+    },
+    {
+      "id": "restaurant-028",
+      "finnish": "Yksi lasi punaviiniä, kiitos.",
+      "english": "One glass of red wine, please.",
+      "category": "restaurant",
+      "difficulty": 1,
+      "literalTranslation": "One glass red-wine, thanks.",
+      "notes": "'Punaviini' is a compound: 'puna' (red) + 'viini' (wine). 'Punaviiniä' is the partitive, used when ordering a portion of something.",
+      "words": ["yksi", "lasi", "punaviini", "kiitos"]
+    }
+  ]
+}

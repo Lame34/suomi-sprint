@@ -1,0 +1,289 @@
+{
+  "category": "body",
+  "categoryLabel": "Body & Health",
+  "icon": "heart-pulse",
+  "description": "Body parts, health, and physical well-being",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "body-001",
+      "finnish": "pää",
+      "english": "head",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Also used in many compound words: 'olkapää' (shoulder), 'polvi·pää' (kneecap). Stem: pää- (no change).",
+      "examples": ["Minun päätä särkee. — My head aches.", "Hän nyökkäsi päätään. — He/she nodded his/her head."]
+    },
+    {
+      "id": "body-002",
+      "finnish": "silmä",
+      "english": "eye",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the 'ä'. Plural: 'silmät'. Finnish has front vowel harmony — ä stays ä in suffixes.",
+      "examples": ["Hänellä on siniset silmät. — He/she has blue eyes.", "Sulje silmäsi. — Close your eyes."]
+    },
+    {
+      "id": "body-003",
+      "finnish": "korva",
+      "english": "ear",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Plural: 'korvat'. 'Korvakorut' = earrings (compound: korva + korut).",
+      "examples": ["Minulla on korvakipu. — I have an earache.", "Hänellä on hyvät korvat musiikille. — He/she has a good ear for music."]
+    },
+    {
+      "id": "body-004",
+      "finnish": "nenä",
+      "english": "nose",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the 'ä'. 'Nenäliina' = handkerchief (literally 'nose cloth').",
+      "examples": ["Minun nenäni vuotaa. — My nose is running.", "Hänellä on punainen nenä. — He/she has a red nose."]
+    },
+    {
+      "id": "body-005",
+      "finnish": "suu",
+      "english": "mouth",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Short word with double vowel. Stem: suu- (no change). 'Avaa suu' = open your mouth.",
+      "examples": ["Avaa suusi. — Open your mouth.", "Pidä suusi kiinni! — Keep your mouth shut!"]
+    },
+    {
+      "id": "body-006",
+      "finnish": "hammas",
+      "english": "tooth",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Important stem change: hammas → hampaa- (e.g., 'hampaat' = teeth, 'hammaslääkäri' = dentist). Consonant gradation: mm → mp.",
+      "examples": ["Minulla on hammassärky. — I have a toothache.", "Käyn hammaslääkärissä. — I'm going to the dentist."]
+    },
+    {
+      "id": "body-007",
+      "finnish": "kieli",
+      "english": "tongue / language",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Dual meaning: both the body part 'tongue' and 'language'. 'Suomen kieli' = Finnish language. Stem: kiele-.",
+      "examples": ["Näytä kieltä. — Stick out your tongue.", "Mitä kieltä puhut? — What language do you speak?"]
+    },
+    {
+      "id": "body-008",
+      "finnish": "tukka",
+      "english": "hair (on head)",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Tukka' refers to hair on the head collectively. 'Hiukset' = individual hairs/strands. 'Karva' = body hair.",
+      "examples": ["Hänellä on pitkä tukka. — He/she has long hair.", "Minun täytyy leikata tukka. — I need to cut my hair."]
+    },
+    {
+      "id": "body-009",
+      "finnish": "käsi",
+      "english": "hand / arm",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish does not distinguish between hand and arm — 'käsi' covers both. Stem: käde- (e.g., 'kädessä' = in the hand). Consonant gradation: s → d.",
+      "examples": ["Anna kätesi. — Give me your hand.", "Hän nosti käden ylös. — He/she raised a hand up."]
+    },
+    {
+      "id": "body-010",
+      "finnish": "sormi",
+      "english": "finger",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Plural: 'sormet'. 'Etusormi' = index finger, 'peukalo' = thumb, 'nimetön' = ring finger (literally 'nameless').",
+      "examples": ["Poltin sormeni. — I burned my finger.", "Hänellä on sormus sormessa. — He/she has a ring on the finger."]
+    },
+    {
+      "id": "body-011",
+      "finnish": "jalka",
+      "english": "leg / foot",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish does not distinguish between leg and foot — 'jalka' covers both. Stem: jala- (consonant gradation: lk → l). 'Jalkine' = footwear.",
+      "examples": ["Minun jalkani on kipeä. — My leg/foot is sore.", "Hän seisoo yhdellä jalalla. — He/she is standing on one leg."]
+    },
+    {
+      "id": "body-012",
+      "finnish": "polvi",
+      "english": "knee",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Plural: 'polvet'. 'Polvistua' = to kneel.",
+      "examples": ["Minun polveni on kipeä. — My knee hurts.", "Hän polvistui maahan. — He/she knelt on the ground."]
+    },
+    {
+      "id": "body-013",
+      "finnish": "selkä",
+      "english": "back",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the 'ä'. 'Selkäkipu' = back pain. 'Selkäranka' = spine (literally 'back rail').",
+      "examples": ["Minun selkäni on kipeä. — My back hurts.", "Hän kääntyi selkä edellä. — He/she turned with back first."]
+    },
+    {
+      "id": "body-014",
+      "finnish": "vatsa",
+      "english": "stomach",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Vatsakipu' = stomachache. 'Vatsani on täynnä' = my stomach is full.",
+      "examples": ["Minulla on vatsavaivoja. — I have stomach troubles.", "Vatsa on tyhjä. — The stomach is empty."]
+    },
+    {
+      "id": "body-015",
+      "finnish": "sydän",
+      "english": "heart",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the 'ä'. Important stem change: sydän → sydäme- (e.g., 'sydämessä' = in the heart). Used both literally and figuratively.",
+      "examples": ["Sydämeni lyö nopeasti. — My heart is beating fast.", "Hän on hyvä·sydäminen. — He/she is kind-hearted."]
+    },
+    {
+      "id": "body-016",
+      "finnish": "keho",
+      "english": "body",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Ruumis' is another word for body but often refers to a dead body/corpse. 'Keho' is the neutral term for a living body.",
+      "examples": ["Ihmisen keho on ihmeellinen. — The human body is amazing.", "Liikunta on hyväksi keholle. — Exercise is good for the body."]
+    },
+    {
+      "id": "body-017",
+      "finnish": "iho",
+      "english": "skin",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Ihovoide' = skin cream/lotion. 'Ihottuma' = rash.",
+      "examples": ["Hänellä on herkkä iho. — He/she has sensitive skin.", "Aurinko poltti ihoni. — The sun burned my skin."]
+    },
+    {
+      "id": "body-018",
+      "finnish": "luu",
+      "english": "bone",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Short word with double vowel. Plural: 'luut'. 'Luuranko' = skeleton.",
+      "examples": ["Hän mursi luun. — He/she broke a bone.", "Koira pureksii luuta. — The dog is chewing on a bone."]
+    },
+    {
+      "id": "body-019",
+      "finnish": "veri",
+      "english": "blood",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: vere- (e.g., 'veressä' = in the blood). 'Verikoe' = blood test. 'Verenpaine' = blood pressure.",
+      "examples": ["Hän antoi verta. — He/she donated blood.", "Verenpaine on normaali. — Blood pressure is normal."]
+    },
+    {
+      "id": "body-020",
+      "finnish": "aivot",
+      "english": "brain",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Always plural in Finnish — there is no singular form 'aivo' in common use. Similar to English 'scissors'.",
+      "examples": ["Aivot tarvitsevat lepoa. — The brain needs rest.", "Käytä aivojasi! — Use your brain!"]
+    },
+    {
+      "id": "body-021",
+      "finnish": "olkapää",
+      "english": "shoulder",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Compound word: 'olka' (shoulder area) + 'pää' (head/end). Plural: 'olkapäät'.",
+      "examples": ["Minun olkapääni on kipeä. — My shoulder hurts.", "Hän kohauttaa olkapäitään. — He/she shrugs his/her shoulders."]
+    },
+    {
+      "id": "body-022",
+      "finnish": "rinta",
+      "english": "chest / breast",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Refers to the chest area generally. 'Rintakehä' = rib cage/chest. Stem: rinna- (consonant gradation: nt → nn).",
+      "examples": ["Minulla on kipua rinnassa. — I have pain in my chest.", "Hän painoi käden rintaansa vasten. — He/she pressed a hand against his/her chest."]
+    },
+    {
+      "id": "body-023",
+      "finnish": "kaula",
+      "english": "neck",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Kaulaliina' = scarf (literally 'neck cloth'). 'Kaulakorut' = necklaces.",
+      "examples": ["Minun kaulani on jäykkä. — My neck is stiff.", "Hän pani kaulaliinan kaulaan. — He/she put a scarf around the neck."]
+    },
+    {
+      "id": "body-024",
+      "finnish": "lääkäri",
+      "english": "doctor",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Note the double 'ää'. 'Hammaslääkäri' = dentist, 'eläinlääkäri' = veterinarian. 'Menen lääkäriin' = I'm going to the doctor.",
+      "examples": ["Minun täytyy mennä lääkäriin. — I need to go to the doctor.", "Lääkäri tutkii potilaan. — The doctor examines the patient."]
+    },
+    {
+      "id": "body-025",
+      "finnish": "sairas",
+      "english": "sick / ill",
+      "category": "body",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Stem: sairaa- (e.g., 'sairaana' = while sick). 'Sairaala' = hospital. 'Sairaus' = illness/disease.",
+      "examples": ["Olen sairas tänään. — I am sick today.", "Hän on ollut sairaana viikon. — He/she has been sick for a week."]
+    },
+    {
+      "id": "body-026",
+      "finnish": "kuume",
+      "english": "fever",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Very useful health word. 'Minulla on kuume' = I have a fever. Related: 'kuumemittari' = thermometer.",
+      "examples": ["Minulla on kuume, en voi tulla töihin. — I have a fever, I can't come to work."]
+    },
+    {
+      "id": "body-027",
+      "finnish": "kipu",
+      "english": "pain",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Kipulääke' = painkiller. 'Kipeä' = sore/painful (adjective). 'Särky' = ache (e.g., 'päänsärky' = headache).",
+      "examples": ["Tunnen kipua jaloissani. — I feel pain in my legs.", "Kipu on kova. — The pain is intense."]
+    },
+    {
+      "id": "body-028",
+      "finnish": "lääke",
+      "english": "medicine / medication",
+      "category": "body",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Note the double 'ää'. Stem: lääkkee- (e.g., 'lääkkeeni' = my medicine). 'Apteekki' = pharmacy. 'Kipulääke' = painkiller.",
+      "examples": ["Otatko lääkettä? — Are you taking medicine?", "Lääke auttoi heti. — The medicine helped right away."]
+    }
+  ]
+}

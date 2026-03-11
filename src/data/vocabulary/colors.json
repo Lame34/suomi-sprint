@@ -1,0 +1,189 @@
+{
+  "category": "colors",
+  "categoryLabel": "Colors",
+  "icon": "palette",
+  "description": "Basic and common colors",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "colors-001",
+      "finnish": "punainen",
+      "english": "red",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'PU-nai-nen'. One of the most common color words. Declines like other -inen adjectives (punaista, punaisessa).",
+      "examples": ["Punainen auto on nopea. — The red car is fast.", "Minulla on punainen takki. — I have a red jacket."]
+    },
+    {
+      "id": "colors-002",
+      "finnish": "sininen",
+      "english": "blue",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'SI-ni-nen'. The color of the Finnish flag cross. Declines: sinistä, sinisessä.",
+      "examples": ["Taivas on sininen. — The sky is blue.", "Suomen lippu on sinivalkoinen. — The Finnish flag is blue and white."]
+    },
+    {
+      "id": "colors-003",
+      "finnish": "vihreä",
+      "english": "green",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'VIH-re-ä'. Note the ä ending. Does not follow the -inen pattern. Partitive: vihreää.",
+      "examples": ["Ruoho on vihreää. — The grass is green.", "Haluan vihreän salaatin. — I want a green salad."]
+    },
+    {
+      "id": "colors-004",
+      "finnish": "keltainen",
+      "english": "yellow",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'KEL-tai-nen'. Follows the -inen adjective pattern. Partitive: keltaista.",
+      "examples": ["Aurinko on keltainen. — The sun is yellow.", "Keltaiset kukat ovat kauniita. — The yellow flowers are beautiful."]
+    },
+    {
+      "id": "colors-005",
+      "finnish": "valkoinen",
+      "english": "white",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'VAL-koi-nen'. The other color of the Finnish flag. Partitive: valkoista.",
+      "examples": ["Lumi on valkoista. — The snow is white.", "Hänellä on valkoinen paita. — He/she has a white shirt."]
+    },
+    {
+      "id": "colors-006",
+      "finnish": "musta",
+      "english": "black",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'MUS-ta'. Short and easy to remember. Does not follow -inen pattern. Partitive: mustaa.",
+      "examples": ["Kissa on musta. — The cat is black.", "Juon mustaa kahvia. — I drink black coffee."]
+    },
+    {
+      "id": "colors-007",
+      "finnish": "harmaa",
+      "english": "grey",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'HAR-maa'. Note the double 'a'. Partitive: harmaata.",
+      "examples": ["Taivas on harmaa tänään. — The sky is grey today.", "Harmaat pilvet tulevat. — The grey clouds are coming."]
+    },
+    {
+      "id": "colors-008",
+      "finnish": "ruskea",
+      "english": "brown",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'RUS-ke-a'. Note the 'ea' ending (not ä). Partitive: ruskeaa.",
+      "examples": ["Koira on ruskea. — The dog is brown.", "Haluan ruskeat kengät. — I want brown shoes."]
+    },
+    {
+      "id": "colors-009",
+      "finnish": "oranssi",
+      "english": "orange",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'O-rans-si'. Borrowed from Swedish/French. Note double 's'. Partitive: oranssia.",
+      "examples": ["Appelsiini on oranssi. — The orange (fruit) is orange.", "Auringonlasku on oranssi. — The sunset is orange."]
+    },
+    {
+      "id": "colors-010",
+      "finnish": "violetti",
+      "english": "violet / purple",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'vi-o-LET-ti'. Loanword. Note double 't'. Also 'purppura' exists but violetti is more common in everyday use.",
+      "examples": ["Violetit kukat tuoksuvat hyvältä. — The violet flowers smell good.", "Tykkään violetista väristä. — I like the violet color."]
+    },
+    {
+      "id": "colors-011",
+      "finnish": "vaaleanpunainen",
+      "english": "pink",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Literally 'light red' (vaalea + punainen). Pronounced 'VAA-le-an-PU-nai-nen'. A compound adjective. Sometimes shortened to 'pinkki' in casual speech.",
+      "examples": ["Vaaleanpunainen ruusu on kaunis. — The pink rose is beautiful.", "Hänellä on vaaleanpunainen mekko. — She has a pink dress."]
+    },
+    {
+      "id": "colors-012",
+      "finnish": "tummansininen",
+      "english": "dark blue / navy blue",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Compound: tumma (dark) + sininen (blue). Pronounced 'TUM-man-SI-ni-nen'. The pattern 'tumman-' + color works for any dark shade.",
+      "examples": ["Meri on tummansininen. — The sea is dark blue.", "Hänellä on tummansininen puku. — He/she has a dark blue suit."]
+    },
+    {
+      "id": "colors-013",
+      "finnish": "vaaleansininen",
+      "english": "light blue",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Compound: vaalea (light) + sininen (blue). Pronounced 'VAA-le-an-SI-ni-nen'. The pattern 'vaalean-' + color works for any light shade.",
+      "examples": ["Vauvan huone on vaaleansininen. — The baby's room is light blue.", "Taivas on vaaleansininen kesällä. — The sky is light blue in summer."]
+    },
+    {
+      "id": "colors-014",
+      "finnish": "kultainen",
+      "english": "golden",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Pronounced 'KUL-tai-nen'. Derived from 'kulta' (gold). Follows -inen pattern. Also used figuratively: 'kultainen hetki' (golden moment).",
+      "examples": ["Kultainen sormus on pöydällä. — The golden ring is on the table.", "Syksy tuo kultaiset lehdet. — Autumn brings golden leaves."]
+    },
+    {
+      "id": "colors-015",
+      "finnish": "hopea",
+      "english": "silver",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Technically a noun (the metal) used as an adjective for color. Pronounced 'HO-pe-a'. The adjective form 'hopeinen' also exists but 'hopea' is common for color.",
+      "examples": ["Hopea auto kiiltää auringossa. — The silver car shines in the sun.", "Hänellä on hopeanväriset korvakorut. — She has silver-colored earrings."]
+    },
+    {
+      "id": "colors-016",
+      "finnish": "turkoosi",
+      "english": "turquoise",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Pronounced 'TUR-koo-si'. Loanword, easy to recognize. Used for the blue-green shade.",
+      "examples": ["Turkoosia vettä on Lapissa. — There is turquoise water in Lapland.", "Turkoosi on kaunis väri. — Turquoise is a beautiful color."]
+    },
+    {
+      "id": "colors-017",
+      "finnish": "beige",
+      "english": "beige",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Pronounced 'BEEZH' (French pronunciation maintained). Indeclinable in Finnish — the form stays the same regardless of case.",
+      "examples": ["Beige sohva sopii olohuoneeseen. — A beige sofa suits the living room.", "Seinät ovat beige. — The walls are beige."]
+    },
+    {
+      "id": "colors-018",
+      "finnish": "vaalea",
+      "english": "light (color modifier)",
+      "category": "colors",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Pronounced 'VAA-le-a'. Used as a modifier before colors: 'vaaleanvihreä' (light green). Also means 'fair' for hair/skin. Opposite: 'tumma' (dark).",
+      "examples": ["Hänellä on vaaleat hiukset. — He/she has light (blond) hair.", "Haluan vaalean vihreän paidan. — I want a light green shirt."]
+    }
+  ]
+}

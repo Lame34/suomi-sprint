@@ -1,0 +1,186 @@
+{
+  "category": "emergency",
+  "categoryLabel": "Emergency & Help",
+  "icon": "siren",
+  "description": "Emergency situations, health, and asking for help",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "emergency-001",
+      "finnish": "Apua!",
+      "english": "Help!",
+      "category": "emergency",
+      "difficulty": 1,
+      "notes": "Partitive form of 'apu' (help). Shouted to attract attention in an emergency. The most critical single word to know.",
+      "words": ["apu"]
+    },
+    {
+      "id": "emergency-002",
+      "finnish": "Soittakaa hätänumeroon!",
+      "english": "Call the emergency number!",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Call(formal/plural imperative) emergency-number-to!",
+      "notes": "The Finnish emergency number is 112 (EU standard). 'Soittakaa' is the plural/formal imperative of 'soittaa' — used to address multiple people or one person formally in urgent situations. 'Hätänumeroon' is illative case (indicating direction/target of the call).",
+      "words": ["soittaa", "hätänumero"]
+    },
+    {
+      "id": "emergency-003",
+      "finnish": "Tarvitsen lääkäriä.",
+      "english": "I need a doctor.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Need-I doctor(partitive).",
+      "notes": "'Lääkäriä' is the partitive form of 'lääkäri'. The verb 'tarvita' takes the partitive case for its object.",
+      "words": ["tarvita", "lääkäri"]
+    },
+    {
+      "id": "emergency-004",
+      "finnish": "Soittakaa ambulanssi!",
+      "english": "Call an ambulance!",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Call(formal/plural imperative) ambulance!",
+      "notes": "'Soittakaa' is the plural/formal imperative of 'soittaa'. Used when urgently requesting bystanders to call for help. In Finland, call 112 for all emergencies.",
+      "words": ["soittaa", "ambulanssi"]
+    },
+    {
+      "id": "emergency-005",
+      "finnish": "Missä on lähin sairaala?",
+      "english": "Where is the nearest hospital?",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Where is nearest hospital?",
+      "notes": "'Lähin' is the superlative of 'lähellä' (near). Finnish public hospitals have 24h emergency rooms (päivystys).",
+      "words": ["missä", "olla", "lähellä", "sairaala"]
+    },
+    {
+      "id": "emergency-006",
+      "finnish": "Minulla on kipu täällä.",
+      "english": "I have pain here.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Me-on is pain here.",
+      "notes": "Point to the area while saying this. Finnish expresses 'having' with the adessive case: 'minulla' (on me) + 'on' (is). Useful at a doctor's office or emergency room.",
+      "words": ["minä", "olla", "kipu", "täällä"]
+    },
+    {
+      "id": "emergency-007",
+      "finnish": "Olen sairas.",
+      "english": "I am sick.",
+      "category": "emergency",
+      "difficulty": 1,
+      "notes": "Basic statement of illness. 'Sairas' is an adjective meaning sick/ill. Can be followed by specifics about symptoms.",
+      "words": ["olla", "sairas"]
+    },
+    {
+      "id": "emergency-008",
+      "finnish": "Minulla on kuumetta.",
+      "english": "I have a fever.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Me-on is fever(partitive).",
+      "notes": "'Kuumetta' is the partitive form of 'kuume' (fever). The partitive is used because fever is an uncountable/ongoing condition. Normal body temperature in Finland is measured in Celsius (37°C).",
+      "words": ["minä", "olla", "kuume"]
+    },
+    {
+      "id": "emergency-009",
+      "finnish": "Tarvitsen lääkettä.",
+      "english": "I need medicine.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Need-I medicine(partitive).",
+      "notes": "'Lääkettä' is the partitive form of 'lääke'. In Finland, pharmacies ('apteekki') are separate from shops — many medicines require a prescription ('resepti').",
+      "words": ["tarvita", "lääke"]
+    },
+    {
+      "id": "emergency-010",
+      "finnish": "Olen allerginen...",
+      "english": "I am allergic to...",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Am-I allergic...",
+      "notes": "Follow with the allergen in the allative case (-lle), e.g., 'Olen allerginen pähkinöille' (I am allergic to nuts), 'Olen allerginen maitotuotteille' (I am allergic to dairy products).",
+      "words": ["olla", "allerginen"]
+    },
+    {
+      "id": "emergency-011",
+      "finnish": "En voi hengittää.",
+      "english": "I can't breathe.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Not can-I breathe.",
+      "notes": "Critical emergency phrase. 'En' is the first person negative verb. 'Voi' is from 'voida' (can/to be able). 'Hengittää' means to breathe. Call 112 immediately.",
+      "words": ["ei", "voida", "hengittää"]
+    },
+    {
+      "id": "emergency-012",
+      "finnish": "Varokaa!",
+      "english": "Watch out!",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Be-careful(plural/formal imperative)!",
+      "notes": "Plural/formal imperative of 'varoa' (to beware/be careful). Used to warn people of immediate danger. Singular informal form is 'Varo!'.",
+      "words": ["varoa"]
+    },
+    {
+      "id": "emergency-013",
+      "finnish": "Tulipalo!",
+      "english": "Fire!",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Fire-burn!",
+      "notes": "Compound word from 'tuli' (fire) + 'palo' (burn/blaze). Shout this to alert others. Finnish fire department number is 112 (same number for all emergencies).",
+      "words": ["tuli", "palo"]
+    },
+    {
+      "id": "emergency-014",
+      "finnish": "Soittakaa poliisi!",
+      "english": "Call the police!",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Call(formal/plural imperative) police!",
+      "notes": "'Soittakaa' is the plural/formal imperative of 'soittaa'. The non-emergency police number in Finland is 0295 419 800, but for emergencies always call 112.",
+      "words": ["soittaa", "poliisi"]
+    },
+    {
+      "id": "emergency-015",
+      "finnish": "Minua on ryöstetty.",
+      "english": "I have been robbed.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Me(partitive) is robbed.",
+      "notes": "Passive perfect construction. 'Minua' is the partitive of 'minä'. 'Ryöstetty' is the past participle of 'ryöstää' (to rob). Report to police at the nearest station or call 112 if in danger.",
+      "words": ["minä", "olla", "ryöstää"]
+    },
+    {
+      "id": "emergency-016",
+      "finnish": "Olen kadottanut lompakkoni.",
+      "english": "I have lost my wallet.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Am-I lost wallet-my.",
+      "notes": "Perfect tense: 'olen' + past participle 'kadottanut'. The possessive suffix '-ni' on 'lompakko' means 'my'. Report lost items to police or local lost-and-found ('löytötavarat').",
+      "words": ["olla", "kadottaa", "lompakko"]
+    },
+    {
+      "id": "emergency-017",
+      "finnish": "Tarvitsen tulkkia.",
+      "english": "I need an interpreter.",
+      "category": "emergency",
+      "difficulty": 1,
+      "literalTranslation": "Need-I interpreter(partitive).",
+      "notes": "'Tulkkia' is the partitive form of 'tulkki' (interpreter). In Finland, public services (hospitals, police) are often required to provide interpreter services. You can also say 'Tarvitsen englanninkielistä tulkkia' (I need an English-speaking interpreter).",
+      "words": ["tarvita", "tulkki"]
+    },
+    {
+      "id": "emergency-018",
+      "finnish": "Hätänumero on 112.",
+      "english": "The emergency number is 112.",
+      "category": "emergency",
+      "difficulty": 1,
+      "notes": "112 is the universal emergency number across the EU, including Finland. It connects to police, fire, and medical services. Operators often speak English. This number works even without a SIM card.",
+      "words": ["hätänumero", "olla"]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "category": "work-study",
+  "categoryLabel": "Work & Study",
+  "icon": "briefcase",
+  "description": "Workplace, education, and professional life",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "work-study-001",
+      "finnish": "työ",
+      "english": "work / job",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Työ alkaa kahdeksalta. (Work starts at eight.)"]
+    },
+    {
+      "id": "work-study-002",
+      "finnish": "oppilas",
+      "english": "student / pupil",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Oppilas lukee kirjaa. (The pupil is reading a book.)"]
+    },
+    {
+      "id": "work-study-003",
+      "finnish": "yliopisto",
+      "english": "university",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: yli (over) + opisto (institute). Used for academic universities specifically.",
+      "examples": ["Hän opiskelee yliopistossa. (He/she studies at university.)"]
+    },
+    {
+      "id": "work-study-004",
+      "finnish": "opettaja",
+      "english": "teacher",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Opettaja on luokassa. (The teacher is in the classroom.)"]
+    },
+    {
+      "id": "work-study-005",
+      "finnish": "opiskelija",
+      "english": "student (university)",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Opiskelija asuu Helsingissä. (The student lives in Helsinki.)"]
+    },
+    {
+      "id": "work-study-006",
+      "finnish": "toimisto",
+      "english": "office",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Derived from 'toimi' (function/position). Inessive: toimistossa (in the office).",
+      "examples": ["Toimisto on auki yhdeksästä viiteen. (The office is open from nine to five.)"]
+    },
+    {
+      "id": "work-study-007",
+      "finnish": "kokous",
+      "english": "meeting",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: kokoukse-. Partitive: kokousta. Related verb: kokoontua (to gather).",
+      "examples": ["Kokous alkaa kello kymmenen. (The meeting starts at ten o'clock.)"]
+    },
+    {
+      "id": "work-study-008",
+      "finnish": "pomo",
+      "english": "boss",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Informal/colloquial. More formal alternatives: esimies, johtaja.",
+      "examples": ["Pomo on lomalla. (The boss is on vacation.)"]
+    },
+    {
+      "id": "work-study-009",
+      "finnish": "palkka",
+      "english": "salary / wage",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Consonant gradation: palkka → palkan (kk → k). Related: palkkio (fee/reward).",
+      "examples": ["Palkka maksetaan kerran kuussa. (The salary is paid once a month.)"]
+    },
+    {
+      "id": "work-study-010",
+      "finnish": "ammatti",
+      "english": "profession",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Consonant gradation: ammatti → ammatin (tt → t). Related: ammattilainen (professional).",
+      "examples": ["Mikä on sinun ammattisi? (What is your profession?)"]
+    },
+    {
+      "id": "work-study-011",
+      "finnish": "kirja",
+      "english": "book",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Kirja on pöydällä. (The book is on the table.)"]
+    },
+    {
+      "id": "work-study-012",
+      "finnish": "kynä",
+      "english": "pen",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the ä vowel. Back-vowel harmony does not apply here: kynällä (with a pen).",
+      "examples": ["Onko sinulla kynää? (Do you have a pen?)"]
+    },
+    {
+      "id": "work-study-013",
+      "finnish": "paperi",
+      "english": "paper",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Tarvitsen paperia. (I need paper.)"]
+    },
+    {
+      "id": "work-study-014",
+      "finnish": "luokka",
+      "english": "class / classroom",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Luokka on toisessa kerroksessa. (The classroom is on the second floor.)"]
+    },
+    {
+      "id": "work-study-015",
+      "finnish": "koe",
+      "english": "exam / test",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: kokee- (consonant gradation k → ∅). Plural: kokeet. Related: kokeilla (to try/test).",
+      "examples": ["Koe on ensi viikolla. (The exam is next week.)"]
+    },
+    {
+      "id": "work-study-016",
+      "finnish": "läksy",
+      "english": "homework",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the ä vowel. Often used in plural: läksyt (homework assignments).",
+      "examples": ["Oletko tehnyt läksyt? (Have you done the homework?)"]
+    },
+    {
+      "id": "work-study-017",
+      "finnish": "loma",
+      "english": "vacation / holiday",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Loma alkaa huomenna. (The vacation starts tomorrow.)"]
+    },
+    {
+      "id": "work-study-018",
+      "finnish": "työpaikka",
+      "english": "workplace",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: työ (work) + paikka (place). Consonant gradation in paikka: työpaikan (kk → k).",
+      "examples": ["Uusi työpaikka on lähellä kotia. (The new workplace is close to home.)"]
+    },
+    {
+      "id": "work-study-019",
+      "finnish": "esimies",
+      "english": "supervisor",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound: esi (fore/pre) + mies (man). Gender-neutral alternative: esihenkilö. Stem: esimiehe-.",
+      "examples": ["Esimies hyväksyi loman. (The supervisor approved the vacation.)"]
+    },
+    {
+      "id": "work-study-020",
+      "finnish": "työkaveri",
+      "english": "colleague",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: työ (work) + kaveri (friend/buddy). More formal synonym: työtoveri.",
+      "examples": ["Työkaveri auttoi minua. (My colleague helped me.)"]
+    },
+    {
+      "id": "work-study-021",
+      "finnish": "haastattelu",
+      "english": "interview",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Derived from verb haastatella (to interview). Related: haastattelija (interviewer).",
+      "examples": ["Minulla on haastattelu huomenna. (I have an interview tomorrow.)"]
+    },
+    {
+      "id": "work-study-022",
+      "finnish": "sopimus",
+      "english": "contract / agreement",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: sopimukse-. Derived from verb sopia (to agree/suit). Partitive: sopimusta.",
+      "examples": ["Allekirjoitin sopimuksen. (I signed the contract.)"]
+    },
+    {
+      "id": "work-study-023",
+      "finnish": "luento",
+      "english": "lecture",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: luenno- (nt → nn gradation). Derived from verb lukea (to read). Plural: luennot.",
+      "examples": ["Luento kestää kaksi tuntia. (The lecture lasts two hours.)"]
+    },
+    {
+      "id": "work-study-024",
+      "finnish": "arvosana",
+      "english": "grade / mark",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound: arvo (value) + sana (word). Finnish grading scale typically 4–10 in schools.",
+      "examples": ["Sain hyvän arvosanan kokeesta. (I got a good grade on the exam.)"]
+    },
+    {
+      "id": "work-study-025",
+      "finnish": "tutkinto",
+      "english": "degree",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: tutkinto → tutkinno- (nt → nn gradation). Related: tutkia (to research), tutkimus (research).",
+      "examples": ["Hän suoritti tutkinnon kolmessa vuodessa. (He/she completed the degree in three years.)"]
+    },
+    {
+      "id": "work-study-026",
+      "finnish": "projekti",
+      "english": "project",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Loanword from Swedish/English. Finnish synonym: hanke. Partitive: projektia.",
+      "examples": ["Projekti valmistuu ensi kuussa. (The project will be finished next month.)"]
+    },
+    {
+      "id": "work-study-027",
+      "finnish": "tauko",
+      "english": "break / pause",
+      "category": "work-study",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Pidetään tauko! (Let's take a break!)"]
+    }
+  ]
+}

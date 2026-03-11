@@ -1,0 +1,279 @@
+{
+  "category": "shopping",
+  "categoryLabel": "Shopping & Money",
+  "icon": "shopping-bag",
+  "description": "Shopping, money, and commercial transactions",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "shopping-001",
+      "finnish": "raha",
+      "english": "money",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'RA-ha'. One of the most essential words for daily life. Partitive: rahaa. Plural: rahat (also means 'funds').",
+      "examples": ["Minulla on rahaa. — I have money.", "Rahat ovat lompakossa. — The money is in the wallet."]
+    },
+    {
+      "id": "shopping-002",
+      "finnish": "euro",
+      "english": "euro",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'EU-ro'. Finland adopted the euro in 2002. Partitive: euroa. 'Viisi euroa' = five euros.",
+      "examples": ["Se maksaa viisi euroa. — It costs five euros.", "Onko sinulla euroa? — Do you have a euro?"]
+    },
+    {
+      "id": "shopping-003",
+      "finnish": "sentti",
+      "english": "cent",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SENT-ti'. Note the double 't'. Partitive: senttiä. Used with euro: 'kaksi euroa ja viisikymmentä senttiä'.",
+      "examples": ["Hinta on viisikymmentä senttiä. — The price is fifty cents.", "Minulla ei ole yhtään senttiä. — I don't have a single cent."]
+    },
+    {
+      "id": "shopping-004",
+      "finnish": "hinta",
+      "english": "price",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HIN-ta'. Partitive: hintaa. 'Mikä on hinta?' = What is the price? Stem changes in some cases: hinnan (genitive).",
+      "examples": ["Mikä on tämän hinta? — What is the price of this?", "Hinta on liian korkea. — The price is too high."]
+    },
+    {
+      "id": "shopping-005",
+      "finnish": "halpa",
+      "english": "cheap",
+      "category": "shopping",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'HAL-pa'. Comparative: halvempi (cheaper). Superlative: halvin (cheapest). Note the stem change: halpa → halvan (genitive).",
+      "examples": ["Tämä on halpa. — This is cheap.", "Haluaisin halvemman vaihtoehdon. — I would like a cheaper option."]
+    },
+    {
+      "id": "shopping-006",
+      "finnish": "kallis",
+      "english": "expensive",
+      "category": "shopping",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'KAL-lis'. Comparative: kalliimpi. Superlative: kallein. Stem: kallii- in some forms. Opposite of 'halpa'.",
+      "examples": ["Tämä on liian kallis. — This is too expensive.", "Helsinki on kallis kaupunki. — Helsinki is an expensive city."]
+    },
+    {
+      "id": "shopping-007",
+      "finnish": "ilmainen",
+      "english": "free (no cost)",
+      "category": "shopping",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Pronounced 'IL-mai-nen'. Follows -inen adjective pattern. Partitive: ilmaista. Means free of charge, not freedom (vapaa). 'Ilmaiseksi' = for free (translative).",
+      "examples": ["Tämä on ilmainen. — This is free.", "Sain sen ilmaiseksi. — I got it for free."]
+    },
+    {
+      "id": "shopping-008",
+      "finnish": "alennus",
+      "english": "discount / sale",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'A-len-nus'. Derived from 'alentaa' (to reduce). Stem: alennukse-. 'Alennusmyynti' = clearance sale. Partitive: alennusta.",
+      "examples": ["Onko tässä alennusta? — Is there a discount on this?", "Sain kymmenen prosentin alennuksen. — I got a ten percent discount."]
+    },
+    {
+      "id": "shopping-009",
+      "finnish": "tarjous",
+      "english": "offer / deal",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TAR-jo-us'. Stem: tarjoukse-. Used both for shop deals and formal offers/proposals. 'Tarjouksessa' = on offer/on sale.",
+      "examples": ["Tämä tuote on tarjouksessa. — This product is on offer.", "Hyvä tarjous! — Good deal!"]
+    },
+    {
+      "id": "shopping-010",
+      "finnish": "kassi",
+      "english": "bag",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KAS-si'. Note the double 's'. A shopping bag or tote bag. Partitive: kassia. 'Muovikassi' = plastic bag, 'kangaskassi' = cloth bag.",
+      "examples": ["Tarvitsetko kassin? — Do you need a bag?", "Kassi on täynnä. — The bag is full."]
+    },
+    {
+      "id": "shopping-011",
+      "finnish": "kuitti",
+      "english": "receipt",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KUEET-ti'. Note the double 'i' and double 't'. Partitive: kuittia. You may be asked 'Haluatko kuitin?' (Do you want the receipt?) at checkout.",
+      "examples": ["Haluatko kuitin? — Do you want the receipt?", "Tarvitsen kuitin palautusta varten. — I need the receipt for a return."]
+    },
+    {
+      "id": "shopping-012",
+      "finnish": "kassa",
+      "english": "cash register / checkout",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KAS-sa'. Note the double 's'. Can mean both the machine and the checkout area. 'Itsepalvelukassa' = self-checkout. Not to be confused with 'kassi' (bag).",
+      "examples": ["Kassa on tuolla. — The checkout is over there.", "Mene kassalle. — Go to the checkout."]
+    },
+    {
+      "id": "shopping-013",
+      "finnish": "myyjä",
+      "english": "salesperson",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'MYY-jä'. Derived from 'myydä' (to sell). The -jä suffix indicates the person performing the action. Gender-neutral. Partitive: myyjää.",
+      "examples": ["Myyjä auttoi minua. — The salesperson helped me.", "Kysy myyjältä. — Ask the salesperson."]
+    },
+    {
+      "id": "shopping-014",
+      "finnish": "asiakas",
+      "english": "customer",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'A-si-a-kas'. Important stem change: asiakas → asiakkaa- (e.g., asiakkaan = customer's, asiakkaita = customers). Partitive: asiakasta.",
+      "examples": ["Asiakas on aina oikeassa. — The customer is always right.", "Meillä on paljon asiakkaita. — We have many customers."]
+    },
+    {
+      "id": "shopping-015",
+      "finnish": "ostos",
+      "english": "purchase",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'OS-tos'. Derived from 'ostaa' (to buy). Stem: ostokse-. Plural 'ostokset' commonly means 'shopping/groceries'. 'Tehdä ostoksia' = to do shopping.",
+      "examples": ["Tein hyvän ostoksen. — I made a good purchase.", "Ostokset ovat kassissa. — The shopping is in the bag."]
+    },
+    {
+      "id": "shopping-016",
+      "finnish": "maksu",
+      "english": "payment",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'MAK-su'. Derived from 'maksaa' (to pay). Partitive: maksua. 'Korttimaksu' = card payment, 'käteismaksu' = cash payment. 'Maksuton' = free of charge.",
+      "examples": ["Maksu onnistui. — The payment was successful.", "Hyväksyttekö korttimaksun? — Do you accept card payment?"]
+    },
+    {
+      "id": "shopping-017",
+      "finnish": "kolikko",
+      "english": "coin",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KO-lik-ko'. Note the double 'k'. Partitive: kolikkoa. Plural: kolikot. Finnish euro coins feature various national designs.",
+      "examples": ["Tarvitsen kolikon ostoskärryyn. — I need a coin for the shopping cart.", "Minulla on vain kolikoita. — I only have coins."]
+    },
+    {
+      "id": "shopping-018",
+      "finnish": "seteli",
+      "english": "banknote",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SE-te-li'. Partitive: seteliä. Plural: setelit. Euro banknotes are shared across the eurozone. 'Viiden euron seteli' = five euro note.",
+      "examples": ["Onko sinulla pienempää seteliä? — Do you have a smaller banknote?", "Sain vaihtorahaksi setelin. — I got a banknote as change."]
+    },
+    {
+      "id": "shopping-019",
+      "finnish": "lompakko",
+      "english": "wallet",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LOM-pak-ko'. Note the double 'k'. Partitive: lompakkoa. Stem: lompakko- → lompakon (genitive). A common everyday item.",
+      "examples": ["Lompakkoni on taskussa. — My wallet is in my pocket.", "Unohdin lompakon kotiin. — I forgot my wallet at home."]
+    },
+    {
+      "id": "shopping-020",
+      "finnish": "tori",
+      "english": "market / marketplace",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TO-ri'. Partitive: toria. Finnish cities have famous market squares: 'Kauppatori' in Helsinki is the most well-known.",
+      "examples": ["Mennään torille! — Let's go to the market!", "Ostin mansikoita torilta. — I bought strawberries from the market."]
+    },
+    {
+      "id": "shopping-021",
+      "finnish": "kauppakeskus",
+      "english": "shopping center",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KAUP-pa-kes-kus'. Compound word: kauppa (shop) + keskus (center). Partitive: kauppakeskusta. Major ones in Helsinki include Kamppi and Itäkeskus.",
+      "examples": ["Kauppakeskus avautuu kello yhdeksältä. — The shopping center opens at nine o'clock.", "Tapaamme kauppakeskuksessa. — Let's meet at the shopping center."]
+    },
+    {
+      "id": "shopping-022",
+      "finnish": "vaate",
+      "english": "clothing / garment",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'VAA-te'. Partitive: vaatetta. Plural 'vaatteet' means 'clothes' in general. 'Vaatekauppa' = clothing store.",
+      "examples": ["Tarvitsen uusia vaatteita. — I need new clothes.", "Vaatekauppa on toisessa kerroksessa. — The clothing store is on the second floor."]
+    },
+    {
+      "id": "shopping-023",
+      "finnish": "koko",
+      "english": "size",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KO-ko'. Partitive: kokoa. Used for clothing sizes, shoe sizes, and general size. 'Mikä koko?' = What size? Also means 'whole/entire' as an adjective.",
+      "examples": ["Mikä koko tämä on? — What size is this?", "Onko tätä isompaa kokoa? — Is there a bigger size of this?"]
+    },
+    {
+      "id": "shopping-024",
+      "finnish": "lahja",
+      "english": "gift / present",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LAH-ja'. Partitive: lahjaa. 'Lahjakortti' = gift card. 'Joululahja' = Christmas present. 'Syntymäpäivälahja' = birthday present.",
+      "examples": ["Tämä on lahja sinulle. — This is a gift for you.", "Ostin joululahjoja. — I bought Christmas presents."]
+    },
+    {
+      "id": "shopping-025",
+      "finnish": "pakkaus",
+      "english": "package",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PAK-ka-us'. Stem: pakkaukse-. Derived from 'pakata' (to pack). Can mean packaging, parcel, or pack. 'Pakkausmateriaali' = packaging material.",
+      "examples": ["Pakkaus on avattu. — The package has been opened.", "Haluatko lahjapakkauksen? — Do you want gift wrapping?"]
+    },
+    {
+      "id": "shopping-026",
+      "finnish": "ale",
+      "english": "sale",
+      "category": "shopping",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'A-le'. Short colloquial form of 'alennus' (discount). Very commonly used in Finnish shops and advertising. 'Alessa' = on sale.",
+      "examples": ["Kaupassa on ale! — There is a sale at the store!", "Ostin takin alesta. — I bought a jacket on sale."]
+    },
+    {
+      "id": "shopping-027",
+      "finnish": "käteinen",
+      "english": "cash",
+      "category": "shopping",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Pronounced 'KÄ-tei-nen'. Literally means 'in hand' (from 'käsi' = hand). Used as a noun meaning cash money. 'Käteisellä' = with cash (adessive). Follows -inen adjective pattern.",
+      "examples": ["Maksatko käteisellä vai kortilla? — Do you pay with cash or card?", "Minulla ei ole käteistä. — I don't have cash."]
+    }
+  ]
+}

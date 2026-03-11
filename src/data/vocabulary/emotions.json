@@ -1,0 +1,270 @@
+{
+  "category": "emotions",
+  "categoryLabel": "Emotions & Feelings",
+  "icon": "smile",
+  "description": "Emotions, feelings, and states of mind",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "emotions-001",
+      "finnish": "iloinen",
+      "english": "happy, glad",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Olen iloinen tänään. (I am happy today.)"]
+    },
+    {
+      "id": "emotions-002",
+      "finnish": "surullinen",
+      "english": "sad",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Hän on surullinen. (He/She is sad.)"]
+    },
+    {
+      "id": "emotions-003",
+      "finnish": "vihainen",
+      "english": "angry",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Älä ole vihainen! (Don't be angry!)"]
+    },
+    {
+      "id": "emotions-004",
+      "finnish": "väsynyt",
+      "english": "tired",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Olen väsynyt pitkän päivän jälkeen. (I am tired after a long day.)"]
+    },
+    {
+      "id": "emotions-005",
+      "finnish": "ihastunut",
+      "english": "having a crush, infatuated",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'ihastua' (to become infatuated). Used with 'johonkin' (into someone): ihastunut häneen.",
+      "examples": ["Hän on ihastunut sinuun. (He/She has a crush on you.)"]
+    },
+    {
+      "id": "emotions-006",
+      "finnish": "rakastunut",
+      "english": "in love",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'rakastua' (to fall in love). Used with 'johonkin': rakastunut häneen (in love with him/her).",
+      "examples": ["He ovat rakastuneet toisiinsa. (They are in love with each other.)"]
+    },
+    {
+      "id": "emotions-007",
+      "finnish": "rakkaus",
+      "english": "love",
+      "category": "emotions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Rakkaus on kaunista. (Love is beautiful.)"]
+    },
+    {
+      "id": "emotions-008",
+      "finnish": "pelokas",
+      "english": "afraid, fearful",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Describes a person who is generally fearful or timid by nature. For being afraid of something specific, use 'pelätä' (to fear).",
+      "examples": ["Koira on pelokas ukonilmalla. (The dog is fearful during a thunderstorm.)"]
+    },
+    {
+      "id": "emotions-009",
+      "finnish": "pelko",
+      "english": "fear",
+      "category": "emotions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "The noun form. The verb 'pelätä' means 'to fear'. Partitive form 'pelkoa' is common in expressions.",
+      "examples": ["Pelko on luonnollinen tunne. (Fear is a natural emotion.)"]
+    },
+    {
+      "id": "emotions-010",
+      "finnish": "onnellinen",
+      "english": "happy, fortunate",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "examples": ["Olemme onnellisia yhdessä. (We are happy together.)"]
+    },
+    {
+      "id": "emotions-011",
+      "finnish": "yksinäinen",
+      "english": "lonely",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'yksin' (alone). 'Yksinäinen' implies an emotional state of loneliness, not just being alone.",
+      "examples": ["Hän tuntee itsensä yksinäiseksi. (He/She feels lonely.)"]
+    },
+    {
+      "id": "emotions-012",
+      "finnish": "innostunut",
+      "english": "excited, enthusiastic",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'innostua' (to get excited). Used with 'jostakin' (about something): innostunut matkasta.",
+      "examples": ["Olen innostunut uudesta projektista. (I am excited about the new project.)"]
+    },
+    {
+      "id": "emotions-013",
+      "finnish": "tylsistynyt",
+      "english": "bored",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'tylsistyä' (to become bored). 'Tylsä' means 'boring' (the cause), while 'tylsistynyt' describes the person who is bored.",
+      "examples": ["Lapset ovat tylsistyneitä. (The children are bored.)"]
+    },
+    {
+      "id": "emotions-014",
+      "finnish": "hermostunut",
+      "english": "nervous",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'hermostua' (to get nervous). Can also mean 'irritated' depending on context.",
+      "examples": ["Olen hermostunut kokeesta. (I am nervous about the exam.)"]
+    },
+    {
+      "id": "emotions-015",
+      "finnish": "ylpeä",
+      "english": "proud",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Note the 'ä' ending. Used with 'jostakin' (of something): ylpeä sinusta (proud of you).",
+      "examples": ["Olen ylpeä sinusta. (I am proud of you.)"]
+    },
+    {
+      "id": "emotions-016",
+      "finnish": "häpeä",
+      "english": "shame",
+      "category": "emotions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Note the 'ä' vowels. The verb 'hävettää' means 'to feel ashamed': Minua hävettää (I feel ashamed). 'Häpeä' is the noun form.",
+      "examples": ["Hän tunsi häpeää. (He/She felt shame.)"]
+    },
+    {
+      "id": "emotions-017",
+      "finnish": "huolestunut",
+      "english": "worried",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'huolestua' (to become worried). Used with 'jostakin': huolestunut terveydestä (worried about health).",
+      "examples": ["Äiti on huolestunut. (Mother is worried.)"]
+    },
+    {
+      "id": "emotions-018",
+      "finnish": "rauhallinen",
+      "english": "calm, peaceful",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'rauha' (peace). Also used to describe places and situations, not just people.",
+      "examples": ["Pysy rauhallisena. (Stay calm.)"]
+    },
+    {
+      "id": "emotions-019",
+      "finnish": "stressaantunut",
+      "english": "stressed",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'stressaantua' (to become stressed). A loanword adaptation from English/Swedish. The noun form is 'stressi'.",
+      "examples": ["Olen stressaantunut töistä. (I am stressed from work.)"]
+    },
+    {
+      "id": "emotions-020",
+      "finnish": "tyytyväinen",
+      "english": "satisfied, content",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Used with 'johonkin' (with something): tyytyväinen elämään (satisfied with life). Note the 'yy' double vowel and 'ä' ending.",
+      "examples": ["Olen tyytyväinen tulokseen. (I am satisfied with the result.)"]
+    },
+    {
+      "id": "emotions-021",
+      "finnish": "pettynyt",
+      "english": "disappointed",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'pettyä' (to be disappointed). Used with 'johonkin': pettynyt päätökseen (disappointed with the decision).",
+      "examples": ["Hän on pettynyt tuloksiin. (He/She is disappointed with the results.)"]
+    },
+    {
+      "id": "emotions-022",
+      "finnish": "yllättynyt",
+      "english": "surprised",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Past participle of 'yllättyä' (to be surprised). Note the double 'l' and 'tt'. The verb 'yllättää' means 'to surprise' someone.",
+      "examples": ["Olin yllättynyt lahjasta. (I was surprised by the gift.)"]
+    },
+    {
+      "id": "emotions-023",
+      "finnish": "kateellinen",
+      "english": "jealous, envious",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'kateus' (jealousy/envy). Covers both jealousy and envy in Finnish, unlike some languages that distinguish them.",
+      "examples": ["Älä ole kateellinen. (Don't be jealous.)"]
+    },
+    {
+      "id": "emotions-024",
+      "finnish": "kiitollinen",
+      "english": "grateful",
+      "category": "emotions",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Derived from 'kiitos' (thank you). Used with 'jostakin' (for something): kiitollinen avusta (grateful for help).",
+      "examples": ["Olen kiitollinen avustasi. (I am grateful for your help.)"]
+    },
+    {
+      "id": "emotions-025",
+      "finnish": "toivo",
+      "english": "hope",
+      "category": "emotions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Toivo ei koskaan kuole. (Hope never dies.)"]
+    },
+    {
+      "id": "emotions-026",
+      "finnish": "ilo",
+      "english": "joy",
+      "category": "emotions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Lapset tuovat iloa. (Children bring joy.)"]
+    },
+    {
+      "id": "emotions-027",
+      "finnish": "onni",
+      "english": "happiness, luck",
+      "category": "emotions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "examples": ["Onni on lämmin koti. (Happiness is a warm home.)"]
+    }
+  ]
+}

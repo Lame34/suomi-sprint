@@ -1,0 +1,389 @@
+{
+  "category": "time-calendar",
+  "categoryLabel": "Time & Calendar",
+  "icon": "calendar",
+  "description": "Days, months, seasons, and time expressions",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "time-calendar-001",
+      "finnish": "maanantai",
+      "english": "Monday",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From 'maan' (earth/land) + 'antai'. Days of the week are not capitalized in Finnish.",
+      "examples": ["Maanantai on viikon ensimmäinen päivä. — Monday is the first day of the week."]
+    },
+    {
+      "id": "time-calendar-002",
+      "finnish": "tiistai",
+      "english": "Tuesday",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Named after the Norse god Týr. Not capitalized in Finnish.",
+      "examples": ["Nähdään tiistaina! — See you on Tuesday!"]
+    },
+    {
+      "id": "time-calendar-003",
+      "finnish": "keskiviikko",
+      "english": "Wednesday",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'mid-week' (keski = middle, viikko = week). Not capitalized in Finnish.",
+      "examples": ["Keskiviikko on viikon keskellä. — Wednesday is in the middle of the week."]
+    },
+    {
+      "id": "time-calendar-004",
+      "finnish": "torstai",
+      "english": "Thursday",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Named after the Norse god Thor. Not capitalized in Finnish.",
+      "examples": ["Torstaina menemme kauppaan. — On Thursday we go to the store."]
+    },
+    {
+      "id": "time-calendar-005",
+      "finnish": "perjantai",
+      "english": "Friday",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From the Norse goddess Frigg. Not capitalized in Finnish.",
+      "examples": ["Perjantai on viikon paras päivä! — Friday is the best day of the week!"]
+    },
+    {
+      "id": "time-calendar-006",
+      "finnish": "lauantai",
+      "english": "Saturday",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Related to the word 'lauantai' from old Swedish. Not capitalized in Finnish.",
+      "examples": ["Lauantaina on vapaapäivä. — Saturday is a day off."]
+    },
+    {
+      "id": "time-calendar-007",
+      "finnish": "sunnuntai",
+      "english": "Sunday",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From 'sunnun' (sun) + 'tai'. Not capitalized in Finnish.",
+      "examples": ["Sunnuntaina lepäämme. — On Sunday we rest."]
+    },
+    {
+      "id": "time-calendar-008",
+      "finnish": "tammikuu",
+      "english": "January",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'oak month' (tammi = oak, kuu = month). Finnish months are not capitalized.",
+      "examples": ["Tammikuu on vuoden ensimmäinen kuukausi. — January is the first month of the year."]
+    },
+    {
+      "id": "time-calendar-009",
+      "finnish": "helmikuu",
+      "english": "February",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'pearl month' (helmi = pearl, kuu = month). Refers to frozen droplets resembling pearls.",
+      "examples": ["Helmikuussa on ystävänpäivä. — In February is Valentine's Day."]
+    },
+    {
+      "id": "time-calendar-010",
+      "finnish": "maaliskuu",
+      "english": "March",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'earth month' (maalis- relates to earth/ground). The ground starts to show through the snow.",
+      "examples": ["Maaliskuussa lumi alkaa sulaa. — In March the snow starts to melt."]
+    },
+    {
+      "id": "time-calendar-011",
+      "finnish": "huhtikuu",
+      "english": "April",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From 'huhta' (slash-and-burn clearing). Relates to spring preparation of fields.",
+      "examples": ["Huhtikuussa tulee kevät. — In April spring comes."]
+    },
+    {
+      "id": "time-calendar-012",
+      "finnish": "toukokuu",
+      "english": "May",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From 'touko' (spring sowing). The month of planting crops.",
+      "examples": ["Toukokuussa kukat alkavat kukkia. — In May flowers start to bloom."]
+    },
+    {
+      "id": "time-calendar-013",
+      "finnish": "kesäkuu",
+      "english": "June",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'summer month' (kesä = summer, kuu = month). Midsummer (juhannus) is celebrated in June.",
+      "examples": ["Kesäkuussa on juhannuspäivä. — In June is Midsummer Day."]
+    },
+    {
+      "id": "time-calendar-014",
+      "finnish": "heinäkuu",
+      "english": "July",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'hay month' (heinä = hay, kuu = month). Traditional time for hay harvesting.",
+      "examples": ["Heinäkuu on usein vuoden lämpimin kuukausi. — July is often the warmest month of the year."]
+    },
+    {
+      "id": "time-calendar-015",
+      "finnish": "elokuu",
+      "english": "August",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'harvest month' (elo = harvest/grain, kuu = month). The main grain harvest time.",
+      "examples": ["Elokuussa koulu alkaa. — In August school starts."]
+    },
+    {
+      "id": "time-calendar-016",
+      "finnish": "syyskuu",
+      "english": "September",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'autumn month' (syys- from syksy = autumn, kuu = month). Autumn begins.",
+      "examples": ["Syyskuussa lehdet muuttuvat keltaisiksi. — In September the leaves turn yellow."]
+    },
+    {
+      "id": "time-calendar-017",
+      "finnish": "lokakuu",
+      "english": "October",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'mud month' (loka = mud/dirt, kuu = month). The rainy, muddy time of autumn.",
+      "examples": ["Lokakuussa sataa paljon. — In October it rains a lot."]
+    },
+    {
+      "id": "time-calendar-018",
+      "finnish": "marraskuu",
+      "english": "November",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'death month' (marras = dying/dead, kuu = month). Nature dies before winter.",
+      "examples": ["Marraskuu on pimeä kuukausi. — November is a dark month."]
+    },
+    {
+      "id": "time-calendar-019",
+      "finnish": "joulukuu",
+      "english": "December",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'Christmas month' (joulu = Christmas, kuu = month).",
+      "examples": ["Joulukuussa juhlimme joulua. — In December we celebrate Christmas."]
+    },
+    {
+      "id": "time-calendar-020",
+      "finnish": "kevät",
+      "english": "spring",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: kevää- (e.g., keväällä = in spring). An important season in Finland as days get longer.",
+      "examples": ["Keväällä linnut palaavat. — In spring the birds return."]
+    },
+    {
+      "id": "time-calendar-021",
+      "finnish": "kesä",
+      "english": "summer",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish summers feature midnight sun in the north. Kesällä = in summer.",
+      "examples": ["Kesällä on lämmin. — In summer it is warm."]
+    },
+    {
+      "id": "time-calendar-022",
+      "finnish": "syksy",
+      "english": "autumn / fall",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Also called 'ruska' when referring to the colorful autumn foliage. Syksyllä = in autumn.",
+      "examples": ["Syksyllä lehdet putoavat. — In autumn the leaves fall."]
+    },
+    {
+      "id": "time-calendar-023",
+      "finnish": "talvi",
+      "english": "winter",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: talve- (e.g., talvella = in winter). Finnish winters are long and snowy.",
+      "examples": ["Talvella sataa lunta. — In winter it snows."]
+    },
+    {
+      "id": "time-calendar-024",
+      "finnish": "aika",
+      "english": "time",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A very common word. Also means 'quite' as an adverb (e.g., aika hyvä = quite good).",
+      "examples": ["Minulla ei ole aikaa. — I don't have time."]
+    },
+    {
+      "id": "time-calendar-025",
+      "finnish": "tunti",
+      "english": "hour",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Also means 'lesson' in school context (e.g., matematiikan tunti = math lesson).",
+      "examples": ["Odota yksi tunti. — Wait one hour."]
+    },
+    {
+      "id": "time-calendar-026",
+      "finnish": "minuutti",
+      "english": "minute",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Partitive form: minuuttia (e.g., viisi minuuttia = five minutes).",
+      "examples": ["Bussi tulee viiden minuutin päästä. — The bus comes in five minutes."]
+    },
+    {
+      "id": "time-calendar-027",
+      "finnish": "sekunti",
+      "english": "second",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Partitive form: sekuntia. Similar to English loanword.",
+      "examples": ["Odota sekunti! — Wait a second!"]
+    },
+    {
+      "id": "time-calendar-028",
+      "finnish": "päivä",
+      "english": "day",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Very common. 'Hyvää päivää' = good day (formal greeting). Päivällä = during the day.",
+      "examples": ["Tänään on kaunis päivä. — Today is a beautiful day."]
+    },
+    {
+      "id": "time-calendar-029",
+      "finnish": "viikko",
+      "english": "week",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Partitive: viikkoa. Finnish weeks start on Monday. Viikolla = during the week.",
+      "examples": ["Nähdään ensi viikolla! — See you next week!"]
+    },
+    {
+      "id": "time-calendar-030",
+      "finnish": "kuukausi",
+      "english": "month",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "The general word for month. Literally 'moon period' (kuu = moon, kausi = period). Specific months end in -kuu.",
+      "examples": ["Yksi kuukausi on noin neljä viikkoa. — One month is about four weeks."]
+    },
+    {
+      "id": "time-calendar-031",
+      "finnish": "vuosi",
+      "english": "year",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: vuode- (genitive: vuoden). Partitive: vuotta (e.g., kaksi vuotta = two years).",
+      "examples": ["Hyvää uutta vuotta! — Happy New Year!"]
+    },
+    {
+      "id": "time-calendar-032",
+      "finnish": "tänään",
+      "english": "today",
+      "category": "time-calendar",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "From 'tänä' (this) + 'päivänä' (day) contracted. Very frequently used.",
+      "examples": ["Mitä teet tänään? — What are you doing today?"]
+    },
+    {
+      "id": "time-calendar-033",
+      "finnish": "huomenna",
+      "english": "tomorrow",
+      "category": "time-calendar",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Related to 'huomen' (morning/tomorrow). 'Huominen' is the adjective form (tomorrow's).",
+      "examples": ["Huomenna on perjantai. — Tomorrow is Friday."]
+    },
+    {
+      "id": "time-calendar-034",
+      "finnish": "eilen",
+      "english": "yesterday",
+      "category": "time-calendar",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Eilinen = yesterday's (adjective). Toissapäivänä = the day before yesterday.",
+      "examples": ["Eilen satoi vettä. — Yesterday it rained."]
+    },
+    {
+      "id": "time-calendar-035",
+      "finnish": "nyt",
+      "english": "now",
+      "category": "time-calendar",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "One of the shortest and most common Finnish words. Nykyään = nowadays.",
+      "examples": ["Tule tänne nyt! — Come here now!"]
+    },
+    {
+      "id": "time-calendar-036",
+      "finnish": "aina",
+      "english": "always",
+      "category": "time-calendar",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Very common adverb. Ainoa = only/sole (related adjective).",
+      "examples": ["Hän on aina iloinen. — He/she is always happy."]
+    },
+    {
+      "id": "time-calendar-037",
+      "finnish": "koskaan",
+      "english": "never / ever",
+      "category": "time-calendar",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Used with a negative verb to mean 'never': en koskaan = I never. In questions it means 'ever': oletko koskaan? = have you ever?",
+      "examples": ["En ole koskaan käynyt Suomessa. — I have never been to Finland."]
+    },
+    {
+      "id": "time-calendar-038",
+      "finnish": "kello",
+      "english": "clock / o'clock",
+      "category": "time-calendar",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Used to tell time: 'Kello on kolme' = It is three o'clock. Also means watch/clock as an object.",
+      "examples": ["Paljonko kello on? — What time is it?"]
+    }
+  ]
+}

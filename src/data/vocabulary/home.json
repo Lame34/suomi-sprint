@@ -1,0 +1,359 @@
+{
+  "category": "home",
+  "categoryLabel": "Home & Objects",
+  "icon": "home",
+  "description": "Rooms, furniture, household items, and home life",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "home-001",
+      "finnish": "talo",
+      "english": "house",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A building/house. Partitive: taloa. 'Talo' refers to the physical building, while 'koti' means the concept of home.",
+      "examples": ["Talo on iso. — The house is big.", "Meillä on punainen talo. — We have a red house."]
+    },
+    {
+      "id": "home-002",
+      "finnish": "koti",
+      "english": "home",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Home (as a concept, where you live). Inessive: kotona (at home). Illative: kotiin (to home). Elative: kotoa (from home).",
+      "examples": ["Olen kotona. — I am at home.", "Menen kotiin. — I'm going home."]
+    },
+    {
+      "id": "home-003",
+      "finnish": "asunto",
+      "english": "apartment",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "An apartment or flat. Partitive: asuntoa. Often used in compound 'kerrostaloasunto' (apartment in a block of flats).",
+      "examples": ["Asunto on toisessa kerroksessa. — The apartment is on the second floor.", "Haen uutta asuntoa. — I'm looking for a new apartment."]
+    },
+    {
+      "id": "home-004",
+      "finnish": "huone",
+      "english": "room",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A room. Partitive: huonetta. Very common in compounds: makuuhuone, olohuone, kylpyhuone.",
+      "examples": ["Asunnossa on kolme huonetta. — The apartment has three rooms.", "Huone on valoisa. — The room is bright."]
+    },
+    {
+      "id": "home-005",
+      "finnish": "keittiö",
+      "english": "kitchen",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Kitchen. Note the 'ö' at the end. Derived from 'keittää' (to cook). Partitive: keittiötä.",
+      "examples": ["Keittiö on pieni. — The kitchen is small.", "Syömme keittiössä. — We eat in the kitchen."]
+    },
+    {
+      "id": "home-006",
+      "finnish": "makuuhuone",
+      "english": "bedroom",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Compound word: makuu (lying down, sleeping) + huone (room). Partitive: makuuhuonetta.",
+      "examples": ["Makuuhuoneessa on iso sänky. — There is a big bed in the bedroom.", "Talossa on kaksi makuuhuonetta. — The house has two bedrooms."]
+    },
+    {
+      "id": "home-007",
+      "finnish": "olohuone",
+      "english": "living room",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Compound word: olo (being, staying) + huone (room). The main room for relaxing and socializing.",
+      "examples": ["Katsomme televisiota olohuoneessa. — We watch television in the living room.", "Olohuone on kodikas. — The living room is cozy."]
+    },
+    {
+      "id": "home-008",
+      "finnish": "kylpyhuone",
+      "english": "bathroom",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Compound word: kylpy (bath) + huone (room). In Finland, the bathroom typically includes a shower but not always a bathtub.",
+      "examples": ["Kylpyhuone on siisti. — The bathroom is clean.", "Kylpyhuoneessa on suihku. — There is a shower in the bathroom."]
+    },
+    {
+      "id": "home-009",
+      "finnish": "ovi",
+      "english": "door",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Door. Partitive: ovea. Short and common word. 'Avaa ovi' = open the door, 'sulje ovi' = close the door.",
+      "examples": ["Avaa ovi! — Open the door!", "Ovi on lukossa. — The door is locked."]
+    },
+    {
+      "id": "home-010",
+      "finnish": "ikkuna",
+      "english": "window",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Window. Partitive: ikkunaa. Finnish windows are typically triple-glazed due to the cold climate.",
+      "examples": ["Avaa ikkuna! — Open the window!", "Ikkunasta näkee järven. — You can see the lake from the window."]
+    },
+    {
+      "id": "home-011",
+      "finnish": "lattia",
+      "english": "floor",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Floor (the surface you walk on inside a building). Partitive: lattiaa. Not to be confused with 'kerros' (floor/story of a building).",
+      "examples": ["Lattia on puhdas. — The floor is clean.", "Kissa makaa lattialla. — The cat is lying on the floor."]
+    },
+    {
+      "id": "home-012",
+      "finnish": "katto",
+      "english": "ceiling / roof",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Ceiling (inside) or roof (outside). Partitive: kattoa. Context determines meaning. 'Katon alla' = under the roof.",
+      "examples": ["Katto on valkoinen. — The ceiling is white.", "Lintu istuu katolla. — A bird is sitting on the roof."]
+    },
+    {
+      "id": "home-013",
+      "finnish": "seinä",
+      "english": "wall",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Wall. Note the 'ä'. Partitive: seinää. 'Seinällä' = on the wall (adessive case).",
+      "examples": ["Seinä on sininen. — The wall is blue.", "Taulu on seinällä. — The painting is on the wall."]
+    },
+    {
+      "id": "home-014",
+      "finnish": "portaat",
+      "english": "stairs",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stairs/staircase. Always plural in Finnish. Singular 'porras' means a single step. Genitive plural: portaiden.",
+      "examples": ["Portaat ovat jyrkät. — The stairs are steep.", "Menen portaita ylös. — I go up the stairs."]
+    },
+    {
+      "id": "home-015",
+      "finnish": "pöytä",
+      "english": "table",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Table. Note both 'ö' and 'ä'. Partitive: pöytää. 'Ruokapöytä' = dining table, 'kirjoituspöytä' = desk.",
+      "examples": ["Pöytä on keittiössä. — The table is in the kitchen.", "Laita lautanen pöydälle. — Put the plate on the table."]
+    },
+    {
+      "id": "home-016",
+      "finnish": "tuoli",
+      "english": "chair",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Chair. Partitive: tuolia. 'Nojatuoli' = armchair (literally: leaning chair).",
+      "examples": ["Istu tuolille! — Sit on the chair!", "Keittiössä on neljä tuolia. — There are four chairs in the kitchen."]
+    },
+    {
+      "id": "home-017",
+      "finnish": "sänky",
+      "english": "bed",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Bed. Note the 'ä'. Partitive: sänkyä. 'Parisänky' = double bed, 'kerrossänky' = bunk bed.",
+      "examples": ["Sänky on pehmeä. — The bed is soft.", "Menen sänkyyn. — I go to bed."]
+    },
+    {
+      "id": "home-018",
+      "finnish": "sohva",
+      "english": "sofa / couch",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Sofa or couch. Partitive: sohvaa. 'Sohvalla' = on the sofa. A loanword from Swedish.",
+      "examples": ["Istun sohvalla. — I'm sitting on the sofa.", "Sohva on olohuoneessa. — The sofa is in the living room."]
+    },
+    {
+      "id": "home-019",
+      "finnish": "kaappi",
+      "english": "cabinet / closet",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Cabinet, cupboard, or closet. Partitive: kaappia. Common in compounds: 'vaatekaappi' (wardrobe), 'jääkaappi' (fridge).",
+      "examples": ["Laita vaatteet kaappiin. — Put the clothes in the closet.", "Kaappi on täynnä. — The cabinet is full."]
+    },
+    {
+      "id": "home-020",
+      "finnish": "lamppu",
+      "english": "lamp",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Lamp or light fixture. Partitive: lamppua. 'Pöytälamppu' = table lamp, 'kattolamppu' = ceiling lamp.",
+      "examples": ["Laita lamppu päälle. — Turn on the lamp.", "Lamppu on rikki. — The lamp is broken."]
+    },
+    {
+      "id": "home-021",
+      "finnish": "peili",
+      "english": "mirror",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Mirror. Partitive: peiliä. 'Katsoa peiliin' = to look in the mirror.",
+      "examples": ["Peili on kylpyhuoneessa. — The mirror is in the bathroom.", "Katson peiliin. — I look in the mirror."]
+    },
+    {
+      "id": "home-022",
+      "finnish": "matto",
+      "english": "rug / carpet",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Rug or carpet. Partitive: mattoa. In Finland, 'mattojen pesu' (rug washing) at lakeside docks is a summer tradition.",
+      "examples": ["Matto on lattialla. — The rug is on the floor.", "Punainen matto on olohuoneessa. — The red carpet is in the living room."]
+    },
+    {
+      "id": "home-023",
+      "finnish": "jääkaappi",
+      "english": "refrigerator",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Compound word: jää (ice) + kaappi (cabinet). Literally 'ice cabinet'. Partitive: jääkaappia.",
+      "examples": ["Maito on jääkaapissa. — The milk is in the refrigerator.", "Jääkaappi on tyhjä. — The refrigerator is empty."]
+    },
+    {
+      "id": "home-024",
+      "finnish": "liesi",
+      "english": "stove",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stove or cooktop. Partitive: liettä (consonant gradation: s→t). Can also mean a hearth historically.",
+      "examples": ["Kattila on liedellä. — The pot is on the stove.", "Liesi on kuuma. — The stove is hot."]
+    },
+    {
+      "id": "home-025",
+      "finnish": "uuni",
+      "english": "oven",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Oven. Partitive: uunia. Also used for fireplace ovens common in Finnish homes. 'Mikrouuni' = microwave.",
+      "examples": ["Laita kakku uuniin. — Put the cake in the oven.", "Uuni on kuuma. — The oven is hot."]
+    },
+    {
+      "id": "home-026",
+      "finnish": "pesukone",
+      "english": "washing machine",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: pesu (washing) + kone (machine). Partitive: pesukonetta. 'Astianpesukone' = dishwasher.",
+      "examples": ["Pesukone on kylpyhuoneessa. — The washing machine is in the bathroom.", "Laita pyykit pesukoneeseen. — Put the laundry in the washing machine."]
+    },
+    {
+      "id": "home-027",
+      "finnish": "televisio",
+      "english": "television",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Television. Often abbreviated as 'TV' or colloquially 'telkkari'. Partitive: televisiota.",
+      "examples": ["Televisio on olohuoneessa. — The television is in the living room.", "Katsomme televisiota illalla. — We watch television in the evening."]
+    },
+    {
+      "id": "home-028",
+      "finnish": "tietokone",
+      "english": "computer",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Compound word: tieto (knowledge, information) + kone (machine). Literally 'knowledge machine'. Partitive: tietokonetta. 'Kannettava tietokone' = laptop.",
+      "examples": ["Tietokone on pöydällä. — The computer is on the table.", "Tarvitsen uuden tietokoneen. — I need a new computer."]
+    },
+    {
+      "id": "home-029",
+      "finnish": "puhelin",
+      "english": "phone",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Phone. Consonant stem: puhelime- (e.g., genitive: puhelimen). Derived from 'puhua' (to speak). 'Matkapuhelin' = mobile phone.",
+      "examples": ["Puhelin soi. — The phone is ringing.", "Missä on puhelimeni? — Where is my phone?"]
+    },
+    {
+      "id": "home-030",
+      "finnish": "avain",
+      "english": "key",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Key. Consonant stem: avaime- (e.g., genitive: avaimen, plural: avaimet). Related to 'avata' (to open).",
+      "examples": ["Missä avaimet ovat? — Where are the keys?", "Unohdin avaimen kotiin. — I forgot the key at home."]
+    },
+    {
+      "id": "home-031",
+      "finnish": "lukko",
+      "english": "lock",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Lock. Partitive: lukkoa. 'Lukossa' = locked (inessive). Related verb: 'lukita' (to lock).",
+      "examples": ["Ovi on lukossa. — The door is locked.", "Lukko on rikki. — The lock is broken."]
+    },
+    {
+      "id": "home-032",
+      "finnish": "puutarha",
+      "english": "garden",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: puu (tree) + tarha (yard, enclosure). Partitive: puutarhaa. 'Puutarhuri' = gardener.",
+      "examples": ["Puutarhassa kasvaa kukkia. — Flowers grow in the garden.", "Puutarha on kaunis kesällä. — The garden is beautiful in summer."]
+    },
+    {
+      "id": "home-033",
+      "finnish": "parveke",
+      "english": "balcony",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Balcony. Partitive: parveketta. Very common in Finnish apartment buildings. 'Lasitettu parveke' = glazed balcony (common in Finland).",
+      "examples": ["Istun parvekkeella. — I'm sitting on the balcony.", "Parvekkeelta näkee puiston. — You can see the park from the balcony."]
+    },
+    {
+      "id": "home-034",
+      "finnish": "hissi",
+      "english": "elevator",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Elevator/lift. Partitive: hissiä. A loanword from Swedish 'hiss'.",
+      "examples": ["Menen hissillä. — I take the elevator.", "Hissi on rikki. — The elevator is broken."]
+    },
+    {
+      "id": "home-035",
+      "finnish": "kerros",
+      "english": "floor / story",
+      "category": "home",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Floor or story of a building (not the surface). Partitive: kerrosta. 'Ensimmäinen kerros' = first floor. Also means 'layer'. Not to be confused with 'lattia' (floor surface).",
+      "examples": ["Asun kolmannessa kerroksessa. — I live on the third floor.", "Talossa on viisi kerrosta. — The building has five floors."]
+    }
+  ]
+}

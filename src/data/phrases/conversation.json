@@ -1,0 +1,409 @@
+{
+  "category": "conversation",
+  "categoryLabel": "Daily Conversation",
+  "icon": "message-circle",
+  "description": "Common phrases for small talk and everyday chat",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "conversation-001",
+      "finnish": "Miten sinulla menee?",
+      "english": "How are you doing?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "How at-you goes?",
+      "notes": "Informal. Uses adessive case (sinulla) to express 'at you'.",
+      "words": ["miten", "sinä", "mennä"]
+    },
+    {
+      "id": "conversation-002",
+      "finnish": "Kiitos, ihan hyvin.",
+      "english": "Thanks, quite fine.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Thanks, quite well.",
+      "notes": "Standard polite reply. 'Ihan' softens the response, meaning 'quite' or 'fairly'.",
+      "words": ["kiitos", "hyvin"]
+    },
+    {
+      "id": "conversation-003",
+      "finnish": "Entä sinulla?",
+      "english": "And you?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "And-what at-you?",
+      "notes": "Informal follow-up. 'Entä' means 'and what about'. Uses adessive case (sinulla).",
+      "words": ["sinä"]
+    },
+    {
+      "id": "conversation-004",
+      "finnish": "Mitä kuuluu?",
+      "english": "What's up? / How are you?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "What is heard?",
+      "notes": "The most common Finnish greeting after 'hei'. Very informal and versatile.",
+      "words": ["mikä"]
+    },
+    {
+      "id": "conversation-005",
+      "finnish": "Ei erikoista.",
+      "english": "Nothing special.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Not special.",
+      "notes": "Common casual reply to 'Mitä kuuluu?'. 'Ei' negates the phrase.",
+      "words": ["ei"]
+    },
+    {
+      "id": "conversation-006",
+      "finnish": "Mistä olet kotoisin?",
+      "english": "Where are you from?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "From-where are-you originating?",
+      "notes": "Informal. 'Mistä' is the elative form of 'mikä' (from where). 'Kotoisin' means 'originally from'.",
+      "words": ["mikä", "olla", "koti"]
+    },
+    {
+      "id": "conversation-007",
+      "finnish": "Olen kotoisin Englannista.",
+      "english": "I'm from England.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "I-am originating from-England.",
+      "notes": "Country names take the elative case (-sta/-stä) with 'kotoisin'.",
+      "words": ["olla", "koti"]
+    },
+    {
+      "id": "conversation-008",
+      "finnish": "Asun Helsingissä.",
+      "english": "I live in Helsinki.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "I-live in-Helsinki.",
+      "notes": "Cities take the inessive case (-ssa/-ssä) to express 'in'.",
+      "words": ["asua"]
+    },
+    {
+      "id": "conversation-009",
+      "finnish": "Kuinka vanha olet?",
+      "english": "How old are you?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "How old are-you?",
+      "notes": "Informal. 'Kuinka' means 'how' (degree/extent).",
+      "words": ["vanha", "olla"]
+    },
+    {
+      "id": "conversation-010",
+      "finnish": "Olen kolmekymmentä vuotta vanha.",
+      "english": "I am thirty years old.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "I-am thirty year old.",
+      "notes": "'Vuotta' is the partitive singular of 'vuosi' (year), used with numbers.",
+      "words": ["olla", "vanha"]
+    },
+    {
+      "id": "conversation-011",
+      "finnish": "Mitä teet työksesi?",
+      "english": "What do you do for work?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "What do-you as-your-work?",
+      "notes": "Informal. 'Työksesi' is translative case of 'työ' with possessive suffix (-kse- + -si).",
+      "words": ["mikä", "tehdä", "työ"]
+    },
+    {
+      "id": "conversation-012",
+      "finnish": "Olen opiskelija.",
+      "english": "I am a student.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "I-am student.",
+      "notes": "No article needed in Finnish. 'Opiskelija' comes from 'opiskella' (to study).",
+      "words": ["olla"]
+    },
+    {
+      "id": "conversation-013",
+      "finnish": "Opiskelen suomea.",
+      "english": "I study Finnish.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "I-study Finnish.",
+      "notes": "Languages take the partitive case (-a/-ä) as objects of study. 'Suomi' → 'suomea'.",
+      "words": ["opiskella"]
+    },
+    {
+      "id": "conversation-014",
+      "finnish": "Puhun englantia ja vähän suomea.",
+      "english": "I speak English and a little Finnish.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "I-speak English and little Finnish.",
+      "notes": "Languages as objects take partitive case. 'Vähän' means 'a little'.",
+      "words": ["puhua"]
+    },
+    {
+      "id": "conversation-015",
+      "finnish": "Pidän Suomesta.",
+      "english": "I like Finland.",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "I-hold from-Finland.",
+      "notes": "Informal. 'Pitää' + elative case (-sta/-stä) = 'to like'. This is a key Finnish grammar pattern. Do not confuse with 'pitää' meaning 'to hold' or 'must'.",
+      "words": ["pitää"]
+    },
+    {
+      "id": "conversation-016",
+      "finnish": "Suomi on kaunis maa.",
+      "english": "Finland is a beautiful country.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Finland is beautiful country.",
+      "notes": "'Maa' means both 'country' and 'land/earth'.",
+      "words": ["olla", "kaunis"]
+    },
+    {
+      "id": "conversation-017",
+      "finnish": "Onko sinulla lapsia?",
+      "english": "Do you have children?",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Is at-you children?",
+      "notes": "Informal. Finnish expresses 'have' as 'onko sinulla' (is at you). 'Lapsia' is partitive plural of 'lapsi', used in questions about quantity.",
+      "words": ["olla", "sinä", "lapsi"]
+    },
+    {
+      "id": "conversation-018",
+      "finnish": "Minulla on kaksi lasta.",
+      "english": "I have two children.",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "At-me is two child.",
+      "notes": "Possessive structure: adessive (minulla) + on. 'Lasta' is partitive singular of 'lapsi', required after numbers.",
+      "words": ["minä", "olla", "lapsi"]
+    },
+    {
+      "id": "conversation-019",
+      "finnish": "Oletko naimisissa?",
+      "english": "Are you married?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Are-you in-marriage?",
+      "notes": "Informal. 'Naimisissa' is the inessive plural of 'naiminen' (marriage). The -ko suffix makes it a question.",
+      "words": ["olla"]
+    },
+    {
+      "id": "conversation-020",
+      "finnish": "Mitä harrastat?",
+      "english": "What are your hobbies?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "What do-you-hobby?",
+      "notes": "Informal. 'Harrastaa' means 'to have as a hobby / to pursue'. Very common question in Finland.",
+      "words": ["mikä"]
+    },
+    {
+      "id": "conversation-021",
+      "finnish": "Mikä päivä tänään on?",
+      "english": "What day is today?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "What day today is?",
+      "notes": "'Tänään' means 'today'. Word order is flexible in Finnish; verb often comes last in questions with a question word.",
+      "words": ["mikä", "päivä", "olla"]
+    },
+    {
+      "id": "conversation-022",
+      "finnish": "Millainen sää tänään on?",
+      "english": "What's the weather like today?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "What-kind-of weather today is?",
+      "notes": "'Millainen' means 'what kind of'. Weather is a favourite topic in Finland!",
+      "words": ["sää", "olla"]
+    },
+    {
+      "id": "conversation-023",
+      "finnish": "Tänään on kylmä.",
+      "english": "It's cold today.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Today is cold.",
+      "notes": "No subject pronoun needed for weather expressions. Finnish uses 'on' + adjective.",
+      "words": ["olla"]
+    },
+    {
+      "id": "conversation-024",
+      "finnish": "Onko sinulla aikaa?",
+      "english": "Do you have time?",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Is at-you time?",
+      "notes": "Informal. Possessive structure with -ko question suffix. 'Aikaa' is partitive of 'aika'.",
+      "words": ["olla", "sinä", "aika"]
+    },
+    {
+      "id": "conversation-025",
+      "finnish": "Mennään kahville!",
+      "english": "Let's go for coffee!",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Let's-go for-coffee!",
+      "notes": "Informal. Passive voice ('mennään') is used as 'let's' in spoken Finnish. 'Kahville' is allative case of 'kahvi' (onto/for coffee).",
+      "words": ["mennä", "kahvi"]
+    },
+    {
+      "id": "conversation-026",
+      "finnish": "Haluatko tulla mukaan?",
+      "english": "Do you want to come along?",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Want-you to-come along?",
+      "notes": "Informal. '-ko' suffix on verb makes it a question. 'Mukaan' means 'along/with'. Very common invitation phrase.",
+      "words": ["haluta", "tulla"]
+    },
+    {
+      "id": "conversation-027",
+      "finnish": "Se kuulostaa hyvältä.",
+      "english": "That sounds good.",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "It sounds from-good.",
+      "notes": "'Kuulostaa' (to sound like) takes the ablative case (-lta/-ltä). 'Hyvä' → 'hyvältä'.",
+      "words": ["se", "hyvä"]
+    },
+    {
+      "id": "conversation-028",
+      "finnish": "Olen samaa mieltä.",
+      "english": "I agree.",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "I-am of-same mind.",
+      "notes": "Idiomatic. 'Samaa mieltä' (of the same mind) uses partitive case. Very common expression.",
+      "words": ["olla"]
+    },
+    {
+      "id": "conversation-029",
+      "finnish": "En ole samaa mieltä.",
+      "english": "I disagree.",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Not I-am of-same mind.",
+      "notes": "Negation: 'en' (I don't) + 'ole' (stem of 'olla'). The negative verb conjugates by person in Finnish.",
+      "words": ["ei", "olla"]
+    },
+    {
+      "id": "conversation-030",
+      "finnish": "Voidaan tavata huomenna.",
+      "english": "We can meet tomorrow.",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Can-we meet tomorrow.",
+      "notes": "Informal. Passive 'voidaan' used as 'we can' in spoken Finnish. 'Tavata' = to meet. 'Huomenna' = tomorrow (essive case).",
+      "words": ["voida"]
+    },
+    {
+      "id": "conversation-031",
+      "finnish": "Minusta tuntuu, että...",
+      "english": "I feel that...",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "From-me it-feels, that...",
+      "notes": "Elative case 'minusta' (from me) + 'tuntua' (to feel). Impersonal construction common in Finnish for expressing feelings.",
+      "words": ["minä"]
+    },
+    {
+      "id": "conversation-032",
+      "finnish": "Mielestäni...",
+      "english": "In my opinion...",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "From-my-mind...",
+      "notes": "'Mieli' (mind) in elative case with possessive suffix -ni. A polite way to express opinions. Formal and informal.",
+      "words": ["minä"]
+    },
+    {
+      "id": "conversation-033",
+      "finnish": "Se on totta.",
+      "english": "That's true.",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "It is true.",
+      "notes": "'Totta' is partitive of 'tosi' (true). Used as a common agreement expression.",
+      "words": ["se", "olla"]
+    },
+    {
+      "id": "conversation-034",
+      "finnish": "En usko niin.",
+      "english": "I don't think so.",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Not I-believe so.",
+      "notes": "'En' is the first-person negative verb. 'Uskoa' means 'to believe/think'. 'Niin' = so/that way. Polite way to disagree.",
+      "words": ["ei"]
+    },
+    {
+      "id": "conversation-035",
+      "finnish": "Toivottavasti!",
+      "english": "Hopefully!",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Hopefully!",
+      "notes": "Derived from 'toivoa' (to hope). A single-word exclamation used frequently in conversation.",
+      "words": ["toivoa"]
+    },
+    {
+      "id": "conversation-036",
+      "finnish": "Onneksi olkoon!",
+      "english": "Congratulations!",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "For luck may-it-be!",
+      "notes": "'Onni' (luck/happiness) in translative case + 'olkoon' (imperative of 'olla'). Used for birthdays, weddings, achievements.",
+      "words": ["olla"]
+    },
+    {
+      "id": "conversation-037",
+      "finnish": "Hyvää syntymäpäivää!",
+      "english": "Happy birthday!",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Good birth-day!",
+      "notes": "'Syntymäpäivä' = birthday (syntymä = birth + päivä = day). Both words in partitive case.",
+      "words": ["hyvä", "päivä"]
+    },
+    {
+      "id": "conversation-038",
+      "finnish": "Hyvää viikonloppua!",
+      "english": "Have a good weekend!",
+      "category": "conversation",
+      "difficulty": 1,
+      "literalTranslation": "Good weekend!",
+      "notes": "'Viikonloppu' = weekend (viikon = of week + loppu = end). Partitive case used for wishes.",
+      "words": ["hyvä"]
+    },
+    {
+      "id": "conversation-039",
+      "finnish": "Pidetään yhteyttä!",
+      "english": "Let's keep in touch!",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Let's-keep connection!",
+      "notes": "Passive imperative 'pidetään' (let's keep) + 'yhteyttä' (partitive of 'yhteys' = connection). Very common parting phrase.",
+      "words": ["pitää"]
+    },
+    {
+      "id": "conversation-040",
+      "finnish": "Oli kiva jutella!",
+      "english": "It was nice to chat!",
+      "category": "conversation",
+      "difficulty": 2,
+      "literalTranslation": "Was nice to-chat!",
+      "notes": "'Oli' is past tense of 'olla'. 'Kiva' = nice (informal). 'Jutella' = to chat. Common way to end a conversation.",
+      "words": ["olla", "kiva"]
+    }
+  ]
+}

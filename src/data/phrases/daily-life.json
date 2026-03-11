@@ -1,0 +1,331 @@
+{
+  "category": "daily-life",
+  "categoryLabel": "Daily Life & Routine",
+  "icon": "sun",
+  "description": "Everyday routines, household tasks, and daily activities",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "daily-life-001",
+      "finnish": "Herään aamulla kello seitsemän.",
+      "english": "I wake up at seven in the morning.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-wake-up morning-in clock seven.",
+      "notes": "'Herään' is the first person singular of 'herätä' (to wake up). 'Aamulla' uses the adessive case (-lla) to express 'in the morning'. 'Kello seitsemän' means 'at seven o'clock'.",
+      "words": ["herätä", "aamu", "kello", "seitsemän"]
+    },
+    {
+      "id": "daily-life-002",
+      "finnish": "Käyn suihkussa joka aamu.",
+      "english": "I take a shower every morning.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-visit shower-in every morning.",
+      "notes": "'Käydä suihkussa' (to visit in shower) is the Finnish idiom for taking a shower. 'Suihkussa' is the inessive case (-ssa) of 'suihku'. 'Joka aamu' means 'every morning'.",
+      "words": ["käydä", "suihku", "joka", "aamu"]
+    },
+    {
+      "id": "daily-life-003",
+      "finnish": "Syön aamupalaa.",
+      "english": "I eat breakfast.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-eat morning-piece.",
+      "notes": "'Aamupala' literally means 'morning piece' (aamu + pala). 'Aamupalaa' is in the partitive case, which is used with eating/drinking because the action doesn't consume the entire thing conceptually.",
+      "words": ["syödä", "aamupala"]
+    },
+    {
+      "id": "daily-life-004",
+      "finnish": "Juon kahvia aamuisin.",
+      "english": "I drink coffee in the mornings.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-drink coffee mornings-in.",
+      "notes": "'Kahvia' is the partitive case of 'kahvi', required with drinking verbs. 'Aamuisin' is the temporal plural instructive form meaning 'in the mornings' (habitually), as opposed to 'aamulla' which refers to a specific morning.",
+      "words": ["juoda", "kahvi", "aamu"]
+    },
+    {
+      "id": "daily-life-005",
+      "finnish": "Lähden töihin kello kahdeksan.",
+      "english": "I leave for work at eight.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-leave works-into clock eight.",
+      "notes": "'Lähden' is the first person singular of 'lähteä' (to leave). 'Töihin' is the illative plural of 'työ', meaning 'to work / into work'. Finnish uses the plural 'työt' when referring to going to work.",
+      "words": ["lähteä", "työ", "kello", "kahdeksan"]
+    },
+    {
+      "id": "daily-life-006",
+      "finnish": "Pesen hampaani.",
+      "english": "I brush my teeth.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-wash my-teeth.",
+      "notes": "'Pestä' means 'to wash'. Finnish says 'wash teeth' instead of 'brush teeth'. 'Hampaani' uses the possessive suffix -ni (my) on 'hampaat' (teeth, plural of 'hammas'). Possessive suffixes are common in daily routine expressions.",
+      "words": ["pestä", "hammas"]
+    },
+    {
+      "id": "daily-life-007",
+      "finnish": "Olen töissä koko päivän.",
+      "english": "I'm at work all day.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-am works-in whole day.",
+      "notes": "'Töissä' is the inessive plural of 'työ', meaning 'at work' (inside work). 'Koko päivän' means 'the whole day', where 'päivän' is in the accusative/genitive case.",
+      "words": ["olla", "työ", "koko", "päivä"]
+    },
+    {
+      "id": "daily-life-008",
+      "finnish": "Syön lounasta puolen päivän aikaan.",
+      "english": "I eat lunch around noon.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-eat lunch-partitive half day's time-at.",
+      "notes": "'Lounasta' is the partitive of 'lounas' (lunch), required with eating verbs. 'Puolen päivän aikaan' literally means 'at the time of half day', the Finnish way to say 'around noon'.",
+      "words": ["syödä", "lounas", "puoli", "päivä", "aika"]
+    },
+    {
+      "id": "daily-life-009",
+      "finnish": "Meillä on kokous iltapäivällä.",
+      "english": "We have a meeting in the afternoon.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "At-us is meeting afternoon-in.",
+      "notes": "'Meillä on' (at us is) is the Finnish way to express 'we have'. Finnish uses the adessive case + 'olla' for possession. 'Iltapäivällä' uses the adessive (-llä) for time expressions, meaning 'in the afternoon'.",
+      "words": ["me", "olla", "kokous", "iltapäivä"]
+    },
+    {
+      "id": "daily-life-010",
+      "finnish": "Pidän tauon.",
+      "english": "I take a break.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Pitää taukoa' or 'pitää tauon' means 'to take a break'. 'Tauon' is the accusative/genitive form of 'tauko' (break). 'Pitää' is a versatile verb meaning 'to hold, to keep, to like, to must' depending on context.",
+      "words": ["pitää", "tauko"]
+    },
+    {
+      "id": "daily-life-011",
+      "finnish": "Käyn kaupassa töiden jälkeen.",
+      "english": "I go to the store after work.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-visit store-in works after.",
+      "notes": "'Käydä kaupassa' means 'to visit the store'. 'Kaupassa' is the inessive (-ssa) of 'kauppa'. 'Töiden jälkeen' means 'after work', where 'töiden' is the genitive plural of 'työ' and 'jälkeen' is a postposition meaning 'after'.",
+      "words": ["käydä", "kauppa", "työ", "jälkeen"]
+    },
+    {
+      "id": "daily-life-012",
+      "finnish": "Haen lapset koulusta.",
+      "english": "I pick up the children from school.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-fetch children school-from.",
+      "notes": "'Hakea' means 'to fetch/pick up'. 'Lapset' is the plural of 'lapsi' (child). 'Koulusta' uses the elative case (-sta) meaning 'from school', indicating movement away from inside a place.",
+      "words": ["hakea", "lapsi", "koulu"]
+    },
+    {
+      "id": "daily-life-013",
+      "finnish": "Tulen kotiin kello viisi.",
+      "english": "I come home at five.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-come home-into clock five.",
+      "notes": "'Tulen' is the first person singular of 'tulla' (to come). 'Kotiin' is the illative of 'koti', meaning 'to home' (direction towards). Compare with 'kotona' (at home, static) and 'kotoa' (from home).",
+      "words": ["tulla", "koti", "kello", "viisi"]
+    },
+    {
+      "id": "daily-life-014",
+      "finnish": "Teen ruokaa.",
+      "english": "I make food.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-make food.",
+      "notes": "'Tehdä ruokaa' is the standard Finnish expression for cooking. 'Ruokaa' is the partitive of 'ruoka' (food). The partitive is used because making food is an ongoing, unbounded activity. This is the everyday way to say 'I cook'.",
+      "words": ["tehdä", "ruoka"]
+    },
+    {
+      "id": "daily-life-015",
+      "finnish": "Syömme päivällistä yhdessä.",
+      "english": "We eat dinner together.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Syömme' is the first person plural of 'syödä' (we eat). 'Päivällistä' is the partitive of 'päivällinen' (dinner). 'Yhdessä' means 'together'. The partitive case is always used with food being eaten.",
+      "words": ["syödä", "päivällinen", "yhdessä"]
+    },
+    {
+      "id": "daily-life-016",
+      "finnish": "Katson televisiota illalla.",
+      "english": "I watch television in the evening.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Katsoa' means 'to watch/look at'. 'Televisiota' is the partitive of 'televisio', used because watching is a continuous activity. 'Illalla' uses the adessive (-lla) for 'in the evening'.",
+      "words": ["katsoa", "televisio", "ilta"]
+    },
+    {
+      "id": "daily-life-017",
+      "finnish": "Luen kirjaa ennen nukkumista.",
+      "english": "I read a book before sleeping.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-read book before sleeping.",
+      "notes": "'Lukea' means 'to read'. 'Kirjaa' is the partitive of 'kirja', used because reading is an ongoing activity. 'Ennen' is a preposition meaning 'before' that takes the partitive. 'Nukkumista' is the partitive of the verbal noun 'nukkuminen' (sleeping).",
+      "words": ["lukea", "kirja", "ennen", "nukkua"]
+    },
+    {
+      "id": "daily-life-018",
+      "finnish": "Menen nukkumaan kello kymmenen.",
+      "english": "I go to sleep at ten.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-go sleeping-into clock ten.",
+      "notes": "'Mennä nukkumaan' (to go into sleeping) is the Finnish way to say 'go to sleep'. 'Nukkumaan' is the third infinitive illative of 'nukkua', expressing purpose of movement. This structure (verb of motion + MA-infinitive illative) is very common in Finnish.",
+      "words": ["mennä", "nukkua", "kello", "kymmenen"]
+    },
+    {
+      "id": "daily-life-019",
+      "finnish": "Käyn lenkillä kolme kertaa viikossa.",
+      "english": "I go for a run three times a week.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-visit run-on three time-partitive week-in.",
+      "notes": "'Käydä lenkillä' means 'to go for a run/jog'. 'Lenkillä' is the adessive of 'lenkki' (loop/round). 'Kolme kertaa' means 'three times' (kerta = time/occasion). 'Viikossa' uses the inessive (-ssa) of 'viikko' (week).",
+      "words": ["käydä", "lenkki", "kolme", "kerta", "viikko"]
+    },
+    {
+      "id": "daily-life-020",
+      "finnish": "Siivoan kotia viikonloppuisin.",
+      "english": "I clean the house on weekends.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-clean home-partitive weekends-in.",
+      "notes": "'Siivota' means 'to clean'. 'Kotia' is the partitive of 'koti' (home), used because cleaning is a partial/ongoing action. 'Viikonloppuisin' is the temporal plural instructive meaning 'on weekends' (habitually).",
+      "words": ["siivota", "koti", "viikonloppu"]
+    },
+    {
+      "id": "daily-life-021",
+      "finnish": "Teen ruokaostoksia lauantaisin.",
+      "english": "I do grocery shopping on Saturdays.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-make food-purchases Saturdays-in.",
+      "notes": "'Ruokaostoksia' is the partitive plural of 'ruokaostos' (grocery purchase), a compound of 'ruoka' (food) + 'ostos' (purchase). 'Lauantaisin' is the temporal plural instructive meaning 'on Saturdays' (habitually). Finnish uses 'tehdä ostoksia' for 'to do shopping'.",
+      "words": ["tehdä", "ruoka", "ostos", "lauantai"]
+    },
+    {
+      "id": "daily-life-022",
+      "finnish": "Tapaan ystäviä viikonloppuna.",
+      "english": "I meet friends on the weekend.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Tavata' means 'to meet'. 'Ystäviä' is the partitive plural of 'ystävä' (friend), used because you meet some (not all) friends. 'Viikonloppuna' uses the essive case (-na) meaning 'on/during the weekend' for a specific weekend.",
+      "words": ["tavata", "ystävä", "viikonloppu"]
+    },
+    {
+      "id": "daily-life-023",
+      "finnish": "Käyn uimassa kerran viikossa.",
+      "english": "I go swimming once a week.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-visit swimming-in once week-in.",
+      "notes": "'Käydä uimassa' means 'to go swimming'. 'Uimassa' is the third infinitive inessive of 'uida' (to swim), indicating an activity you go to do. 'Kerran viikossa' means 'once a week'. This 'käydä + MA-infinitive inessive' pattern is very productive in Finnish.",
+      "words": ["käydä", "uida", "kerta", "viikko"]
+    },
+    {
+      "id": "daily-life-024",
+      "finnish": "Pesen pyykit.",
+      "english": "I do the laundry.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-wash laundry-items.",
+      "notes": "'Pestä' means 'to wash'. 'Pyykit' is the nominative plural of 'pyykki' (laundry item). Finnish literally says 'I wash the laundries'. The total object (nominative plural) indicates washing all the laundry, not just some of it.",
+      "words": ["pestä", "pyykki"]
+    },
+    {
+      "id": "daily-life-025",
+      "finnish": "Vien roskat ulos.",
+      "english": "I take the trash out.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-carry trash-items out.",
+      "notes": "'Viedä' means 'to take/carry (away from speaker)'. 'Roskat' is the nominative plural of 'roska' (trash/rubbish). 'Ulos' means 'out/outside'. Compare 'viedä' (take away) with 'tuoda' (bring toward speaker).",
+      "words": ["viedä", "roska", "ulos"]
+    },
+    {
+      "id": "daily-life-026",
+      "finnish": "Tiskaan astiat.",
+      "english": "I wash the dishes.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Tiskata' means 'to wash dishes / to do the dishes'. 'Astiat' is the nominative plural of 'astia' (dish/vessel). 'Tiskata' is specifically for washing dishes, while 'pestä' is the general word for washing.",
+      "words": ["tiskata", "astia"]
+    },
+    {
+      "id": "daily-life-027",
+      "finnish": "Imuroin lattian.",
+      "english": "I vacuum the floor.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Imuroida' means 'to vacuum' (from 'imuri' = vacuum cleaner). 'Lattian' is the accusative/genitive of 'lattia' (floor). The total object form indicates vacuuming the entire floor.",
+      "words": ["imuroida", "lattia"]
+    },
+    {
+      "id": "daily-life-028",
+      "finnish": "Käyn kaupassa.",
+      "english": "I go to the store.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "I-visit store-in.",
+      "notes": "'Käydä kaupassa' literally means 'to visit in the store'. 'Kaupassa' is the inessive (-ssa) of 'kauppa'. Note that 'käydä' implies a round trip — you go and come back. This is one of the most common daily expressions in Finnish.",
+      "words": ["käydä", "kauppa"]
+    },
+    {
+      "id": "daily-life-029",
+      "finnish": "Laitanko kahvia?",
+      "english": "Shall I make coffee?",
+      "category": "daily-life",
+      "difficulty": 3,
+      "literalTranslation": "Make-I-question coffee?",
+      "notes": "'Laittaa' means 'to make/prepare/put'. The question clitic '-ko' is attached to the verb to form a yes/no question. 'Kahvia' is the partitive of 'kahvi'. This is a polite way to offer coffee, very common in Finnish culture where coffee is central to daily life.",
+      "words": ["laittaa", "kahvi"]
+    },
+    {
+      "id": "daily-life-030",
+      "finnish": "Minulla on kiire.",
+      "english": "I'm in a hurry.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "At-me is hurry.",
+      "notes": "'Minulla on' (at me is) is the Finnish possessive structure. Finnish doesn't say 'I have' but rather 'at me there is'. 'Kiire' means 'hurry/rush'. This is a very frequent everyday expression. The adessive case (-lla) on the pronoun indicates possession.",
+      "words": ["minä", "olla", "kiire"]
+    },
+    {
+      "id": "daily-life-031",
+      "finnish": "Minulla on tylsää.",
+      "english": "I'm bored.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "literalTranslation": "At-me is boring.",
+      "notes": "'Minulla on tylsää' literally means 'at me there is boring'. Finnish expresses boredom as something that exists 'at' the person. 'Tylsää' is the partitive of 'tylsä' (boring/dull). This is the standard way to express being bored in Finnish.",
+      "words": ["minä", "olla", "tylsä"]
+    },
+    {
+      "id": "daily-life-032",
+      "finnish": "Olen väsynyt pitkän päivän jälkeen.",
+      "english": "I'm tired after a long day.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Väsynyt' is the past active participle of 'väsyä' (to get tired), used as an adjective meaning 'tired'. 'Pitkän päivän' is 'long day' in the genitive case, required before the postposition 'jälkeen' (after). Postpositions follow their noun in Finnish.",
+      "words": ["olla", "väsynyt", "pitkä", "päivä", "jälkeen"]
+    },
+    {
+      "id": "daily-life-033",
+      "finnish": "Huomenna on vapaapäivä.",
+      "english": "Tomorrow is a day off.",
+      "category": "daily-life",
+      "difficulty": 2,
+      "notes": "'Huomenna' means 'tomorrow' (the essive -na gives it the temporal meaning). 'Vapaapäivä' is a compound word: 'vapaa' (free) + 'päivä' (day). Finnish creates many compound words by combining existing words without spaces.",
+      "words": ["huomenna", "olla", "vapaa", "päivä"]
+    }
+  ]
+}

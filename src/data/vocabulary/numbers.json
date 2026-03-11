@@ -1,0 +1,359 @@
+{
+  "category": "numbers",
+  "categoryLabel": "Numbers",
+  "icon": "hash",
+  "description": "Cardinal numbers, ordinals, and counting essentials",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "numbers-001",
+      "finnish": "nolla",
+      "english": "zero",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Same root as English 'null'",
+      "examples": ["Lämpötila on nolla astetta. — The temperature is zero degrees."]
+    },
+    {
+      "id": "numbers-002",
+      "finnish": "yksi",
+      "english": "one",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Also means 'a/an' in some contexts since Finnish has no articles",
+      "examples": ["Yksi kahvi, kiitos. — One coffee, please."]
+    },
+    {
+      "id": "numbers-003",
+      "finnish": "kaksi",
+      "english": "two",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Stem changes in cases: kaksi → kahde- (e.g., kahden)",
+      "examples": ["Meillä on kaksi lasta. — We have two children."]
+    },
+    {
+      "id": "numbers-004",
+      "finnish": "kolme",
+      "english": "three",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Stem: kolme → kolme- in most cases",
+      "examples": ["Kolme teetä, kiitos. — Three teas, please."]
+    },
+    {
+      "id": "numbers-005",
+      "finnish": "neljä",
+      "english": "four",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Note the 'ä' — front vowel harmony",
+      "examples": ["Talossa on neljä huonetta. — The house has four rooms."]
+    },
+    {
+      "id": "numbers-006",
+      "finnish": "viisi",
+      "english": "five",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Double 'i' is important",
+      "examples": ["Viisi minuuttia vielä. — Five minutes more."]
+    },
+    {
+      "id": "numbers-007",
+      "finnish": "kuusi",
+      "english": "six",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Also means 'spruce tree' — context matters!",
+      "examples": ["Kello on kuusi. — It is six o'clock."]
+    },
+    {
+      "id": "numbers-008",
+      "finnish": "seitsemän",
+      "english": "seven",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "One of the longer number words. Note the 'ä' at the end.",
+      "examples": ["Viikossa on seitsemän päivää. — There are seven days in a week."]
+    },
+    {
+      "id": "numbers-009",
+      "finnish": "kahdeksan",
+      "english": "eight",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Related to 'kaksi' (two) — literally 'two less (than ten)'",
+      "examples": ["Koulu alkaa kello kahdeksan. — School starts at eight o'clock."]
+    },
+    {
+      "id": "numbers-010",
+      "finnish": "yhdeksän",
+      "english": "nine",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Related to 'yksi' (one) — literally 'one less (than ten)'",
+      "examples": ["Bussini lähtee yhdeksältä. — My bus leaves at nine."]
+    },
+    {
+      "id": "numbers-011",
+      "finnish": "kymmenen",
+      "english": "ten",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Base for teens (toista = 'of the second [ten]') and tens (-kymmentä)",
+      "examples": ["Kymmenen euroa, kiitos. — Ten euros, please."]
+    },
+    {
+      "id": "numbers-012",
+      "finnish": "yksitoista",
+      "english": "eleven",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: yksi + toista ('one of the second ten')",
+      "examples": ["Hän on yksitoista vuotta vanha. — He/She is eleven years old."]
+    },
+    {
+      "id": "numbers-013",
+      "finnish": "kaksitoista",
+      "english": "twelve",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: kaksi + toista",
+      "examples": ["Kello on kaksitoista. — It is twelve o'clock."]
+    },
+    {
+      "id": "numbers-014",
+      "finnish": "kolmetoista",
+      "english": "thirteen",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: kolme + toista. Teens 13-19 follow this same pattern.",
+      "examples": ["Luokassa on kolmetoista oppilasta. — There are thirteen students in the class."]
+    },
+    {
+      "id": "numbers-015",
+      "finnish": "neljätoista",
+      "english": "fourteen",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: neljä + toista",
+      "examples": ["Neljätoista päivää lomaa. — Fourteen days of vacation."]
+    },
+    {
+      "id": "numbers-016",
+      "finnish": "viisitoista",
+      "english": "fifteen",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: viisi + toista",
+      "examples": ["Viisitoista minuuttia jäljellä. — Fifteen minutes remaining."]
+    },
+    {
+      "id": "numbers-017",
+      "finnish": "kaksikymmentä",
+      "english": "twenty",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: kaksi + kymmentä ('two tens'). Tens: 20, 30, 40... follow this pattern.",
+      "examples": ["Olen kaksikymmentä vuotta vanha. — I am twenty years old."]
+    },
+    {
+      "id": "numbers-018",
+      "finnish": "kolmekymmentä",
+      "english": "thirty",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: kolme + kymmentä",
+      "examples": ["Kolmekymmentä kilometriä. — Thirty kilometers."]
+    },
+    {
+      "id": "numbers-019",
+      "finnish": "neljäkymmentä",
+      "english": "forty",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: neljä + kymmentä",
+      "examples": ["Hän on neljäkymmentä vuotta vanha. — He/She is forty years old."]
+    },
+    {
+      "id": "numbers-020",
+      "finnish": "viisikymmentä",
+      "english": "fifty",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: viisi + kymmentä",
+      "examples": ["Viisikymmentä prosenttia. — Fifty percent."]
+    },
+    {
+      "id": "numbers-021",
+      "finnish": "sata",
+      "english": "hundred",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Just 'sata', not 'yksi sata'. Plural: sataa (partitive in counting).",
+      "examples": ["Sata euroa on paljon. — A hundred euros is a lot."]
+    },
+    {
+      "id": "numbers-022",
+      "finnish": "tuhat",
+      "english": "thousand",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Just 'tuhat', not 'yksi tuhat'.",
+      "examples": ["Tuhat kiitosta! — A thousand thanks! (expression)"]
+    },
+    {
+      "id": "numbers-023",
+      "finnish": "miljoona",
+      "english": "million",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 2,
+      "notes": "Borrowed from Swedish/Latin. Declined as a noun.",
+      "examples": ["Helsingissä asuu yli miljoona ihmistä. — Over a million people live in Helsinki."]
+    },
+    {
+      "id": "numbers-024",
+      "finnish": "ensimmäinen",
+      "english": "first",
+      "category": "numbers",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Ordinal number. Irregular — not derived regularly from 'yksi'.",
+      "examples": ["Tämä on ensimmäinen kerta. — This is the first time."]
+    },
+    {
+      "id": "numbers-025",
+      "finnish": "toinen",
+      "english": "second / other",
+      "category": "numbers",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Also means 'other / another'. Ordinal from 'kaksi'.",
+      "examples": ["Toinen kierros, kiitos. — Second round, please."]
+    },
+    {
+      "id": "numbers-026",
+      "finnish": "kolmas",
+      "english": "third",
+      "category": "numbers",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Ordinal. Pattern from here: stem + -s (kolma- → kolmas).",
+      "examples": ["Kolmas kerros. — Third floor."]
+    },
+    {
+      "id": "numbers-027",
+      "finnish": "puoli",
+      "english": "half",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Used in time-telling: 'puoli kolme' = half past two (literally 'half three').",
+      "examples": ["Puoli tuntia jäljellä. — Half an hour left."]
+    },
+    {
+      "id": "numbers-028",
+      "finnish": "pari",
+      "english": "a couple / a pair",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Informal: 'a few' (2-3). Also means 'pair/couple' as a noun.",
+      "examples": ["Odota pari minuuttia. — Wait a couple of minutes."]
+    },
+    {
+      "id": "numbers-029",
+      "finnish": "monta",
+      "english": "many / several",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 2,
+      "notes": "Partitive of 'moni'. Used with partitive singular noun.",
+      "examples": ["Olen käynyt siellä monta kertaa. — I've been there many times."]
+    },
+    {
+      "id": "numbers-030",
+      "finnish": "kuusikymmentä",
+      "english": "sixty",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: kuusi + kymmentä",
+      "examples": ["Tunnissa on kuusikymmentä minuuttia. — There are sixty minutes in an hour."]
+    },
+    {
+      "id": "numbers-031",
+      "finnish": "seitsemänkymmentä",
+      "english": "seventy",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: seitsemän + kymmentä",
+      "examples": ["Hän on seitsemänkymmentä vuotta vanha. — He/She is seventy years old."]
+    },
+    {
+      "id": "numbers-032",
+      "finnish": "kahdeksankymmentä",
+      "english": "eighty",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: kahdeksan + kymmentä",
+      "examples": ["Kahdeksankymmentä kilometriä tunnissa. — Eighty kilometers per hour."]
+    },
+    {
+      "id": "numbers-033",
+      "finnish": "yhdeksänkymmentä",
+      "english": "ninety",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 1,
+      "notes": "Pattern: yhdeksän + kymmentä",
+      "examples": ["Yhdeksänkymmentä prosenttia on valmis. — Ninety percent is done."]
+    },
+    {
+      "id": "numbers-034",
+      "finnish": "numero",
+      "english": "number",
+      "category": "numbers",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "The word for 'number' itself. 'Luku' also means number in mathematical context.",
+      "examples": ["Mikä on sinun puhelinnumerosi? — What is your phone number?"]
+    },
+    {
+      "id": "numbers-035",
+      "finnish": "kaksisataa",
+      "english": "two hundred",
+      "category": "numbers",
+      "partOfSpeech": "number",
+      "difficulty": 2,
+      "notes": "Compound: kaksi + sataa (partitive of sata).",
+      "examples": ["Se maksaa kaksisataa euroa. — It costs two hundred euros."]
+    }
+  ]
+}

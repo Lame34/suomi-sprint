@@ -1,0 +1,289 @@
+{
+  "category": "family",
+  "categoryLabel": "Family & People",
+  "icon": "users",
+  "description": "Family members, relationships, and people",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "family-001",
+      "finnish": "äiti",
+      "english": "mother",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Informal but standard word for mother. More formal: 'äiti' is used in all contexts. Spoken Finnish: 'äiskä' or 'mutsi' (slang).",
+      "examples": ["Äiti tekee ruokaa. — Mother is making food."]
+    },
+    {
+      "id": "family-002",
+      "finnish": "isä",
+      "english": "father",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Standard word for father. Spoken Finnish: 'iskä' or 'faija' (slang).",
+      "examples": ["Isä on töissä. — Father is at work."]
+    },
+    {
+      "id": "family-003",
+      "finnish": "vanhemmat",
+      "english": "parents",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Plural of 'vanhempi' (parent), which literally means 'older one'. Comparative form of 'vanha' (old).",
+      "examples": ["Minun vanhempani asuvat Helsingissä. — My parents live in Helsinki."]
+    },
+    {
+      "id": "family-004",
+      "finnish": "lapsi",
+      "english": "child",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Plural is 'lapset'. The stem changes in declension: lapsi → lapsen (genitive), lasta (partitive).",
+      "examples": ["Lapsi leikkii puistossa. — The child is playing in the park."]
+    },
+    {
+      "id": "family-005",
+      "finnish": "poika",
+      "english": "son / boy",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Means both 'son' and 'boy'. Context determines meaning. 'Poikani' = my son.",
+      "examples": ["Meidän poika on koulussa. — Our son is at school."]
+    },
+    {
+      "id": "family-006",
+      "finnish": "tyttö",
+      "english": "girl / daughter (informal)",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Primarily means 'girl'. Can be used informally for 'daughter', but 'tytär' is the specific word for daughter.",
+      "examples": ["Tyttö juoksee nopeasti. — The girl runs fast."]
+    },
+    {
+      "id": "family-007",
+      "finnish": "tytär",
+      "english": "daughter",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "The specific word for daughter. Stem changes: tytär → tyttären (genitive). More formal than using 'tyttö'.",
+      "examples": ["Heidän tyttärensä opiskelee yliopistossa. — Their daughter studies at university."]
+    },
+    {
+      "id": "family-008",
+      "finnish": "veli",
+      "english": "brother",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem changes: veli → veljen (genitive). Plural: veljet. Informal: 'veli' is used in all registers.",
+      "examples": ["Minun veljeni on vanhempi kuin minä. — My brother is older than me."]
+    },
+    {
+      "id": "family-009",
+      "finnish": "sisko",
+      "english": "sister",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Common word for sister. Also: 'sisar' (more literary/formal). Plural: siskot.",
+      "examples": ["Siskoni asuu Turussa. — My sister lives in Turku."]
+    },
+    {
+      "id": "family-010",
+      "finnish": "perhe",
+      "english": "family",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Core family unit. 'Perheeni' = my family. 'Suurperhe' = large family.",
+      "examples": ["Meillä on iso perhe. — We have a big family."]
+    },
+    {
+      "id": "family-011",
+      "finnish": "vaimo",
+      "english": "wife",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Standard word for wife. 'Vaimoni' = my wife. In modern Finnish, 'puoliso' (spouse) is also common.",
+      "examples": ["Vaimoni on lääkäri. — My wife is a doctor."]
+    },
+    {
+      "id": "family-012",
+      "finnish": "mies",
+      "english": "husband / man",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Means both 'husband' and 'man'. Context determines meaning. 'Aviomies' specifically means husband (married man).",
+      "examples": ["Mieheni on opettaja. — My husband is a teacher."]
+    },
+    {
+      "id": "family-013",
+      "finnish": "nainen",
+      "english": "woman",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem changes: nainen → naisen (genitive), naista (partitive). Plural: naiset.",
+      "examples": ["Nainen istuu penkillä. — The woman is sitting on a bench."]
+    },
+    {
+      "id": "family-014",
+      "finnish": "isoäiti",
+      "english": "grandmother",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'big mother' (iso + äiti). Affectionate: 'mummo' or 'mummi'. Regional variations exist.",
+      "examples": ["Isoäiti leipoo pullaa. — Grandmother is baking pulla (sweet bread)."]
+    },
+    {
+      "id": "family-015",
+      "finnish": "isoisä",
+      "english": "grandfather",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Literally 'big father' (iso + isä). Affectionate: 'pappa' or 'vaari'.",
+      "examples": ["Isoisä kertoo tarinoita. — Grandfather tells stories."]
+    },
+    {
+      "id": "family-016",
+      "finnish": "täti",
+      "english": "aunt",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Used for any aunt regardless of side of family. Also used politely by children for adult women they know.",
+      "examples": ["Täti toi meille lahjoja. — Aunt brought us gifts."]
+    },
+    {
+      "id": "family-017",
+      "finnish": "setä",
+      "english": "uncle (father's brother)",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Specifically father's brother. Finnish distinguishes paternal and maternal uncles. Also used by children for unfamiliar adult men.",
+      "examples": ["Setä asuu maalla. — Uncle (father's brother) lives in the countryside."]
+    },
+    {
+      "id": "family-018",
+      "finnish": "eno",
+      "english": "uncle (mother's brother)",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Specifically mother's brother. This distinction between 'setä' and 'eno' is unique to Finnish and reflects old family structures.",
+      "examples": ["Eno vie meidät kalaan. — Uncle (mother's brother) takes us fishing."]
+    },
+    {
+      "id": "family-019",
+      "finnish": "serkku",
+      "english": "cousin",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Gender-neutral word for cousin. Finnish does not distinguish between male and female cousins.",
+      "examples": ["Serkkuni tulee käymään kesällä. — My cousin is coming to visit in the summer."]
+    },
+    {
+      "id": "family-020",
+      "finnish": "vauva",
+      "english": "baby",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Used for infants. 'Vauva nukkuu' = the baby is sleeping. Also: 'taapero' = toddler.",
+      "examples": ["Vauva nukkuu rauhallisesti. — The baby sleeps peacefully."]
+    },
+    {
+      "id": "family-021",
+      "finnish": "aikuinen",
+      "english": "adult",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Derived from 'aika' (time). Can also be used as an adjective meaning 'adult' or 'grown-up'.",
+      "examples": ["Aikuinen auttaa lasta. — The adult helps the child."]
+    },
+    {
+      "id": "family-022",
+      "finnish": "lapsenlapsi",
+      "english": "grandchild",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Literally 'child's child' (lapsen + lapsi). Plural: lapsenlapset. Gender-neutral.",
+      "examples": ["Isoäidillä on viisi lastenlasta. — Grandmother has five grandchildren."]
+    },
+    {
+      "id": "family-023",
+      "finnish": "ystävä",
+      "english": "friend",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A close friend. In Finnish culture, calling someone 'ystävä' implies a deep bond. 'Ystävänpäivä' = Valentine's Day (Friend's Day).",
+      "examples": ["Hän on minun paras ystäväni. — He/she is my best friend."]
+    },
+    {
+      "id": "family-024",
+      "finnish": "kaveri",
+      "english": "buddy / pal",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "More casual than 'ystävä'. Used for acquaintances and casual friends. Very common in everyday speech.",
+      "examples": ["Menin kaverin kanssa elokuviin. — I went to the movies with a friend."]
+    },
+    {
+      "id": "family-025",
+      "finnish": "naapuri",
+      "english": "neighbor",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Finnish neighbors tend to be reserved but helpful. 'Naapurusto' = neighborhood.",
+      "examples": ["Naapuri tervehtii aina ystävällisesti. — The neighbor always greets kindly."]
+    },
+    {
+      "id": "family-026",
+      "finnish": "ihminen",
+      "english": "human / person",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Plural: ihmiset (people). Stem changes: ihminen → ihmisen (genitive). A very common -nen noun.",
+      "examples": ["Jokainen ihminen on erilainen. — Every person is different."]
+    },
+    {
+      "id": "family-027",
+      "finnish": "avopuoliso",
+      "english": "partner (cohabiting, unmarried)",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound: 'avo' (open) + 'puoliso' (spouse). Very common in Finland where cohabitation without marriage is widespread. 'Avoliitto' = cohabitation.",
+      "examples": ["Avopuolisoni on kotoisin Tampereelta. — My partner is from Tampere."]
+    },
+    {
+      "id": "family-028",
+      "finnish": "puoliso",
+      "english": "spouse",
+      "category": "family",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Gender-neutral word for spouse. Literally means 'half'. Used in official contexts and modern Finnish as a gender-neutral alternative to vaimo/mies.",
+      "examples": ["Puolisoni ja minä matkustamme paljon. — My spouse and I travel a lot."]
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "category": "animals",
+  "categoryLabel": "Animals & Nature",
+  "icon": "paw-print",
+  "description": "Common animals, pets, and wildlife",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "animals-001",
+      "finnish": "koira",
+      "english": "dog",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "One of the most common pets in Finland. 'Koiranpentu' = puppy. Partitive: 'koiraa'",
+      "examples": ["Minulla on koira. — I have a dog.", "Koira haukkuu. — The dog is barking."]
+    },
+    {
+      "id": "animals-002",
+      "finnish": "kissa",
+      "english": "cat",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Very common pet. 'Kissanpentu' = kitten. Note the double 's'",
+      "examples": ["Kissa nukkuu sohvalla. — The cat is sleeping on the sofa.", "Pidätkö kissoista? — Do you like cats?"]
+    },
+    {
+      "id": "animals-003",
+      "finnish": "hevonen",
+      "english": "horse",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: hevose-. The Finnish horse breed ('suomenhevonen') is a national treasure. Partitive: 'hevosta'",
+      "examples": ["Hevonen juoksee pellolla. — The horse is running in the field."]
+    },
+    {
+      "id": "animals-004",
+      "finnish": "lehmä",
+      "english": "cow",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the 'ä' at the end. Finland has a strong dairy farming tradition. Partitive: 'lehmää'",
+      "examples": ["Lehmät ovat laitumella. — The cows are in the pasture."]
+    },
+    {
+      "id": "animals-005",
+      "finnish": "sika",
+      "english": "pig",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Sianliha' = pork (lit: pig meat). 'Porsas' = piglet",
+      "examples": ["Sika on maatilan eläin. — The pig is a farm animal."]
+    },
+    {
+      "id": "animals-006",
+      "finnish": "lammas",
+      "english": "sheep",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: lampaa-. This is a consonant gradation word. Plural: 'lampaat'. Partitive: 'lammasta'",
+      "examples": ["Lampaat laiduntavat kedolla. — The sheep are grazing in the meadow."]
+    },
+    {
+      "id": "animals-007",
+      "finnish": "kukko",
+      "english": "rooster",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Male chicken. 'Kukko' also appears in Finnish dishes like 'kalakukko' (fish-filled bread from Savonia region)",
+      "examples": ["Kukko kiekuu aamulla. — The rooster crows in the morning."]
+    },
+    {
+      "id": "animals-008",
+      "finnish": "lintu",
+      "english": "bird",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "General word for bird. 'Lintujen' = of birds. Finland has rich birdwatching opportunities, especially during spring migration",
+      "examples": ["Lintu laulaa puussa. — The bird is singing in the tree."]
+    },
+    {
+      "id": "animals-009",
+      "finnish": "ankka",
+      "english": "duck",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Ankka' is also the Finnish name for Donald Duck (Aku Ankka), who is enormously popular in Finland",
+      "examples": ["Ankka ui järvessä. — The duck is swimming in the lake."]
+    },
+    {
+      "id": "animals-010",
+      "finnish": "karhu",
+      "english": "bear",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "The brown bear is Finland's national animal. Finns have many old euphemisms for bear: 'kontio', 'otso', 'mesikämmen' (honey paw)",
+      "examples": ["Karhu on Suomen kansalliseläin. — The bear is Finland's national animal."]
+    },
+    {
+      "id": "animals-011",
+      "finnish": "susi",
+      "english": "wolf",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: sude-. Wolves live in eastern and northern Finland. 'Susimetsä' = wolf forest (used metaphorically for wilderness)",
+      "examples": ["Susi ulvoo yöllä. — The wolf howls at night."]
+    },
+    {
+      "id": "animals-012",
+      "finnish": "kettu",
+      "english": "fox",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "The red fox is common throughout Finland. 'Ketunpoika' = fox cub. Note the double 't'",
+      "examples": ["Kettu on ovela eläin. — The fox is a cunning animal."]
+    },
+    {
+      "id": "animals-013",
+      "finnish": "hirvi",
+      "english": "moose / elk",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Very common in Finland and a frequent traffic hazard. 'Hirvivaroitus' = moose warning sign. Moose hunting is a major autumn tradition",
+      "examples": ["Hirvi seisoo tien vieressä. — The moose is standing beside the road."]
+    },
+    {
+      "id": "animals-014",
+      "finnish": "jänis",
+      "english": "hare / rabbit",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: jänikse-. Technically means hare; 'kaniini' is used for domestic rabbit. Note the 'ä'",
+      "examples": ["Jänis hyppii lumessa. — The hare is hopping in the snow."]
+    },
+    {
+      "id": "animals-015",
+      "finnish": "orava",
+      "english": "squirrel",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Red squirrels are common in Finnish forests and parks. The Finnish word has a pleasant, soft sound",
+      "examples": ["Orava kerää pähkinöitä. — The squirrel is collecting nuts."]
+    },
+    {
+      "id": "animals-016",
+      "finnish": "poro",
+      "english": "reindeer",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Iconic animal of Finnish Lapland. Semi-domesticated by the Sámi people. 'Poronhoitaja' = reindeer herder. 'Poronliha' = reindeer meat",
+      "examples": ["Poroja on paljon Lapissa. — There are many reindeer in Lapland."]
+    },
+    {
+      "id": "animals-017",
+      "finnish": "ilves",
+      "english": "lynx",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: ilvekse-. Finland's only wild big cat. Very shy and rarely seen. The Eurasian lynx is an endangered species in Finland",
+      "examples": ["Ilves on harvinainen eläin. — The lynx is a rare animal."]
+    },
+    {
+      "id": "animals-018",
+      "finnish": "hylje",
+      "english": "seal",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: hylkee-. The endangered Saimaa ringed seal ('saimaannorppa') is unique to Lake Saimaa in Finland",
+      "examples": ["Hylje lepää kalliolla. — The seal is resting on the rock."]
+    },
+    {
+      "id": "animals-019",
+      "finnish": "perhonen",
+      "english": "butterfly",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: perhose-. A beautiful-sounding Finnish word. Plural: 'perhoset'",
+      "examples": ["Perhonen lentää kukasta kukkaan. — The butterfly flies from flower to flower."]
+    },
+    {
+      "id": "animals-020",
+      "finnish": "mehiläinen",
+      "english": "bee",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: mehiläise-. 'Mehiläishoitaja' = beekeeper. 'Hunaja' = honey. Note the 'ä' in the ending",
+      "examples": ["Mehiläinen pölyttää kukkia. — The bee pollinates flowers."]
+    },
+    {
+      "id": "animals-021",
+      "finnish": "hämähäkki",
+      "english": "spider",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Note: 'ä' appears twice. 'Hämähäkinverkko' = spider web. A fun word to practice Finnish vowel harmony",
+      "examples": ["Hämähäkki kutoo verkkoa. — The spider is spinning a web."]
+    },
+    {
+      "id": "animals-022",
+      "finnish": "muurahainen",
+      "english": "ant",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: muurahaise-. 'Muurahaispesä' = ant nest. Finland's forests are home to large wood ant colonies",
+      "examples": ["Muurahainen kantaa lehteä. — The ant is carrying a leaf."]
+    },
+    {
+      "id": "animals-023",
+      "finnish": "sammakko",
+      "english": "frog",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Note the double 'm' and double 'k'. Finnish frogs hibernate through the long winter",
+      "examples": ["Sammakko hyppää vedestä. — The frog jumps out of the water."]
+    },
+    {
+      "id": "animals-024",
+      "finnish": "käärme",
+      "english": "snake",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Note the double 'ä' (ää). Finland's only venomous snake is the 'kyy' (European adder/viper)",
+      "examples": ["Käärme luikertelee ruohikossa. — The snake is slithering in the grass."]
+    },
+    {
+      "id": "animals-025",
+      "finnish": "pöllö",
+      "english": "owl",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Note the 'ö' vowels. Several owl species live in Finland, including the great grey owl ('lapinpöllö')",
+      "examples": ["Pöllö huhuilee metsässä. — The owl is hooting in the forest."]
+    },
+    {
+      "id": "animals-026",
+      "finnish": "kotka",
+      "english": "eagle",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "The golden eagle ('maakotka') and white-tailed eagle ('merikotka') both live in Finland. 'Merikotka' is Finland's largest bird of prey",
+      "examples": ["Kotka lentää korkealla taivaalla. — The eagle flies high in the sky."]
+    },
+    {
+      "id": "animals-027",
+      "finnish": "eläin",
+      "english": "animal",
+      "category": "animals",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "The general word for animal. Stem: eläime-. 'Eläintarha' = zoo (lit: animal garden). 'Lemmikkieläin' = pet",
+      "examples": ["Mikä on lempieläimesi? — What is your favourite animal?", "Eläimet nukkuvat talvella. — The animals sleep in winter."]
+    }
+  ]
+}

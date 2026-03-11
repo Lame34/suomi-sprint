@@ -1,0 +1,289 @@
+{
+  "category": "greetings",
+  "categoryLabel": "Greetings & Basics",
+  "icon": "hand-metal",
+  "description": "Essential greetings and polite expressions",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "greetings-001",
+      "finnish": "hei",
+      "english": "hello / hi",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Universal greeting, works in all situations, informal and formal",
+      "examples": ["Hei, miten menee? — Hi, how's it going?"]
+    },
+    {
+      "id": "greetings-002",
+      "finnish": "moi",
+      "english": "hi",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Informal greeting, used with friends and family",
+      "examples": ["Moi moi! — Hi hi! (casual double greeting)"]
+    },
+    {
+      "id": "greetings-003",
+      "finnish": "terve",
+      "english": "hello",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Slightly more neutral than 'moi', literally means 'healthy'",
+      "examples": ["Terve, tuletko mukaan? — Hello, are you coming along?"]
+    },
+    {
+      "id": "greetings-004",
+      "finnish": "hyvää huomenta",
+      "english": "good morning",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Used until about noon. 'Huomenta' alone is more casual.",
+      "examples": ["Hyvää huomenta! Nukuitko hyvin? — Good morning! Did you sleep well?"]
+    },
+    {
+      "id": "greetings-005",
+      "finnish": "hyvää päivää",
+      "english": "good day / good afternoon",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Formal daytime greeting, used in shops and offices",
+      "examples": ["Hyvää päivää, kuinka voin auttaa? — Good day, how can I help?"]
+    },
+    {
+      "id": "greetings-006",
+      "finnish": "hyvää iltaa",
+      "english": "good evening",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Used from late afternoon onwards",
+      "examples": ["Hyvää iltaa kaikille! — Good evening everyone!"]
+    },
+    {
+      "id": "greetings-007",
+      "finnish": "hyvää yötä",
+      "english": "good night",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Said when going to bed or parting late at night",
+      "examples": ["Hyvää yötä, nuku hyvin! — Good night, sleep well!"]
+    },
+    {
+      "id": "greetings-008",
+      "finnish": "näkemiin",
+      "english": "goodbye",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Formal goodbye, literally 'until we see again'",
+      "examples": ["Näkemiin ja kiitos! — Goodbye and thank you!"]
+    },
+    {
+      "id": "greetings-009",
+      "finnish": "hei hei",
+      "english": "bye bye",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Casual goodbye, very common in everyday speech",
+      "examples": ["Hei hei, nähdään huomenna! — Bye bye, see you tomorrow!"]
+    },
+    {
+      "id": "greetings-010",
+      "finnish": "kiitos",
+      "english": "thank you / thanks",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "The most important word in Finnish. Used very frequently.",
+      "examples": ["Kiitos paljon avusta! — Thank you very much for the help!"]
+    },
+    {
+      "id": "greetings-011",
+      "finnish": "ole hyvä",
+      "english": "you're welcome / please / here you go",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Multipurpose: response to 'kiitos', handing something over, or 'please'",
+      "examples": ["Ole hyvä, tässä on kahvisi. — Here you go, here's your coffee."]
+    },
+    {
+      "id": "greetings-012",
+      "finnish": "anteeksi",
+      "english": "sorry / excuse me",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Used for apologies and to get attention politely",
+      "examples": ["Anteeksi, missä on asema? — Excuse me, where is the station?"]
+    },
+    {
+      "id": "greetings-013",
+      "finnish": "kyllä",
+      "english": "yes",
+      "category": "greetings",
+      "partOfSpeech": "other",
+      "difficulty": 1,
+      "notes": "Formal 'yes'. In casual speech, 'joo' is more common.",
+      "examples": ["Kyllä, olen suomalainen. — Yes, I am Finnish."]
+    },
+    {
+      "id": "greetings-014",
+      "finnish": "ei",
+      "english": "no",
+      "category": "greetings",
+      "partOfSpeech": "other",
+      "difficulty": 1,
+      "notes": "Also the negative verb stem in Finnish. 'Ei' conjugates: en, et, ei, emme, ette, eivät.",
+      "examples": ["Ei kiitos, en halua. — No thanks, I don't want any."]
+    },
+    {
+      "id": "greetings-015",
+      "finnish": "joo",
+      "english": "yeah / yes",
+      "category": "greetings",
+      "partOfSpeech": "other",
+      "difficulty": 1,
+      "notes": "Casual 'yes', very common in spoken Finnish",
+      "examples": ["Joo, mä tulen! — Yeah, I'm coming!"]
+    },
+    {
+      "id": "greetings-016",
+      "finnish": "kiitos paljon",
+      "english": "thank you very much",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "'Paljon' means 'a lot / much'",
+      "examples": ["Kiitos paljon, tämä oli todella mukavaa! — Thank you very much, this was really nice!"]
+    },
+    {
+      "id": "greetings-017",
+      "finnish": "tervetuloa",
+      "english": "welcome",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Used to welcome guests. Compound: terve (healthy) + tulo (arrival).",
+      "examples": ["Tervetuloa Suomeen! — Welcome to Finland!"]
+    },
+    {
+      "id": "greetings-018",
+      "finnish": "miten menee",
+      "english": "how's it going",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Casual way to ask how someone is. Literally 'how goes'.",
+      "examples": ["Hei, miten menee? — Hi, how's it going?"]
+    },
+    {
+      "id": "greetings-019",
+      "finnish": "hyvin",
+      "english": "well / fine",
+      "category": "greetings",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Common response to 'miten menee'. Adverb form of 'hyvä' (good).",
+      "examples": ["Kiitos, hyvin menee! — Thanks, it's going well!"]
+    },
+    {
+      "id": "greetings-020",
+      "finnish": "huonosti",
+      "english": "badly / poorly",
+      "category": "greetings",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Adverb form of 'huono' (bad). Honest Finns might actually say this!",
+      "examples": ["Menee aika huonosti tänään. — It's going pretty badly today."]
+    },
+    {
+      "id": "greetings-021",
+      "finnish": "hauska tavata",
+      "english": "nice to meet you",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Literally 'fun to meet'. Used when meeting someone for the first time.",
+      "examples": ["Hauska tavata, olen Lilian. — Nice to meet you, I'm Lilian."]
+    },
+    {
+      "id": "greetings-022",
+      "finnish": "hauska tutustua",
+      "english": "nice to get to know you",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 2,
+      "notes": "Slightly more formal than 'hauska tavata'. 'Tutustua' = to get acquainted.",
+      "examples": ["Hauska tutustua! Mistä olet kotoisin? — Nice to get to know you! Where are you from?"]
+    },
+    {
+      "id": "greetings-023",
+      "finnish": "nimeni on",
+      "english": "my name is",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "'Nimi' = name, '-ni' = my (possessive suffix). Casual: 'Mä olen...'",
+      "examples": ["Nimeni on Lilian. — My name is Lilian."]
+    },
+    {
+      "id": "greetings-024",
+      "finnish": "mikä sinun nimesi on",
+      "english": "what is your name",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "'Mikä' = what, 'sinun' = your, 'nimesi' = your name. Informal.",
+      "examples": ["Mikä sinun nimesi on? — What is your name?"]
+    },
+    {
+      "id": "greetings-025",
+      "finnish": "nähdään",
+      "english": "see you",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Passive form of 'nähdä' (to see), literally 'it will be seen'. Very common casual goodbye.",
+      "examples": ["Nähdään huomenna! — See you tomorrow!"]
+    },
+    {
+      "id": "greetings-026",
+      "finnish": "heippa",
+      "english": "bye",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Casual and friendly goodbye, common in spoken Finnish",
+      "examples": ["Heippa, pidä hauskaa! — Bye, have fun!"]
+    },
+    {
+      "id": "greetings-027",
+      "finnish": "hyvää",
+      "english": "good",
+      "category": "greetings",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Partitive form of 'hyvä'. Used in greetings: 'hyvää huomenta/päivää/iltaa'.",
+      "examples": ["Hyvää viikonloppua! — Have a good weekend!"]
+    },
+    {
+      "id": "greetings-028",
+      "finnish": "huomenta",
+      "english": "morning",
+      "category": "greetings",
+      "partOfSpeech": "phrase",
+      "difficulty": 1,
+      "notes": "Casual short form of 'hyvää huomenta'. Very common.",
+      "examples": ["Huomenta! Kahvia? — Morning! Coffee?"]
+    }
+  ]
+}

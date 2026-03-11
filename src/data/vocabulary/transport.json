@@ -1,0 +1,329 @@
+{
+  "category": "transport",
+  "categoryLabel": "Transport & Places",
+  "icon": "train",
+  "description": "Vehicles, transportation, and common places",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "transport-001",
+      "finnish": "auto",
+      "english": "car",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "The most common word for car; also used in compounds like 'autokauppa' (car dealership)",
+      "examples": ["Minulla on punainen auto. — I have a red car."]
+    },
+    {
+      "id": "transport-002",
+      "finnish": "bussi",
+      "english": "bus",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Borrowed from English; commonly used in everyday Finnish",
+      "examples": ["Bussi lähtee kello kahdeksan. — The bus leaves at eight o'clock."]
+    },
+    {
+      "id": "transport-003",
+      "finnish": "juna",
+      "english": "train",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "VR (Valtion Rautatiet) operates Finland's trains",
+      "examples": ["Juna Helsinkiin lähtee raiteelta kolme. — The train to Helsinki departs from track three."]
+    },
+    {
+      "id": "transport-004",
+      "finnish": "lentokone",
+      "english": "airplane",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Compound word: 'lento' (flight) + 'kone' (machine), literally 'flight machine'",
+      "examples": ["Lentokone laskeutui turvallisesti. — The airplane landed safely."]
+    },
+    {
+      "id": "transport-005",
+      "finnish": "polkupyörä",
+      "english": "bicycle",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: 'polku' (pedal/path) + 'pyörä' (wheel), literally 'pedal wheel'. Often shortened to 'pyörä' in casual speech.",
+      "examples": ["Hän ajaa polkupyörällä töihin. — He/she rides a bicycle to work."]
+    },
+    {
+      "id": "transport-006",
+      "finnish": "laiva",
+      "english": "ship",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Used for large vessels; ferries between Finland and Sweden/Estonia are very popular. A smaller boat is 'vene'.",
+      "examples": ["Laiva seilasi Helsingistä Tukholmaan. — The ship sailed from Helsinki to Stockholm."]
+    },
+    {
+      "id": "transport-007",
+      "finnish": "raitiovaunu",
+      "english": "tram",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: 'raitio' (rail/track) + 'vaunu' (wagon/car). Often shortened to 'ratikka' in spoken Helsinki Finnish.",
+      "examples": ["Raitiovaunu pysähtyy tässä. — The tram stops here."]
+    },
+    {
+      "id": "transport-008",
+      "finnish": "metro",
+      "english": "metro",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Helsinki has the northernmost metro system in the world",
+      "examples": ["Metro kulkee Itäkeskukseen. — The metro goes to Itäkeskus."]
+    },
+    {
+      "id": "transport-009",
+      "finnish": "taksi",
+      "english": "taxi",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Same word in many languages; taxis in Finland are typically pre-booked or found at stands",
+      "examples": ["Soitin taksin. — I called a taxi."]
+    },
+    {
+      "id": "transport-010",
+      "finnish": "tie",
+      "english": "road",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "General word for road or way; also used figuratively meaning 'path' or 'way'",
+      "examples": ["Tämä tie vie Turkuun. — This road leads to Turku."]
+    },
+    {
+      "id": "transport-011",
+      "finnish": "katu",
+      "english": "street",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Refers to a street in a city or town, as opposed to 'tie' which is a road",
+      "examples": ["Asun Mannerheimintiellä — kadulla on paljon kauppoja. — I live on Mannerheimintie — the street has many shops."]
+    },
+    {
+      "id": "transport-012",
+      "finnish": "silta",
+      "english": "bridge",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Finland has thousands of bridges due to its many lakes and rivers. Also used in compound place names.",
+      "examples": ["Silta ylittää joen. — The bridge crosses the river."]
+    },
+    {
+      "id": "transport-013",
+      "finnish": "asema",
+      "english": "station",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Used for train stations, bus stations, etc. Helsinki's main station is 'Helsingin päärautatieasema'.",
+      "examples": ["Nähdään asemalla! — See you at the station!"]
+    },
+    {
+      "id": "transport-014",
+      "finnish": "lentokenttä",
+      "english": "airport",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: 'lento' (flight) + 'kenttä' (field), literally 'flight field'. Helsinki-Vantaa is Finland's main airport.",
+      "examples": ["Lentokenttä on kaupungin ulkopuolella. — The airport is outside the city."]
+    },
+    {
+      "id": "transport-015",
+      "finnish": "satama",
+      "english": "harbor / port",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Important in Finland due to extensive coastline and ferry traffic. Common in place names like 'Eteläsatama' (South Harbor).",
+      "examples": ["Laiva saapui satamaan. — The ship arrived at the harbor."]
+    },
+    {
+      "id": "transport-016",
+      "finnish": "pysäkki",
+      "english": "bus stop",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "From the verb 'pysähtyä' (to stop). Used for bus stops and tram stops. 'Bussipysäkki' specifies a bus stop.",
+      "examples": ["Pysäkki on tuolla kadun kulmassa. — The bus stop is there at the street corner."]
+    },
+    {
+      "id": "transport-017",
+      "finnish": "lippu",
+      "english": "ticket",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Also means 'flag'; context makes it clear. 'Matkalippu' specifically means travel ticket.",
+      "examples": ["Ostin lipun junaan. — I bought a ticket for the train."]
+    },
+    {
+      "id": "transport-018",
+      "finnish": "kartta",
+      "english": "map",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Can refer to paper maps or digital maps. 'Maailmankartta' means world map.",
+      "examples": ["Katson karttaa. — I'm looking at a/the map."]
+    },
+    {
+      "id": "transport-019",
+      "finnish": "kaupunki",
+      "english": "city / town",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Used for both cities and larger towns in Finnish",
+      "examples": ["Helsinki on Suomen suurin kaupunki. — Helsinki is Finland's largest city."]
+    },
+    {
+      "id": "transport-020",
+      "finnish": "kylä",
+      "english": "village",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "A small rural community. Finnish countryside has many small 'kylät' (villages, plural).",
+      "examples": ["Hän asuu pienessä kylässä. — He/she lives in a small village."]
+    },
+    {
+      "id": "transport-021",
+      "finnish": "keskusta",
+      "english": "center / downtown",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From 'keski' (middle/center). 'Kaupungin keskusta' means city center.",
+      "examples": ["Mennään keskustaan! — Let's go to the center!"]
+    },
+    {
+      "id": "transport-022",
+      "finnish": "kauppa",
+      "english": "shop / store",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Very common word; also means 'trade' or 'deal'. 'Ruokakauppa' = grocery store.",
+      "examples": ["Kauppa sulkeutuu kello yhdeksältä. — The shop closes at nine o'clock."]
+    },
+    {
+      "id": "transport-023",
+      "finnish": "koulu",
+      "english": "school",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish schools are renowned worldwide for their education system",
+      "examples": ["Lapset menevät kouluun. — The children go to school."]
+    },
+    {
+      "id": "transport-024",
+      "finnish": "kirkko",
+      "english": "church",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Most Finns belong to the Evangelical Lutheran Church. Famous churches include Temppeliaukion kirkko (Rock Church) in Helsinki.",
+      "examples": ["Kirkko on kaupungin keskustassa. — The church is in the city center."]
+    },
+    {
+      "id": "transport-025",
+      "finnish": "sairaala",
+      "english": "hospital",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "From 'sairas' (sick/ill) + '-la' (place suffix). Healthcare in Finland is publicly funded.",
+      "examples": ["Hän on sairaalassa. — He/she is in the hospital."]
+    },
+    {
+      "id": "transport-026",
+      "finnish": "pankki",
+      "english": "bank",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Borrowed from Swedish/German. Major Finnish banks include Nordea and OP.",
+      "examples": ["Pankki avautuu kello yhdeksältä. — The bank opens at nine o'clock."]
+    },
+    {
+      "id": "transport-027",
+      "finnish": "posti",
+      "english": "post office / mail",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Refers to both the postal service and mail itself. Posti is also the name of Finland's national postal company.",
+      "examples": ["Vien paketin postiin. — I'll take the package to the post office."]
+    },
+    {
+      "id": "transport-028",
+      "finnish": "kirjasto",
+      "english": "library",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "From 'kirja' (book) + '-sto' (collection suffix). Finland has one of the highest library usage rates in the world. Helsinki's Oodi library is world-famous.",
+      "examples": ["Kirjasto on auki joka päivä. — The library is open every day."]
+    },
+    {
+      "id": "transport-029",
+      "finnish": "ravintola",
+      "english": "restaurant",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From 'ravinto' (nourishment/nutrition) + '-la' (place suffix)",
+      "examples": ["Syödään ravintolassa tänään. — Let's eat at a restaurant today."]
+    },
+    {
+      "id": "transport-030",
+      "finnish": "hotelli",
+      "english": "hotel",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Borrowed from French/English. Common alternatives in Finland include 'majatalo' (guesthouse) and 'mökki' (cabin).",
+      "examples": ["Hotelli on lähellä keskustaa. — The hotel is near the center."]
+    },
+    {
+      "id": "transport-031",
+      "finnish": "museo",
+      "english": "museum",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Helsinki has many museums including Ateneum (art), Kansallismuseo (national museum), and Kiasma (contemporary art).",
+      "examples": ["Museo on suljettu maanantaisin. — The museum is closed on Mondays."]
+    },
+    {
+      "id": "transport-032",
+      "finnish": "puisto",
+      "english": "park",
+      "category": "transport",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish cities have many green spaces; 'kansallispuisto' means national park",
+      "examples": ["Lapset leikkivät puistossa. — The children play in the park."]
+    }
+  ]
+}

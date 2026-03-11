@@ -1,0 +1,559 @@
+{
+  "category": "verbs-common",
+  "categoryLabel": "Common Verbs",
+  "icon": "zap",
+  "description": "Essential Finnish verbs for everyday communication",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "verbs-common-001",
+      "finnish": "olla",
+      "english": "to be",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "IRREGULAR — the most important Finnish verb. Present: olen, olet, on, olemme, olette, ovat. Negative: en ole, et ole, ei ole.",
+      "examples": ["Minä olen suomalainen. — I am Finnish.", "Hän on kotona. — He/she is at home."]
+    },
+    {
+      "id": "verbs-common-002",
+      "finnish": "puhua",
+      "english": "to speak",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: puhun, puhut, puhuu. No consonant gradation.",
+      "examples": ["Puhutko sinä suomea? — Do you speak Finnish?", "Hän puhuu englantia. — He/she speaks English."]
+    },
+    {
+      "id": "verbs-common-003",
+      "finnish": "tehdä",
+      "english": "to do / to make",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "IRREGULAR — type 2 verb. Present: teen, teet, tekee, teemme, teette, tekevät. The stem alternates between 'te-' and 'teke-'.",
+      "examples": ["Mitä sinä teet? — What are you doing?", "Hän tekee ruokaa. — He/she is making food."]
+    },
+    {
+      "id": "verbs-common-004",
+      "finnish": "mennä",
+      "english": "to go",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 3 verb (consonant + -na/-nä). Present: menen, menet, menee. Double vowel in 3rd person.",
+      "examples": ["Minä menen kouluun. — I go to school.", "Mennään yhdessä! — Let's go together!"]
+    },
+    {
+      "id": "verbs-common-005",
+      "finnish": "tulla",
+      "english": "to come",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 3 verb (consonant + -la/-lä). Present: tulen, tulet, tulee. Also used as auxiliary: 'tulen tekemään' = I will do.",
+      "examples": ["Tuletko huomenna? — Are you coming tomorrow?", "Hän tulee Suomesta. — He/she comes from Finland."]
+    },
+    {
+      "id": "verbs-common-006",
+      "finnish": "sanoa",
+      "english": "to say",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: sanon, sanot, sanoo. No consonant gradation.",
+      "examples": ["Mitä sinä sanoit? — What did you say?", "Hän sanoo terve. — He/she says hello."]
+    },
+    {
+      "id": "verbs-common-007",
+      "finnish": "tietää",
+      "english": "to know (a fact)",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: tiedän, tiedät, tietää. Consonant gradation: t→d in 1st and 2nd person. Used for factual knowledge (not people).",
+      "examples": ["Tiedätkö missä asema on? — Do you know where the station is?", "En tiedä. — I don't know."]
+    },
+    {
+      "id": "verbs-common-008",
+      "finnish": "haluta",
+      "english": "to want",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 4 verb (-ta/-tä → -an/-än). Present: haluan, haluat, haluaa. The -t- disappears and vowel lengthens.",
+      "examples": ["Haluatko kahvia? — Do you want coffee?", "Haluan oppia suomea. — I want to learn Finnish."]
+    },
+    {
+      "id": "verbs-common-009",
+      "finnish": "voida",
+      "english": "to be able to / can",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 2 verb (-da/-dä). Present: voin, voit, voi, voimme, voitte, voivat. Used with another verb infinitive.",
+      "examples": ["Voinko auttaa? — Can I help?", "En voi tulla huomenna. — I can't come tomorrow."]
+    },
+    {
+      "id": "verbs-common-010",
+      "finnish": "saada",
+      "english": "to get / to receive",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: saan, saat, saa. Also means 'may/be allowed to': Saanko...? = May I...?",
+      "examples": ["Saan lahjan. — I get a present.", "Saanko laskun? — May I have the bill?"]
+    },
+    {
+      "id": "verbs-common-011",
+      "finnish": "antaa",
+      "english": "to give",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: annan, annat, antaa. Consonant gradation: nt→nn in 1st and 2nd person.",
+      "examples": ["Anna minulle se kirja. — Give me that book.", "Hän antaa lahjoja. — He/she gives presents."]
+    },
+    {
+      "id": "verbs-common-012",
+      "finnish": "ottaa",
+      "english": "to take",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: otan, otat, ottaa. Consonant gradation: tt→t in 1st and 2nd person.",
+      "examples": ["Otan kahvia. — I'll take/have coffee.", "Ota se mukaan! — Take it with you!"]
+    },
+    {
+      "id": "verbs-common-013",
+      "finnish": "nähdä",
+      "english": "to see",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 2 verb (-hdä). Present: näen, näet, näkee. The stem changes: näh- → näe-/näke-. 3rd person has -kee.",
+      "examples": ["Näen sinut huomenna. — I'll see you tomorrow.", "Näetkö tuon talon? — Do you see that house?"]
+    },
+    {
+      "id": "verbs-common-014",
+      "finnish": "kuulla",
+      "english": "to hear",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 3 verb (consonant + -la). Present: kuulen, kuulet, kuulee. The -ll- simplifies to -l- in the stem.",
+      "examples": ["Kuuletko musiikkia? — Do you hear music?", "En kuullut mitään. — I didn't hear anything."]
+    },
+    {
+      "id": "verbs-common-015",
+      "finnish": "syödä",
+      "english": "to eat",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 2 verb (-dä). Present: syön, syöt, syö. Short conjugation — 3rd person has no ending.",
+      "examples": ["Syön aamupalaa. — I'm eating breakfast.", "Mitä haluat syödä? — What do you want to eat?"]
+    },
+    {
+      "id": "verbs-common-016",
+      "finnish": "juoda",
+      "english": "to drink",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 2 verb (-da). Present: juon, juot, juo. Short conjugation — 3rd person has no ending.",
+      "examples": ["Juon vettä. — I drink water.", "Haluatko juoda jotain? — Do you want to drink something?"]
+    },
+    {
+      "id": "verbs-common-017",
+      "finnish": "nukkua",
+      "english": "to sleep",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: nukun, nukut, nukkuu. Consonant gradation: kk→k in 1st and 2nd person.",
+      "examples": ["Nukuitko hyvin? — Did you sleep well?", "Nukun kahdeksan tuntia. — I sleep eight hours."]
+    },
+    {
+      "id": "verbs-common-018",
+      "finnish": "herätä",
+      "english": "to wake up",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 4 verb (-tä → -än). Present: herään, heräät, herää. Consonant gradation: t disappears. The -ä- stem vowel lengthens in conjugation.",
+      "examples": ["Herään aikaisin aamulla. — I wake up early in the morning.", "Mihin aikaan heräät? — What time do you wake up?"]
+    },
+    {
+      "id": "verbs-common-019",
+      "finnish": "asua",
+      "english": "to live / to reside",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: asun, asut, asuu. No consonant gradation. Used for where you live (not 'to be alive').",
+      "examples": ["Asun Helsingissä. — I live in Helsinki.", "Missä sinä asut? — Where do you live?"]
+    },
+    {
+      "id": "verbs-common-020",
+      "finnish": "lukea",
+      "english": "to read",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: luen, luet, lukee. Consonant gradation: k disappears in 1st and 2nd person. Also means 'to study'.",
+      "examples": ["Luen kirjaa. — I'm reading a book.", "Luetko sanomalehteä? — Do you read the newspaper?"]
+    },
+    {
+      "id": "verbs-common-021",
+      "finnish": "kirjoittaa",
+      "english": "to write",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: kirjoitan, kirjoitat, kirjoittaa. Consonant gradation: tt→t in 1st and 2nd person.",
+      "examples": ["Kirjoitan kirjettä. — I'm writing a letter.", "Kirjoita nimesi tähän. — Write your name here."]
+    },
+    {
+      "id": "verbs-common-022",
+      "finnish": "oppia",
+      "english": "to learn",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: opin, opit, oppii. Consonant gradation: pp→p in 1st and 2nd person. Takes partitive object for what you learn.",
+      "examples": ["Opin suomea. — I'm learning Finnish.", "Haluaisin oppia lisää. — I would like to learn more."]
+    },
+    {
+      "id": "verbs-common-023",
+      "finnish": "opettaa",
+      "english": "to teach",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: opetan, opetat, opettaa. Consonant gradation: tt→t in 1st and 2nd person. Related to 'oppia' (to learn).",
+      "examples": ["Hän opettaa matematiikkaa. — He/she teaches mathematics.", "Opetan sinulle suomea. — I'll teach you Finnish."]
+    },
+    {
+      "id": "verbs-common-024",
+      "finnish": "ymmärtää",
+      "english": "to understand",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: ymmärrän, ymmärrät, ymmärtää. Consonant gradation: rt→rr in 1st and 2nd person.",
+      "examples": ["Ymmärrätkö suomea? — Do you understand Finnish?", "En ymmärrä. — I don't understand."]
+    },
+    {
+      "id": "verbs-common-025",
+      "finnish": "ostaa",
+      "english": "to buy",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: ostan, ostat, ostaa. No consonant gradation (st cluster stays unchanged).",
+      "examples": ["Ostan maitoa kaupasta. — I buy milk from the store.", "Mitä haluat ostaa? — What do you want to buy?"]
+    },
+    {
+      "id": "verbs-common-026",
+      "finnish": "maksaa",
+      "english": "to pay",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: maksan, maksat, maksaa. No consonant gradation. Also means 'to cost': Se maksaa viisi euroa.",
+      "examples": ["Maksan laskun. — I'll pay the bill.", "Paljonko tämä maksaa? — How much does this cost?"]
+    },
+    {
+      "id": "verbs-common-027",
+      "finnish": "myydä",
+      "english": "to sell",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 2 verb (-dä). Present: myyn, myyt, myy. Short conjugation, 3rd person has no ending. The -y- is a long vowel throughout.",
+      "examples": ["Myyn vanhan autoni. — I'm selling my old car.", "Täällä myydään jäätelöä. — Ice cream is sold here."]
+    },
+    {
+      "id": "verbs-common-028",
+      "finnish": "auttaa",
+      "english": "to help",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: autan, autat, auttaa. Consonant gradation: tt→t in 1st and 2nd person.",
+      "examples": ["Voitko auttaa minua? — Can you help me?", "Autan mielelläni. — I'm happy to help."]
+    },
+    {
+      "id": "verbs-common-029",
+      "finnish": "odottaa",
+      "english": "to wait",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: odotan, odotat, odottaa. Consonant gradation: tt→t in 1st and 2nd person. Also means 'to expect'.",
+      "examples": ["Odota hetki! — Wait a moment!", "Odotan bussia. — I'm waiting for the bus."]
+    },
+    {
+      "id": "verbs-common-030",
+      "finnish": "etsiä",
+      "english": "to search / to look for",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: etsin, etsit, etsii. No consonant gradation (ts cluster stays). Takes partitive object.",
+      "examples": ["Etsin avaimiani. — I'm looking for my keys.", "Mitä sinä etsit? — What are you looking for?"]
+    },
+    {
+      "id": "verbs-common-031",
+      "finnish": "löytää",
+      "english": "to find",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: löydän, löydät, löytää. Consonant gradation: t→d in 1st and 2nd person. Pair with 'etsiä' (to search).",
+      "examples": ["Löysin sen! — I found it!", "En löydä puhelintani. — I can't find my phone."]
+    },
+    {
+      "id": "verbs-common-032",
+      "finnish": "avata",
+      "english": "to open",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 4 verb (-ta → -an). Present: avaan, avaat, avaa. The -t- disappears and the vowel lengthens.",
+      "examples": ["Avaa ovi! — Open the door!", "Avaan ikkunan. — I'll open the window."]
+    },
+    {
+      "id": "verbs-common-033",
+      "finnish": "sulkea",
+      "english": "to close",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: suljen, suljet, sulkee. Consonant gradation: lk→lj in 1st and 2nd person. Pair with 'avata' (to open).",
+      "examples": ["Sulje ovi. — Close the door.", "Kauppa sulkee kello viisi. — The store closes at five."]
+    },
+    {
+      "id": "verbs-common-034",
+      "finnish": "aloittaa",
+      "english": "to start / to begin",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: aloitan, aloitat, aloittaa. Consonant gradation: tt→t in 1st and 2nd person. Pair with 'lopettaa' (to stop).",
+      "examples": ["Aloitan työt maanantaina. — I start work on Monday.", "Milloin kurssi aloittaa? — When does the course start?"]
+    },
+    {
+      "id": "verbs-common-035",
+      "finnish": "lopettaa",
+      "english": "to stop / to finish",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: lopetan, lopetat, lopettaa. Consonant gradation: tt→t in 1st and 2nd person. Pair with 'aloittaa' (to start).",
+      "examples": ["Lopeta se! — Stop that!", "Lopetan työt kello viisi. — I finish work at five."]
+    },
+    {
+      "id": "verbs-common-036",
+      "finnish": "rakastaa",
+      "english": "to love",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: rakastan, rakastat, rakastaa. No consonant gradation (st cluster stays). Takes partitive object.",
+      "examples": ["Rakastan sinua. — I love you.", "Hän rakastaa musiikkia. — He/she loves music."]
+    },
+    {
+      "id": "verbs-common-037",
+      "finnish": "pitää",
+      "english": "to like / to hold / must",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 1 verb. Present: pidän, pidät, pitää. Consonant gradation: t→d. Multiple meanings: 'pidän sinusta' = I like you (+ elative); 'minun pitää' = I must; 'pidän kiinni' = I hold onto.",
+      "examples": ["Pidän suomalaisesta ruoasta. — I like Finnish food.", "Minun pitää lähteä. — I have to leave."]
+    },
+    {
+      "id": "verbs-common-038",
+      "finnish": "ajatella",
+      "english": "to think",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 3 verb (consonant + -la). Present: ajattelen, ajattelet, ajattelee. The -ll- becomes -l- and -tt- stays in conjugation. Takes partitive or 'että' clause.",
+      "examples": ["Mitä sinä ajattelet? — What do you think?", "Ajattelen sinua. — I'm thinking of you."]
+    },
+    {
+      "id": "verbs-common-039",
+      "finnish": "muistaa",
+      "english": "to remember",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: muistan, muistat, muistaa. No consonant gradation (st cluster stays). Pair with 'unohtaa' (to forget).",
+      "examples": ["Muistatko minut? — Do you remember me?", "En muista hänen nimeään. — I don't remember his/her name."]
+    },
+    {
+      "id": "verbs-common-040",
+      "finnish": "unohtaa",
+      "english": "to forget",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: unohdan, unohdat, unohtaa. Consonant gradation: t→d in 1st and 2nd person. Pair with 'muistaa' (to remember).",
+      "examples": ["Unohdin lompakkoni kotiin. — I forgot my wallet at home.", "Älä unohda! — Don't forget!"]
+    },
+    {
+      "id": "verbs-common-041",
+      "finnish": "lähteä",
+      "english": "to leave / to depart",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: lähden, lähdet, lähtee. Consonant gradation: t→d in 1st and 2nd person. 'Lähteä' implies departing from a place.",
+      "examples": ["Lähden töihin kello kahdeksan. — I leave for work at eight.", "Milloin juna lähtee? — When does the train depart?"]
+    },
+    {
+      "id": "verbs-common-042",
+      "finnish": "palata",
+      "english": "to return",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 4 verb (-ta → -an). Present: palaan, palaat, palaa. The -t- disappears and the vowel lengthens. Means returning to a place.",
+      "examples": ["Palaan pian. — I'll return soon.", "Milloin palaat kotiin? — When are you returning home?"]
+    },
+    {
+      "id": "verbs-common-043",
+      "finnish": "kävellä",
+      "english": "to walk",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 3 verb (consonant + -lä). Present: kävelen, kävelet, kävelee. The -ll- simplifies to -l- in the stem.",
+      "examples": ["Kävelen kouluun. — I walk to school.", "Kävelemmekö yhdessä? — Shall we walk together?"]
+    },
+    {
+      "id": "verbs-common-044",
+      "finnish": "juosta",
+      "english": "to run",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 3 verb, irregular stem. Present: juoksen, juokset, juoksee. The infinitive stem 'juos-' becomes 'juokse-' in conjugation.",
+      "examples": ["Juoksen joka aamu. — I run every morning.", "Hän juoksee nopeasti. — He/she runs fast."]
+    },
+    {
+      "id": "verbs-common-045",
+      "finnish": "ajaa",
+      "english": "to drive",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: ajan, ajat, ajaa. No consonant gradation. Also means 'to shave' or 'to chase'.",
+      "examples": ["Ajan autolla töihin. — I drive to work by car.", "Osaatko ajaa autoa? — Can you drive a car?"]
+    },
+    {
+      "id": "verbs-common-046",
+      "finnish": "lentää",
+      "english": "to fly",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: lennän, lennät, lentää. Consonant gradation: nt→nn in 1st and 2nd person.",
+      "examples": ["Lennän Helsinkiin huomenna. — I fly to Helsinki tomorrow.", "Lintu lentää taivaalla. — A bird flies in the sky."]
+    },
+    {
+      "id": "verbs-common-047",
+      "finnish": "uida",
+      "english": "to swim",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 2 verb (-da). Present: uin, uit, ui. Very short conjugation — 3rd person is just 'ui' with no ending.",
+      "examples": ["Uin järvessä kesällä. — I swim in the lake in summer.", "Osaatko uida? — Can you swim?"]
+    },
+    {
+      "id": "verbs-common-048",
+      "finnish": "pelata",
+      "english": "to play (a game)",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 4 verb (-ta → -an). Present: pelaan, pelaat, pelaa. The -t- disappears. Used for games and sports (not children's play — that's 'leikkiä').",
+      "examples": ["Pelaan jalkapalloa. — I play football.", "Pelaatko tennistä? — Do you play tennis?"]
+    },
+    {
+      "id": "verbs-common-049",
+      "finnish": "leikkiä",
+      "english": "to play (children)",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: leikin, leikit, leikkii. Consonant gradation: kk→k in 1st and 2nd person. Used for children's play, not sports (that's 'pelata').",
+      "examples": ["Lapset leikkivät puistossa. — The children play in the park.", "Leikin koiran kanssa. — I play with the dog."]
+    },
+    {
+      "id": "verbs-common-050",
+      "finnish": "laulaa",
+      "english": "to sing",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: laulan, laulat, laulaa. No consonant gradation.",
+      "examples": ["Hän laulaa kauniisti. — He/she sings beautifully.", "Lauletaan yhdessä! — Let's sing together!"]
+    },
+    {
+      "id": "verbs-common-051",
+      "finnish": "soittaa",
+      "english": "to call / to play (instrument)",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 1 verb. Present: soitan, soitat, soittaa. Consonant gradation: tt→t. Two main meanings: 'soitan sinulle' = I'll call you; 'soitan pianoa' = I play piano.",
+      "examples": ["Soitan sinulle huomenna. — I'll call you tomorrow.", "Hän soittaa kitaraa. — He/she plays guitar."]
+    },
+    {
+      "id": "verbs-common-052",
+      "finnish": "pestä",
+      "english": "to wash",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 3 verb (-stä → -sen). Present: pesen, peset, pesee. The -st- becomes -s- in the conjugation stem.",
+      "examples": ["Pesen kädet. — I wash my hands.", "Pesitkö pyykit? — Did you wash the laundry?"]
+    },
+    {
+      "id": "verbs-common-053",
+      "finnish": "siivota",
+      "english": "to clean",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 4 verb (-ta → -an). Present: siivoan, siivoat, siivoaa. The -t- disappears and the vowel lengthens. Used for cleaning rooms, houses.",
+      "examples": ["Siivoan asuntoa viikonloppuna. — I clean the apartment on the weekend.", "Pitää siivota! — Must clean!"]
+    },
+    {
+      "id": "verbs-common-054",
+      "finnish": "käydä",
+      "english": "to visit / to go (briefly)",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Type 2 verb (-dä). Present: käyn, käyt, käy. Short conjugation. Implies a brief visit: 'käyn kaupassa' = I'll pop to the store. Also: 'käydä läpi' = to go through.",
+      "examples": ["Käyn kaupassa. — I'll go to the store (briefly).", "Kävitkö lääkärissä? — Did you visit the doctor?"]
+    },
+    {
+      "id": "verbs-common-055",
+      "finnish": "tarvita",
+      "english": "to need",
+      "category": "verbs-common",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Type 5 verb (-ita → -itsen). Present: tarvitsen, tarvitset, tarvitsee. The stem gains -tse- in conjugation. Takes partitive object.",
+      "examples": ["Tarvitsen apua. — I need help.", "Et tarvitse huolehtia. — You don't need to worry."]
+    }
+  ]
+}

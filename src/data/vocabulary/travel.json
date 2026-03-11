@@ -1,0 +1,279 @@
+{
+  "category": "travel",
+  "categoryLabel": "Travel & Directions",
+  "icon": "compass",
+  "description": "Travel, directions, and navigation vocabulary",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "travel-001",
+      "finnish": "matka",
+      "english": "trip / journey",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Very common word; also means 'distance'. Used in many compounds like 'matkalaukku' (suitcase), 'matkalippu' (travel ticket).",
+      "examples": ["Matka kesti kaksi tuntia. — The trip lasted two hours."]
+    },
+    {
+      "id": "travel-002",
+      "finnish": "matkalaukku",
+      "english": "suitcase",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: 'matka' (trip) + 'laukku' (bag). Literally 'trip bag'.",
+      "examples": ["Pakkaa matkalaukku valmiiksi. — Pack the suitcase ready."]
+    },
+    {
+      "id": "travel-003",
+      "finnish": "passi",
+      "english": "passport",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Borrowed from Swedish/French. Finnish passports are issued by the police.",
+      "examples": ["Passini on voimassa viisi vuotta. — My passport is valid for five years."]
+    },
+    {
+      "id": "travel-004",
+      "finnish": "viisumi",
+      "english": "visa",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Finland is part of the Schengen area, so EU citizens don't need a visa. Stem: viisumi-, partitive: viisumia.",
+      "examples": ["Tarvitsetko viisumin Suomeen? — Do you need a visa to Finland?"]
+    },
+    {
+      "id": "travel-005",
+      "finnish": "lentolippu",
+      "english": "plane ticket",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Compound word: 'lento' (flight) + 'lippu' (ticket). 'Lippu' alone means ticket and is in the transport category.",
+      "examples": ["Lentolippu Helsinkiin oli edullinen. — The plane ticket to Helsinki was affordable."]
+    },
+    {
+      "id": "travel-006",
+      "finnish": "varaus",
+      "english": "reservation / booking",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "From the verb 'varata' (to reserve). Stem: varaukse-, e.g. partitive: varausta. Used for hotel, restaurant, and travel bookings.",
+      "examples": ["Minulla on varaus hotellissa. — I have a reservation at the hotel."]
+    },
+    {
+      "id": "travel-007",
+      "finnish": "majoitus",
+      "english": "accommodation",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "From the verb 'majoittaa' (to accommodate). Stem: majoitukse-, partitive: majoitusta. Covers hotels, hostels, cabins, etc.",
+      "examples": ["Majoitus sisältää aamiaisen. — The accommodation includes breakfast."]
+    },
+    {
+      "id": "travel-008",
+      "finnish": "reitti",
+      "english": "route",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: reiti-, partitive: reittiä. Used for travel routes, bus routes, hiking trails, etc.",
+      "examples": ["Mikä on lyhin reitti keskustaan? — What is the shortest route to the center?"]
+    },
+    {
+      "id": "travel-009",
+      "finnish": "osoite",
+      "english": "address",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: osoittee-, partitive: osoitetta. Finnish addresses typically use street name + number format.",
+      "examples": ["Mikä on hotellin osoite? — What is the hotel's address?"]
+    },
+    {
+      "id": "travel-010",
+      "finnish": "vasen",
+      "english": "left",
+      "category": "travel",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Stem: vasemma-. 'Käänny vasemmalle' means 'turn left' (allative case).",
+      "examples": ["Käänny vasemmalle liikennevaloissa. — Turn left at the traffic lights."]
+    },
+    {
+      "id": "travel-011",
+      "finnish": "oikea",
+      "english": "right",
+      "category": "travel",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Also means 'correct' or 'true'. Context makes the meaning clear. 'Käänny oikealle' means 'turn right'.",
+      "examples": ["Käänny oikealle seuraavasta risteyksestä. — Turn right at the next intersection."]
+    },
+    {
+      "id": "travel-012",
+      "finnish": "suoraan",
+      "english": "straight ahead",
+      "category": "travel",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "From the adjective 'suora' (straight). Very useful for directions.",
+      "examples": ["Mene suoraan kaksi korttelia. — Go straight ahead two blocks."]
+    },
+    {
+      "id": "travel-013",
+      "finnish": "eteen",
+      "english": "forward / in front",
+      "category": "travel",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Indicates direction of movement (toward the front). 'Edessä' means 'in front of' (static position). From stem ete-/ede-.",
+      "examples": ["Astu askel eteen. — Take a step forward."]
+    },
+    {
+      "id": "travel-014",
+      "finnish": "taakse",
+      "english": "behind / backwards",
+      "category": "travel",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Indicates direction of movement (toward the back). 'Takana' means 'behind' (static position). From stem taka-.",
+      "examples": ["Katso taakse! — Look behind you!"]
+    },
+    {
+      "id": "travel-015",
+      "finnish": "lähellä",
+      "english": "near / close",
+      "category": "travel",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "From 'lähi-' (near). Takes partitive: 'lähellä asemaa' (near the station).",
+      "examples": ["Kauppa on lähellä. — The shop is nearby."]
+    },
+    {
+      "id": "travel-016",
+      "finnish": "kaukana",
+      "english": "far / far away",
+      "category": "travel",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Opposite of 'lähellä'. Takes elative: 'kaukana keskustasta' (far from the center).",
+      "examples": ["Lentokenttä on kaukana keskustasta. — The airport is far from the center."]
+    },
+    {
+      "id": "travel-017",
+      "finnish": "pohjoinen",
+      "english": "north",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Also used as an adjective meaning 'northern'. Stem: pohjoise-. Finland is one of the world's northernmost countries.",
+      "examples": ["Oulu on pohjoisen Suomen kaupunki. — Oulu is a city in northern Finland."]
+    },
+    {
+      "id": "travel-018",
+      "finnish": "etelä",
+      "english": "south",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Also used as an adjective meaning 'southern'. Stem: etelä-. 'Etelä-Suomi' means Southern Finland.",
+      "examples": ["Helsinki on Etelä-Suomessa. — Helsinki is in Southern Finland."]
+    },
+    {
+      "id": "travel-019",
+      "finnish": "itä",
+      "english": "east",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Also used as an adjective meaning 'eastern'. Stem: idä-. 'Itä-Suomi' means Eastern Finland.",
+      "examples": ["Aurinko nousee idästä. — The sun rises from the east."]
+    },
+    {
+      "id": "travel-020",
+      "finnish": "länsi",
+      "english": "west",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Also used as an adjective meaning 'western'. Stem changes: länsi → länne- in inflected forms (e.g. 'lännestä' = from the west).",
+      "examples": ["Tuuli tulee lännestä. — The wind comes from the west."]
+    },
+    {
+      "id": "travel-021",
+      "finnish": "raja",
+      "english": "border",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: raja-. Finland shares borders with Sweden, Norway, and Russia. 'Rajalla' means 'at the border'.",
+      "examples": ["Suomen ja Ruotsin raja kulkee Tornionjokea pitkin. — The border between Finland and Sweden runs along the Tornio River."]
+    },
+    {
+      "id": "travel-022",
+      "finnish": "tulli",
+      "english": "customs",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Be careful: 'tulli' (double l) = customs, but 'tuli' (single l) = fire. The double consonant changes the meaning completely!",
+      "examples": ["Menitkö tullin läpi? — Did you go through customs?"]
+    },
+    {
+      "id": "travel-023",
+      "finnish": "ulkomaat",
+      "english": "abroad / foreign countries",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Always plural. Compound: 'ulko' (outer) + 'maat' (countries/lands). Singular 'ulkomaa' means 'foreign country'. 'Ulkomailla' = abroad (location).",
+      "examples": ["Hän asuu ulkomailla. — He/she lives abroad."]
+    },
+    {
+      "id": "travel-024",
+      "finnish": "opas",
+      "english": "guide",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem changes: opas → oppaa- in inflected forms (e.g. 'oppaan' = guide's, 'oppaita' = guides). Can mean a person or a guidebook.",
+      "examples": ["Opas näytti meille kaupungin nähtävyydet. — The guide showed us the city's sights."]
+    },
+    {
+      "id": "travel-025",
+      "finnish": "nähtävyys",
+      "english": "sight / attraction",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "From 'nähdä' (to see) + '-tävyys' (worthiness suffix). Literally 'something worth seeing'. Stem: nähtävyyde-, plural: nähtävyydet.",
+      "examples": ["Suomenlinna on Helsingin tunnetuin nähtävyys. — Suomenlinna is Helsinki's most famous attraction."]
+    },
+    {
+      "id": "travel-026",
+      "finnish": "maa",
+      "english": "country / land",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Very common word with multiple meanings: country, land, ground, soil. Plural: 'maat'. 'Suomi on kaunis maa' = Finland is a beautiful country.",
+      "examples": ["Suomi on kaunis maa. — Finland is a beautiful country."]
+    },
+    {
+      "id": "travel-027",
+      "finnish": "turisti",
+      "english": "tourist",
+      "category": "travel",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Borrowed from English/French. The native Finnish equivalent 'matkailija' (traveler) is more formal. Stem: turisti-.",
+      "examples": ["Turistit vierailevat Suomenlinnassa. — Tourists visit Suomenlinna."]
+    }
+  ]
+}

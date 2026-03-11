@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SuomiSprint — Offline</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Source Sans 3', system-ui, sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      background: #F0F4F8;
+      color: #1A1A2E;
+    }
+    .container {
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-family: 'Instrument Sans', sans-serif;
+      color: #003580;
+      margin-bottom: 0.5rem;
+    }
+    p {
+      color: #5A6678;
+    }
+    button {
+      margin-top: 1rem;
+      padding: 0.75rem 1.5rem;
+      background: #003580;
+      color: white;
+      border: none;
+      border-radius: 0.5rem;
+      font-size: 1rem;
+      cursor: pointer;
+    }
+    button:hover {
+      background: #1a5fb4;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>SuomiSprint</h1>
+    <p>You appear to be offline.<br/>Please check your connection and try again.</p>
+    <button onclick="location.reload()">Retry</button>
+  </div>
+</body>
+</html>

@@ -1,0 +1,279 @@
+{
+  "category": "weather-nature",
+  "categoryLabel": "Weather & Seasons",
+  "icon": "cloud-sun",
+  "description": "Weather conditions, nature, and outdoor environment",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "weather-nature-001",
+      "finnish": "sää",
+      "english": "weather",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A very common word. The long vowel 'ää' is important — pronounce it clearly.",
+      "examples": ["Millainen sää tänään on? — What's the weather like today?"]
+    },
+    {
+      "id": "weather-nature-002",
+      "finnish": "aurinko",
+      "english": "sun",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: aurinko → auringon (genitive). The 'nk' changes to 'ng' in inflected forms.",
+      "examples": ["Aurinko paistaa. — The sun is shining."]
+    },
+    {
+      "id": "weather-nature-003",
+      "finnish": "pilvi",
+      "english": "cloud",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pilvinen means 'cloudy'. Stem stays regular: pilve-.",
+      "examples": ["Taivaalla on paljon pilviä. — There are many clouds in the sky."]
+    },
+    {
+      "id": "weather-nature-004",
+      "finnish": "sade",
+      "english": "rain",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem changes: sade → satee- (e.g., sateen, sadetta). The verb 'to rain' is 'sataa'.",
+      "examples": ["Huomenna tulee sadetta. — Tomorrow there will be rain."]
+    },
+    {
+      "id": "weather-nature-005",
+      "finnish": "lumi",
+      "english": "snow",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: lumi → lume- (e.g., lumen, lunta). Finland gets snow from November to April.",
+      "examples": ["Ulkona sataa lunta. — It's snowing outside."]
+    },
+    {
+      "id": "weather-nature-006",
+      "finnish": "tuuli",
+      "english": "wind",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: tuuli → tuule- (e.g., tuulen, tuulta). Tuulinen = windy.",
+      "examples": ["Tänään on kova tuuli. — Today there is a strong wind."]
+    },
+    {
+      "id": "weather-nature-007",
+      "finnish": "myrsky",
+      "english": "storm",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: myrsky → myrskyä (partitive). Finnish storms are common over the Baltic Sea in autumn.",
+      "examples": ["Myrsky on tulossa. — A storm is coming."]
+    },
+    {
+      "id": "weather-nature-008",
+      "finnish": "ukkonen",
+      "english": "thunder",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: ukkonen → ukkose- (e.g., ukkosen, ukkosta). Related to 'Ukko', the Finnish thunder god in mythology.",
+      "examples": ["Ukkonen jyrisee. — Thunder is rumbling."]
+    },
+    {
+      "id": "weather-nature-009",
+      "finnish": "salama",
+      "english": "lightning",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem stays regular: salama-. 'Salamoida' is the verb meaning 'to flash with lightning'.",
+      "examples": ["Salama iski puuhun. — Lightning struck a tree."]
+    },
+    {
+      "id": "weather-nature-010",
+      "finnish": "sumu",
+      "english": "fog",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem stays regular: sumu-. 'Sumuinen' means 'foggy'. Common near Finnish lakes in autumn mornings.",
+      "examples": ["Aamulla oli tiheä sumu. — In the morning there was thick fog."]
+    },
+    {
+      "id": "weather-nature-011",
+      "finnish": "jää",
+      "english": "ice",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Long vowel 'ää'. Jäätelö = ice cream, jääkaappi = refrigerator (literally 'ice cabinet').",
+      "examples": ["Järven jää on paksu. — The lake ice is thick."]
+    },
+    {
+      "id": "weather-nature-012",
+      "finnish": "lämmin",
+      "english": "warm",
+      "category": "weather-nature",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Stem: lämmin → lämpimä- (e.g., lämpimän, lämmintä). Note the stem change.",
+      "examples": ["Tänään on lämmin päivä. — Today is a warm day."]
+    },
+    {
+      "id": "weather-nature-013",
+      "finnish": "kylmä",
+      "english": "cold",
+      "category": "weather-nature",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "One of the most useful Finnish words! Minulla on kylmä = I am cold (literally 'I have cold').",
+      "examples": ["Ulkona on kylmä. — It's cold outside."]
+    },
+    {
+      "id": "weather-nature-014",
+      "finnish": "kuuma",
+      "english": "hot",
+      "category": "weather-nature",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Used for weather and temperature. Kuuma vesi = hot water. Sauna on kuuma!",
+      "examples": ["Kesällä on kuuma. — In summer it's hot."]
+    },
+    {
+      "id": "weather-nature-015",
+      "finnish": "viileä",
+      "english": "cool",
+      "category": "weather-nature",
+      "partOfSpeech": "adjective",
+      "difficulty": 2,
+      "notes": "Between 'kylmä' (cold) and 'lämmin' (warm). Very common in Finnish weather — many days are 'viileä'.",
+      "examples": ["Ilta on viileä. — The evening is cool."]
+    },
+    {
+      "id": "weather-nature-016",
+      "finnish": "pakkanen",
+      "english": "frost / freezing",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: pakkanen → pakkase- (e.g., pakkasen, pakkasta). Refers to sub-zero temperatures. A very Finnish concept — winter temperatures can reach -30°C or colder.",
+      "examples": ["Tänään on kova pakkanen. — Today there is a hard frost."]
+    },
+    {
+      "id": "weather-nature-017",
+      "finnish": "metsä",
+      "english": "forest",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finland is about 73% forest — the most forested country in Europe.",
+      "examples": ["Menen metsään kävelylle. — I'm going to the forest for a walk."]
+    },
+    {
+      "id": "weather-nature-018",
+      "finnish": "järvi",
+      "english": "lake",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: järvi → järve- (e.g., järven, järveä). Finland has approximately 188,000 lakes — the 'Land of a Thousand Lakes'!",
+      "examples": ["Suomessa on paljon järviä. — In Finland there are many lakes."]
+    },
+    {
+      "id": "weather-nature-019",
+      "finnish": "joki",
+      "english": "river",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: joki → joe- (e.g., joen, jokea). Many Finnish city names contain 'joki'.",
+      "examples": ["Joki virtaa metsän läpi. — The river flows through the forest."]
+    },
+    {
+      "id": "weather-nature-020",
+      "finnish": "meri",
+      "english": "sea",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: meri → mere- (e.g., meren, merta). Finland borders the Baltic Sea.",
+      "examples": ["Meri on kaunis kesällä. — The sea is beautiful in summer."]
+    },
+    {
+      "id": "weather-nature-021",
+      "finnish": "saari",
+      "english": "island",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: saari → saare- (e.g., saaren, saarta). Finland has over 170,000 islands in its archipelago.",
+      "examples": ["Asumme pienellä saarella. — We live on a small island."]
+    },
+    {
+      "id": "weather-nature-022",
+      "finnish": "vuori",
+      "english": "mountain",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: vuori → vuore- (e.g., vuoren, vuorta). Finland is mostly flat — 'tunturi' (fell) is more common for Finnish highlands in Lapland.",
+      "examples": ["Vuori on korkea. — The mountain is high."]
+    },
+    {
+      "id": "weather-nature-023",
+      "finnish": "taivas",
+      "english": "sky",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: taivas → taivaa- (e.g., taivaan, taivasta). Also means 'heaven'. The stem change drops the 's'.",
+      "examples": ["Taivas on sininen. — The sky is blue."]
+    },
+    {
+      "id": "weather-nature-024",
+      "finnish": "tähti",
+      "english": "star",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Stem: tähti → tähde- (e.g., tähden, tähteä). Note the 'ti' → 'de' consonant gradation in inflected forms.",
+      "examples": ["Tähdet loistavat taivaalla. — The stars shine in the sky."]
+    },
+    {
+      "id": "weather-nature-025",
+      "finnish": "kuu",
+      "english": "moon / month",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Has two meanings: 'moon' and 'month'. Context makes it clear. Tammikuu = January (literally 'oak month').",
+      "examples": ["Kuu loistaa kirkkaasti. — The moon shines brightly."]
+    },
+    {
+      "id": "weather-nature-026",
+      "finnish": "kukka",
+      "english": "flower",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Stem: kukka → kuka- (e.g., kukan, kukkaa). The double 'kk' reduces to single 'k' in some forms.",
+      "examples": ["Puutarhassa kasvaa kauniita kukkia. — Beautiful flowers grow in the garden."]
+    },
+    {
+      "id": "weather-nature-027",
+      "finnish": "puu",
+      "english": "tree / wood",
+      "category": "weather-nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Means both 'tree' and 'wood' (the material). Puinen = wooden. Puutarha = garden (literally 'tree yard').",
+      "examples": ["Puu kasvaa puutarhassa. — A tree grows in the garden."]
+    }
+  ]
+}

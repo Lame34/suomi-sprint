@@ -1,0 +1,259 @@
+{
+  "category": "pronouns",
+  "categoryLabel": "Pronouns & Determiners",
+  "icon": "user",
+  "description": "Personal pronouns, demonstratives, and question words",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "pronouns-001",
+      "finnish": "minä",
+      "english": "I",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Formal/written. In spoken Finnish often shortened to 'mä' or 'mää'.",
+      "examples": ["Minä olen opiskelija. — I am a student."]
+    },
+    {
+      "id": "pronouns-002",
+      "finnish": "sinä",
+      "english": "you (singular)",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Informal singular 'you'. Spoken: 'sä'. Formal: use 'Te'.",
+      "examples": ["Sinä olet mukava. — You are nice."]
+    },
+    {
+      "id": "pronouns-003",
+      "finnish": "hän",
+      "english": "he / she",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Gender-neutral! Finnish has no he/she distinction. In spoken Finnish: 'se' (it) is commonly used for people too.",
+      "examples": ["Hän on opettaja. — He/She is a teacher."]
+    },
+    {
+      "id": "pronouns-004",
+      "finnish": "me",
+      "english": "we",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Always lowercase in Finnish unless starting a sentence.",
+      "examples": ["Me asumme Helsingissä. — We live in Helsinki."]
+    },
+    {
+      "id": "pronouns-005",
+      "finnish": "te",
+      "english": "you (plural)",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Plural 'you'. When capitalized 'Te', it becomes formal singular 'you' (like French 'vous').",
+      "examples": ["Te olette tervetulleita! — You (all) are welcome!"]
+    },
+    {
+      "id": "pronouns-006",
+      "finnish": "he",
+      "english": "they",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Only for people. 'Ne' is used for things/animals in standard Finnish.",
+      "examples": ["He puhuvat suomea. — They speak Finnish."]
+    },
+    {
+      "id": "pronouns-007",
+      "finnish": "se",
+      "english": "it",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "For things and animals. In spoken Finnish also used for people instead of 'hän'.",
+      "examples": ["Se on kaunis päivä. — It is a beautiful day."]
+    },
+    {
+      "id": "pronouns-008",
+      "finnish": "ne",
+      "english": "they (things / animals)",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "For things and animals. In spoken Finnish, also used for people.",
+      "examples": ["Ne ovat pöydällä. — They (the things) are on the table."]
+    },
+    {
+      "id": "pronouns-009",
+      "finnish": "tämä",
+      "english": "this",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Demonstrative pronoun for something close. Plural: 'nämä'.",
+      "examples": ["Tämä on minun kirjani. — This is my book."]
+    },
+    {
+      "id": "pronouns-010",
+      "finnish": "tuo",
+      "english": "that",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "For something a bit farther away but still visible. Plural: 'nuo'.",
+      "examples": ["Tuo on kaunis talo. — That is a beautiful house."]
+    },
+    {
+      "id": "pronouns-011",
+      "finnish": "mikä",
+      "english": "what / which",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Question word. 'Mikä' for things, 'kuka' for people.",
+      "examples": ["Mikä tämä on? — What is this?"]
+    },
+    {
+      "id": "pronouns-012",
+      "finnish": "kuka",
+      "english": "who",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Question word for people. Plural: 'ketkä'.",
+      "examples": ["Kuka sinä olet? — Who are you?"]
+    },
+    {
+      "id": "pronouns-013",
+      "finnish": "missä",
+      "english": "where",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Inessive case of 'mikä'. Asking about location (being somewhere).",
+      "examples": ["Missä sinä asut? — Where do you live?"]
+    },
+    {
+      "id": "pronouns-014",
+      "finnish": "milloin",
+      "english": "when",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Question word for time.",
+      "examples": ["Milloin juna lähtee? — When does the train leave?"]
+    },
+    {
+      "id": "pronouns-015",
+      "finnish": "miksi",
+      "english": "why",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Question word for reason. Translative case of 'mikä'.",
+      "examples": ["Miksi olet surullinen? — Why are you sad?"]
+    },
+    {
+      "id": "pronouns-016",
+      "finnish": "miten",
+      "english": "how",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Question word for manner. Also 'kuinka'.",
+      "examples": ["Miten pääsen keskustaan? — How do I get to the city center?"]
+    },
+    {
+      "id": "pronouns-017",
+      "finnish": "minun",
+      "english": "my / mine",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Genitive of 'minä'. Often used with possessive suffix: 'minun kirjani' (my book).",
+      "examples": ["Tämä on minun. — This is mine."]
+    },
+    {
+      "id": "pronouns-018",
+      "finnish": "sinun",
+      "english": "your / yours (singular)",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Genitive of 'sinä'. Informal.",
+      "examples": ["Onko tämä sinun laukkusi? — Is this your bag?"]
+    },
+    {
+      "id": "pronouns-019",
+      "finnish": "hänen",
+      "english": "his / her / theirs (singular)",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Genitive of 'hän'. Gender-neutral like 'hän'.",
+      "examples": ["Hänen nimensä on Matti. — His/Her name is Matti."]
+    },
+    {
+      "id": "pronouns-020",
+      "finnish": "meidän",
+      "english": "our / ours",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "Genitive of 'me'.",
+      "examples": ["Meidän talo on tuolla. — Our house is over there."]
+    },
+    {
+      "id": "pronouns-021",
+      "finnish": "paljonko",
+      "english": "how much",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 1,
+      "notes": "From 'paljon' (much/a lot) + '-ko' (question particle).",
+      "examples": ["Paljonko tämä maksaa? — How much does this cost?"]
+    },
+    {
+      "id": "pronouns-022",
+      "finnish": "kumpi",
+      "english": "which (of two)",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 2,
+      "notes": "Used when choosing between two options. For more than two, use 'mikä'.",
+      "examples": ["Kumpi on parempi? — Which (of the two) is better?"]
+    },
+    {
+      "id": "pronouns-023",
+      "finnish": "jokainen",
+      "english": "every / everyone",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 2,
+      "notes": "Indefinite pronoun. Can mean 'every' (adjective) or 'everyone' (noun).",
+      "examples": ["Jokainen päivä on erilainen. — Every day is different."]
+    },
+    {
+      "id": "pronouns-024",
+      "finnish": "kukaan",
+      "english": "nobody / anyone",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 2,
+      "notes": "Negative pronoun, used with negative verb. In questions means 'anyone'.",
+      "examples": ["Kukaan ei tiedä. — Nobody knows."]
+    },
+    {
+      "id": "pronouns-025",
+      "finnish": "joku",
+      "english": "someone / somebody",
+      "category": "pronouns",
+      "partOfSpeech": "pronoun",
+      "difficulty": 2,
+      "notes": "Indefinite pronoun for an unspecified person.",
+      "examples": ["Joku soitti sinulle. — Someone called you."]
+    }
+  ]
+}

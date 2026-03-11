@@ -1,0 +1,459 @@
+{
+  "category": "food-drink",
+  "categoryLabel": "Food & Drink",
+  "icon": "utensils",
+  "description": "Common foods, drinks, and dining vocabulary",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "food-drink-001",
+      "finnish": "ruoka",
+      "english": "food",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "General word for food. 'Ruokakauppa' = grocery store (lit: food shop)",
+      "examples": ["Ruoka on valmista. — The food is ready."]
+    },
+    {
+      "id": "food-drink-002",
+      "finnish": "juoma",
+      "english": "drink",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A drink (noun). The verb 'to drink' is 'juoda'",
+      "examples": ["Haluatko juoman? — Would you like a drink?"]
+    },
+    {
+      "id": "food-drink-003",
+      "finnish": "vesi",
+      "english": "water",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish tap water is among the cleanest in the world and always safe to drink",
+      "examples": ["Saisinko lasin vettä? — Could I get a glass of water?"]
+    },
+    {
+      "id": "food-drink-004",
+      "finnish": "kahvi",
+      "english": "coffee",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finland is the world's top coffee consumer per capita. 'Kahvitauko' = coffee break",
+      "examples": ["Juon kahvia joka aamu. — I drink coffee every morning."]
+    },
+    {
+      "id": "food-drink-005",
+      "finnish": "tee",
+      "english": "tea",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Less common than coffee in Finland but still widely enjoyed",
+      "examples": ["Haluatko kupillisen teetä? — Would you like a cup of tea?"]
+    },
+    {
+      "id": "food-drink-006",
+      "finnish": "maito",
+      "english": "milk",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finns drink a lot of milk, often with meals. 'Piimä' = buttermilk, also very popular",
+      "examples": ["Otatko maitoa kahviin? — Do you take milk in your coffee?"]
+    },
+    {
+      "id": "food-drink-007",
+      "finnish": "mehu",
+      "english": "juice",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "General word for juice. 'Appelsiinimehu' = orange juice, 'omenamehu' = apple juice",
+      "examples": ["Lapset juovat mehua. — The children are drinking juice."]
+    },
+    {
+      "id": "food-drink-008",
+      "finnish": "olut",
+      "english": "beer",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Strong beer (over 4.7%) is only sold at Alko, the state alcohol monopoly stores",
+      "examples": ["Yksi olut, kiitos. — One beer, please."]
+    },
+    {
+      "id": "food-drink-009",
+      "finnish": "viini",
+      "english": "wine",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Wine is only sold at Alko stores in Finland. 'Punaviini' = red wine, 'valkoviini' = white wine",
+      "examples": ["Haluaisitko lasin viiniä? — Would you like a glass of wine?"]
+    },
+    {
+      "id": "food-drink-010",
+      "finnish": "leipä",
+      "english": "bread",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finland is famous for dark rye bread ('ruisleipä'). Bread is a staple at every meal",
+      "examples": ["Ruisleipä on terveellistä. — Rye bread is healthy."]
+    },
+    {
+      "id": "food-drink-011",
+      "finnish": "voi",
+      "english": "butter",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Also means 'can' (verb) or is used as an exclamation: 'Voi ei!' = 'Oh no!'",
+      "examples": ["Laita voita leivän päälle. — Put butter on the bread."]
+    },
+    {
+      "id": "food-drink-012",
+      "finnish": "juusto",
+      "english": "cheese",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish 'leipäjuusto' (bread cheese) is a unique squeaky cheese, often served with cloudberry jam",
+      "examples": ["Tämä juusto on hyvää. — This cheese is good."]
+    },
+    {
+      "id": "food-drink-013",
+      "finnish": "liha",
+      "english": "meat",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "General word for meat. 'Naudanliha' = beef, 'sianliha' = pork, 'poronliha' = reindeer meat",
+      "examples": ["Syötkö lihaa? — Do you eat meat?"]
+    },
+    {
+      "id": "food-drink-014",
+      "finnish": "kala",
+      "english": "fish",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Fish is very important in Finnish cuisine, with thousands of lakes providing fresh fish",
+      "examples": ["Kala on tuoretta. — The fish is fresh."]
+    },
+    {
+      "id": "food-drink-015",
+      "finnish": "kana",
+      "english": "chicken",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Means both the animal and the meat. 'Kananmuna' = egg (lit: chicken egg)",
+      "examples": ["Syömme kanaa tänään. — We are eating chicken today."]
+    },
+    {
+      "id": "food-drink-016",
+      "finnish": "peruna",
+      "english": "potato",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A staple of Finnish cuisine. 'Perunamuusi' = mashed potatoes, 'uudet perunat' = new potatoes (a summer delicacy)",
+      "examples": ["Perunat ovat valmiita. — The potatoes are ready."]
+    },
+    {
+      "id": "food-drink-017",
+      "finnish": "riisi",
+      "english": "rice",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Used in Finnish 'riisipuuro' (rice porridge), a traditional Christmas dish",
+      "examples": ["Haluatko riisiä vai perunaa? — Would you like rice or potato?"]
+    },
+    {
+      "id": "food-drink-018",
+      "finnish": "pasta",
+      "english": "pasta",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Same word as in English. 'Makaronilaatikko' (macaroni casserole) is a classic Finnish comfort food",
+      "examples": ["Teetkö pastaa tänään? — Are you making pasta today?"]
+    },
+    {
+      "id": "food-drink-019",
+      "finnish": "salaatti",
+      "english": "salad",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Can refer to both salad and lettuce. Note the double 't'",
+      "examples": ["Otan salaatin, kiitos. — I'll have a salad, please."]
+    },
+    {
+      "id": "food-drink-020",
+      "finnish": "keitto",
+      "english": "soup",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Hernekeitto' (pea soup) is traditionally eaten on Thursdays in Finland. 'Lohikeitto' = salmon soup",
+      "examples": ["Lohikeitto on herkullista. — Salmon soup is delicious."]
+    },
+    {
+      "id": "food-drink-021",
+      "finnish": "hedelmä",
+      "english": "fruit",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "General word for fruit. Wild berries are more traditional in Finland than imported fruits",
+      "examples": ["Syön hedelmiä joka päivä. — I eat fruit every day."]
+    },
+    {
+      "id": "food-drink-022",
+      "finnish": "omena",
+      "english": "apple",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Apples grow in southern Finland. 'Omenapiirakka' = apple pie",
+      "examples": ["Tämä omena on makea. — This apple is sweet."]
+    },
+    {
+      "id": "food-drink-023",
+      "finnish": "banaani",
+      "english": "banana",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "One of the most popular imported fruits in Finland",
+      "examples": ["Osta banaaneja kaupasta. — Buy bananas from the store."]
+    },
+    {
+      "id": "food-drink-024",
+      "finnish": "mansikka",
+      "english": "strawberry",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish summer strawberries are famous for their sweetness due to long daylight hours. 'Mansikkakakku' = strawberry cake",
+      "examples": ["Suomalaiset mansikat ovat makeita. — Finnish strawberries are sweet."]
+    },
+    {
+      "id": "food-drink-025",
+      "finnish": "mustikka",
+      "english": "blueberry",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish forests are full of wild blueberries. 'Mustikkapiirakka' = blueberry pie. Everyman's right allows anyone to pick wild berries freely",
+      "examples": ["Keräsimme mustikoita metsästä. — We picked blueberries from the forest."]
+    },
+    {
+      "id": "food-drink-026",
+      "finnish": "tomaatti",
+      "english": "tomato",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Note the double 't'. Often used in salads and sauces",
+      "examples": ["Tomaatit ovat punaisia. — Tomatoes are red."]
+    },
+    {
+      "id": "food-drink-027",
+      "finnish": "sipuli",
+      "english": "onion",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "A staple in Finnish cooking. 'Punasipuli' = red onion",
+      "examples": ["Pilko sipuli pieniksi paloiksi. — Chop the onion into small pieces."]
+    },
+    {
+      "id": "food-drink-028",
+      "finnish": "porkkana",
+      "english": "carrot",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Porkkanalaatikko' (carrot casserole) is a traditional Finnish Christmas dish",
+      "examples": ["Kanit syövät porkkanoita. — Rabbits eat carrots."]
+    },
+    {
+      "id": "food-drink-029",
+      "finnish": "lohi",
+      "english": "salmon",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "One of the most important fish in Finland. 'Lohikeitto' (salmon soup) and 'graavilohi' (cured salmon) are national favorites",
+      "examples": ["Lohi on Suomen suosituin kala. — Salmon is Finland's most popular fish."]
+    },
+    {
+      "id": "food-drink-030",
+      "finnish": "makkara",
+      "english": "sausage",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finns love grilling sausages, especially at the summer cottage ('mökki'). 'Grillimakkara' = grilling sausage",
+      "examples": ["Grillataan makkaraa! — Let's grill sausages!"]
+    },
+    {
+      "id": "food-drink-031",
+      "finnish": "pulla",
+      "english": "sweet bread / cardamom bun",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Iconic Finnish cardamom-flavored sweet bread, served with coffee. 'Korvapuusti' = cinnamon roll (a type of pulla)",
+      "examples": ["Pulla tuoksuu ihanalta. — The sweet bread smells wonderful."]
+    },
+    {
+      "id": "food-drink-032",
+      "finnish": "kakku",
+      "english": "cake",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Täytekakku' = layer cake (common at celebrations). Note the double 'k'",
+      "examples": ["Tein suklaakakun syntymäpäiväksi. — I made a chocolate cake for the birthday."]
+    },
+    {
+      "id": "food-drink-033",
+      "finnish": "jäätelö",
+      "english": "ice cream",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finns eat a lot of ice cream, even in winter. Note: 'jää' = ice, with double ä and ö at the end",
+      "examples": ["Haluatko jäätelöä? — Would you like ice cream?"]
+    },
+    {
+      "id": "food-drink-034",
+      "finnish": "suklaa",
+      "english": "chocolate",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish chocolate brand Fazer is very famous. 'Fazerin sininen' (Fazer Blue) is the iconic Finnish chocolate bar",
+      "examples": ["Rakastan suklaata. — I love chocolate."]
+    },
+    {
+      "id": "food-drink-035",
+      "finnish": "sokeri",
+      "english": "sugar",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Sokeroimaton' = unsweetened, 'tomusokeri' = powdered sugar",
+      "examples": ["Otatko sokeria kahviin? — Do you take sugar in your coffee?"]
+    },
+    {
+      "id": "food-drink-036",
+      "finnish": "suola",
+      "english": "salt",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Suolainen' = salty. Finnish salmiakki (salty liquorice) is a beloved national candy",
+      "examples": ["Lisää suolaa, kiitos. — More salt, please."]
+    },
+    {
+      "id": "food-drink-037",
+      "finnish": "pippuri",
+      "english": "pepper",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Refers to black pepper. 'Paprika' = bell pepper (the vegetable)",
+      "examples": ["Haluatko pippuria? — Would you like pepper?"]
+    },
+    {
+      "id": "food-drink-038",
+      "finnish": "ateria",
+      "english": "meal",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "A somewhat formal word for meal. In everyday speech, Finns might just say 'ruoka' (food)",
+      "examples": ["Ateria sisältää alkuruoan ja pääruoan. — The meal includes a starter and a main course."]
+    },
+    {
+      "id": "food-drink-039",
+      "finnish": "aamiainen",
+      "english": "breakfast",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "From 'aamu' (morning). Finnish breakfast typically includes bread, porridge, coffee, and dairy",
+      "examples": ["Aamiainen on kello seitsemältä. — Breakfast is at seven o'clock."]
+    },
+    {
+      "id": "food-drink-040",
+      "finnish": "lounas",
+      "english": "lunch",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Finnish lunch is typically eaten between 11:00-12:00. Many workplaces have subsidized lunches",
+      "examples": ["Mennään lounaalle! — Let's go for lunch!"]
+    },
+    {
+      "id": "food-drink-041",
+      "finnish": "päivällinen",
+      "english": "dinner",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "From 'päivä' (day). Dinner is eaten earlier in Finland, typically around 17:00-18:00",
+      "examples": ["Mitä on päivälliseksi? — What's for dinner?"]
+    },
+    {
+      "id": "food-drink-042",
+      "finnish": "välipala",
+      "english": "snack",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Literally 'between-piece' (väli = between, pala = piece). A small meal between main meals",
+      "examples": ["Otin pienen välipalan. — I had a small snack."]
+    },
+    {
+      "id": "food-drink-043",
+      "finnish": "lautanen",
+      "english": "plate",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Used for both plates and dishes. 'Lautasliina' = napkin (lit: plate cloth)",
+      "examples": ["Laita ruoka lautaselle. — Put the food on the plate."]
+    },
+    {
+      "id": "food-drink-044",
+      "finnish": "lasi",
+      "english": "glass",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Means both a drinking glass and glass (material). 'Vesilasi' = water glass",
+      "examples": ["Anna minulle lasi vettä. — Give me a glass of water."]
+    },
+    {
+      "id": "food-drink-045",
+      "finnish": "kuppi",
+      "english": "cup",
+      "category": "food-drink",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "'Kahvikuppi' = coffee cup. 'Kupillinen' = a cupful",
+      "examples": ["Juon kaksi kuppia kahvia päivässä. — I drink two cups of coffee per day."]
+    }
+  ]
+}

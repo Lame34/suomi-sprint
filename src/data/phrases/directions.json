@@ -1,0 +1,279 @@
+{
+  "category": "directions",
+  "categoryLabel": "Directions & Location",
+  "icon": "map-pin",
+  "description": "Asking for and giving directions, describing locations",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "directions-001",
+      "finnish": "Anteeksi, missä on...?",
+      "english": "Excuse me, where is...?",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "Excuse, where-in is...?",
+      "notes": "'Missä' is the inessive form of 'mikä' (what), literally 'in what/where'. This is the most common way to ask for locations in Finnish.",
+      "words": ["anteeksi", "missä", "olla"]
+    },
+    {
+      "id": "directions-002",
+      "finnish": "Miten pääsen keskustaan?",
+      "english": "How do I get to the center?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "How get-I center-into?",
+      "notes": "'Keskustaan' is the illative case (-an) of 'keskusta', meaning 'into the center'. The illative expresses movement toward or into. 'Päästä' means 'to get to / to reach'.",
+      "words": ["miten", "päästä", "keskusta"]
+    },
+    {
+      "id": "directions-003",
+      "finnish": "Käänny vasemmalle.",
+      "english": "Turn left.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "Turn left-onto.",
+      "notes": "Informal imperative (sinä). 'Vasemmalle' is the allative case (-lle) of 'vasen', indicating direction toward. Formal: 'Kääntykää vasemmalle.'",
+      "words": ["kääntyä", "vasen"]
+    },
+    {
+      "id": "directions-004",
+      "finnish": "Käänny oikealle.",
+      "english": "Turn right.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "Turn right-onto.",
+      "notes": "Informal imperative (sinä). 'Oikealle' is the allative case (-lle) of 'oikea', indicating direction toward. Formal: 'Kääntykää oikealle.'",
+      "words": ["kääntyä", "oikea"]
+    },
+    {
+      "id": "directions-005",
+      "finnish": "Mene suoraan eteenpäin.",
+      "english": "Go straight ahead.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "Go straight forward-toward.",
+      "notes": "Informal imperative of 'mennä'. 'Eteenpäin' means 'forward/onward' — 'eteen' (to the front) + '-päin' (toward). 'Suoraan' is the illative of 'suora' (straight), used adverbially.",
+      "words": ["mennä", "suoraan", "eteen"]
+    },
+    {
+      "id": "directions-006",
+      "finnish": "Se on lähellä.",
+      "english": "It's nearby.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "It is near-at.",
+      "notes": "'Lähellä' is the adessive case (-llä) of 'lähi' (near), functioning as a postposition meaning 'near/nearby'. Finnish uses locative cases where English uses prepositions.",
+      "words": ["se", "olla", "lähellä"]
+    },
+    {
+      "id": "directions-007",
+      "finnish": "Se on kaukana.",
+      "english": "It's far away.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "It is far-at.",
+      "notes": "'Kaukana' is an essive-like adverb from 'kauka-' (far). It indicates static location far away. For movement away: 'kauas' (to far); from far: 'kaukaa'.",
+      "words": ["se", "olla", "kaukana"]
+    },
+    {
+      "id": "directions-008",
+      "finnish": "Se on vasemmalla puolella.",
+      "english": "It's on the left side.",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "It is left-on side-on.",
+      "notes": "'Vasemmalla' is the adessive (-lla) of 'vasen' (left), meaning 'on the left'. 'Puolella' is the adessive of 'puoli' (side), meaning 'on the side of'. Both use the adessive case for location on a surface.",
+      "words": ["se", "olla", "vasen", "puoli"]
+    },
+    {
+      "id": "directions-009",
+      "finnish": "Se on oikealla puolella.",
+      "english": "It's on the right side.",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "It is right-on side-on.",
+      "notes": "'Oikealla' is the adessive (-lla) of 'oikea' (right), meaning 'on the right'. 'Puolella' is the adessive of 'puoli' (side). The adessive case indicates being on/at a location.",
+      "words": ["se", "olla", "oikea", "puoli"]
+    },
+    {
+      "id": "directions-010",
+      "finnish": "Onko se kävelymatkan päässä?",
+      "english": "Is it within walking distance?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "Is-question it walking-distance-of at-end?",
+      "notes": "'Kävelymatkan' is the genitive of 'kävelymatka' (walking distance). 'Päässä' is the inessive of 'pää' (end/head), used as a postposition meaning 'at a distance of'. The '-ko' suffix on 'on' makes it a yes/no question.",
+      "words": ["olla", "se", "kävelymatka", "pää"]
+    },
+    {
+      "id": "directions-011",
+      "finnish": "Kuinka kaukana se on?",
+      "english": "How far is it?",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "How far-at it is?",
+      "notes": "'Kuinka' means 'how' (for degree/amount). 'Kaukana' (far away) is a locative adverb. Finnish word order is flexible — the question word comes first.",
+      "words": ["kuinka", "kaukana", "se", "olla"]
+    },
+    {
+      "id": "directions-012",
+      "finnish": "Missä on lähin bussipysäkki?",
+      "english": "Where is the nearest bus stop?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "Where-in is nearest bus-stop?",
+      "notes": "'Lähin' is the superlative of 'lähellä' (near), meaning 'nearest'. 'Bussipysäkki' is a compound word: 'bussi' (bus) + 'pysäkki' (stop). Finnish forms compounds by joining words directly.",
+      "words": ["missä", "olla", "lähi", "bussi", "pysäkki"]
+    },
+    {
+      "id": "directions-013",
+      "finnish": "Missä on rautatieasema?",
+      "english": "Where is the train station?",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "Where-in is railroad-station?",
+      "notes": "'Rautatieasema' is a compound: 'rautatie' (railroad, literally 'iron-road') + 'asema' (station). Finnish loves compound nouns. 'Missä' (inessive of 'mikä') asks about location.",
+      "words": ["missä", "olla", "rautatie", "asema"]
+    },
+    {
+      "id": "directions-014",
+      "finnish": "Mene tätä katua pitkin.",
+      "english": "Go along this street.",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "Go this-partitive street-partitive along.",
+      "notes": "'Tätä' is the partitive of 'tämä' (this). 'Katua' is the partitive of 'katu' (street). 'Pitkin' is a postposition meaning 'along' that governs the partitive case. Finnish postpositions follow their noun.",
+      "words": ["mennä", "tämä", "katu", "pitkin"]
+    },
+    {
+      "id": "directions-015",
+      "finnish": "Käänny seuraavasta risteyksestä.",
+      "english": "Turn at the next intersection.",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "Turn next-from intersection-from.",
+      "notes": "'Seuraavasta' is the elative (-sta) of 'seuraava' (next). 'Risteyksestä' is the elative of 'risteys' (intersection). The elative case here indicates the point where the turning action occurs — 'from/at the intersection'.",
+      "words": ["kääntyä", "seuraava", "risteys"]
+    },
+    {
+      "id": "directions-016",
+      "finnish": "Se on kadun toisella puolella.",
+      "english": "It's on the other side of the street.",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "It is street-of other-on side-on.",
+      "notes": "'Kadun' is the genitive of 'katu' (street). 'Toisella' is the adessive (-lla) of 'toinen' (other/second). 'Puolella' is the adessive of 'puoli' (side). The genitive + adessive postposition pattern is very common for expressing location.",
+      "words": ["se", "olla", "katu", "toinen", "puoli"]
+    },
+    {
+      "id": "directions-017",
+      "finnish": "Näetkö tuon rakennuksen?",
+      "english": "Do you see that building?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "See-you-question that-accusative building-accusative?",
+      "notes": "'Näetkö' is 'nähdä' (to see) conjugated for 'sinä' with the question suffix -kö. 'Tuon' is the genitive/accusative of 'tuo' (that). 'Rakennuksen' is the genitive/accusative of 'rakennus' (building). The object takes accusative/genitive case with a positive verb.",
+      "words": ["nähdä", "tuo", "rakennus"]
+    },
+    {
+      "id": "directions-018",
+      "finnish": "Se on aivan tuossa.",
+      "english": "It's right there.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "It is quite that-in.",
+      "notes": "'Aivan' means 'quite/exactly/right'. 'Tuossa' is the inessive (-ssa) of 'tuo' (that), meaning 'in/at that (place)'. Finnish demonstrative pronouns inflect for locative cases to express location.",
+      "words": ["se", "olla", "aivan", "tuo"]
+    },
+    {
+      "id": "directions-019",
+      "finnish": "Mene sillan yli.",
+      "english": "Go over the bridge.",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "Go bridge-of over.",
+      "notes": "'Sillan' is the genitive of 'silta' (bridge). 'Yli' is a postposition meaning 'over/across' that governs the genitive case. Note the consonant gradation: 'silta' → 'sillan' (t → nothing in the stem).",
+      "words": ["mennä", "silta", "yli"]
+    },
+    {
+      "id": "directions-020",
+      "finnish": "Voitko näyttää kartalla?",
+      "english": "Can you show on the map?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "Can-you-question show map-on?",
+      "notes": "'Voitko' is 'voida' (can) with sinä conjugation + question suffix -ko. 'Näyttää' means 'to show'. 'Kartalla' is the adessive (-lla) of 'kartta' (map), meaning 'on the map'. The adessive indicates location on a surface.",
+      "words": ["voida", "näyttää", "kartta"]
+    },
+    {
+      "id": "directions-021",
+      "finnish": "Miten pääsen takaisin hotellille?",
+      "english": "How do I get back to the hotel?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "How I-get back to-hotel?",
+      "notes": "'Päästä' means 'to get to / to reach'. 'Takaisin' = back. 'Hotellille' is allative case of 'hotelli' (to/onto the hotel).",
+      "words": ["päästä", "hotelli"]
+    },
+    {
+      "id": "directions-022",
+      "finnish": "Missä me olemme?",
+      "english": "Where are we?",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "Where-in we are?",
+      "notes": "'Missä' (inessive of 'mikä') asks about location. 'Me' is 'we'. 'Olemme' is the first person plural of 'olla' (to be). The pronoun 'me' is often included in speech for clarity, though technically optional.",
+      "words": ["missä", "me", "olla"]
+    },
+    {
+      "id": "directions-023",
+      "finnish": "Onko täällä lähellä pankkia?",
+      "english": "Is there a bank nearby?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "Is-question here-at near-at bank-partitive?",
+      "notes": "'Onko' is 'olla' + question suffix -ko. 'Täällä' means 'here' (adessive). 'Lähellä' means 'nearby' (adessive). 'Pankkia' is the partitive of 'pankki' (bank) — partitive is used in existential sentences to express 'some/a bank'.",
+      "words": ["olla", "täällä", "lähellä", "pankki"]
+    },
+    {
+      "id": "directions-024",
+      "finnish": "Miten pääsen lentokentälle?",
+      "english": "How do I get to the airport?",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "How get-I airport-onto?",
+      "notes": "'Lentokentälle' is the allative (-lle) of 'lentokenttä' (airport, literally 'flying-field'), meaning 'to/onto the airport'. The allative indicates movement toward. Compare with illative 'keskustaan' (item 2) — Finnish has two 'to' cases depending on the noun.",
+      "words": ["miten", "päästä", "lentokenttä"]
+    },
+    {
+      "id": "directions-025",
+      "finnish": "Ensimmäinen katu oikealla.",
+      "english": "First street on the right.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "First street right-on.",
+      "notes": "'Ensimmäinen' means 'first' (ordinal). 'Katu' is 'street' in nominative. 'Oikealla' is the adessive (-lla) of 'oikea' (right), meaning 'on the right'. This is a short directive phrase — no verb needed.",
+      "words": ["ensimmäinen", "katu", "oikea"]
+    },
+    {
+      "id": "directions-026",
+      "finnish": "Toinen katu vasemmalla.",
+      "english": "Second street on the left.",
+      "category": "directions",
+      "difficulty": 1,
+      "literalTranslation": "Second street left-on.",
+      "notes": "'Toinen' means 'second' (also 'other/another'). 'Vasemmalla' is the adessive (-lla) of 'vasen' (left), meaning 'on the left'. Same verbless directive pattern as item 25.",
+      "words": ["toinen", "katu", "vasen"]
+    },
+    {
+      "id": "directions-027",
+      "finnish": "Se on noin viisi minuuttia kävellen.",
+      "english": "It's about five minutes on foot.",
+      "category": "directions",
+      "difficulty": 2,
+      "literalTranslation": "It is about five minute-partitive walking.",
+      "notes": "'Noin' means 'about/approximately'. 'Minuuttia' is the partitive of 'minuutti' (minute) — partitive is required after numerals greater than 1. 'Kävellen' is the instructive form of 'kävellä' (to walk), meaning 'by walking/on foot'.",
+      "words": ["se", "olla", "noin", "viisi", "minuutti", "kävellä"]
+    }
+  ]
+}
