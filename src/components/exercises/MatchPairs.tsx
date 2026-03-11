@@ -43,6 +43,7 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
   const [selectedLeft, setSelectedLeft] = useState<number | null>(null);
   const [matched, setMatched] = useState<Set<number>>(new Set());
   const [pairStatus, setPairStatus] = useState<Map<number, PairStatus>>(new Map());
+  const [wrongRight, setWrongRight] = useState<number | null>(null);
   const [wrongAttempts, setWrongAttempts] = useState(0);
   const [completed, setCompleted] = useState(false);
   const wrongTimerRef = useRef<ReturnType<typeof setTimeout>>(undefined);
@@ -52,6 +53,7 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
     setSelectedLeft(null); // eslint-disable-line react-hooks/set-state-in-effect -- reset on prop change
     setMatched(new Set());
     setPairStatus(new Map());
+    setWrongRight(null);
     setWrongAttempts(0);
     setCompleted(false);
   }, [item.id]);
@@ -101,9 +103,14 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
           });
         }
       } else {
-        // Wrong match — just deselect, no item highlighting
+        // Wrong match — flash only the tapped right-side item red
         setWrongAttempts((prev) => prev + 1);
+        setWrongRight(pairIndex);
         setSelectedLeft(null);
+        if (wrongTimerRef.current) clearTimeout(wrongTimerRef.current);
+        wrongTimerRef.current = setTimeout(() => {
+          setWrongRight(null);
+        }, 600);
       }
     },
     [disabled, completed, matched, selectedLeft, pairs.length, pairStatus, wrongAttempts, questionStartTime, item.id, onAnswer],
@@ -138,7 +145,6 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
 
             let classes = 'border-frost bg-surface-raised hover:border-primary-light';
             if (isSelected) classes = 'border-primary bg-selected';
-            if (status === 'wrong') classes = 'border-error bg-error-light answer-wrong';
 
             return (
               <button
@@ -171,8 +177,9 @@ export function MatchPairs({ exercise, pool, questionStartTime, onAnswer, disabl
               );
             }
 
+            const isWrong = wrongRight === pairIdx;
             let classes = 'border-frost bg-surface-raised hover:border-primary-light';
-            if (status === 'wrong') classes = 'border-error bg-error-light answer-wrong';
+            if (isWrong) classes = 'border-error bg-error-light answer-wrong';
 
             return (
               <button
