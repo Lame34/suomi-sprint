@@ -1,0 +1,259 @@
+{
+  "category": "professions",
+  "categoryLabel": "Professions",
+  "icon": "briefcase",
+  "description": "Jobs, occupations, and professions",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "professions-001",
+      "finnish": "opettaja",
+      "english": "teacher",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'O-pet-TA-ja'. Derived from 'opettaa' (to teach). The -ja suffix indicates a person who does the action. Partitive: opettajaa.",
+      "examples": ["Opettaja opettaa matematiikkaa. — The teacher teaches mathematics.", "Hän on hyvä opettaja. — He/she is a good teacher."]
+    },
+    {
+      "id": "professions-002",
+      "finnish": "lääkäri",
+      "english": "doctor",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LÄÄ-kä-ri'. Related to 'lääke' (medicine). Partitive: lääkäriä. One of the most essential profession words.",
+      "examples": ["Lääkäri tutkii potilaan. — The doctor examines the patient.", "Haluan olla lääkäri. — I want to be a doctor."]
+    },
+    {
+      "id": "professions-003",
+      "finnish": "insinööri",
+      "english": "engineer",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'IN-si-NÖÖ-ri'. Loanword from French/Swedish. Note the double ö. Finland has a strong engineering tradition.",
+      "examples": ["Hän on insinööri. — He/she is an engineer.", "Insinööri suunnittelee sillan. — The engineer designs the bridge."]
+    },
+    {
+      "id": "professions-004",
+      "finnish": "poliisi",
+      "english": "police / police officer",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PO-lii-si'. Loanword. Refers to both the institution and an individual officer. Partitive: poliisia.",
+      "examples": ["Soita poliisille. — Call the police.", "Poliisi auttoi meitä. — The police officer helped us."]
+    },
+    {
+      "id": "professions-005",
+      "finnish": "palomies",
+      "english": "firefighter",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PA-lo-MIES'. Compound: palo (fire) + mies (man). Gender-neutral alternative 'pelastaja' (rescuer) is also used.",
+      "examples": ["Palomies sammutti tulipalon. — The firefighter extinguished the fire.", "Palomiehet tulivat nopeasti. — The firefighters came quickly."]
+    },
+    {
+      "id": "professions-006",
+      "finnish": "sairaanhoitaja",
+      "english": "nurse",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SAI-raan-HOI-ta-ja'. Compound: sairaan (sick person's) + hoitaja (carer). A long but common word.",
+      "examples": ["Sairaanhoitaja antoi lääkkeen. — The nurse gave the medicine.", "Hän opiskelee sairaanhoitajaksi. — He/she is studying to be a nurse."]
+    },
+    {
+      "id": "professions-007",
+      "finnish": "kokki",
+      "english": "cook / chef",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KOK-ki'. Double 'k'. Short and common. Partitive: kokkia. Plural: kokit.",
+      "examples": ["Kokki valmistaa ruokaa. — The cook prepares food.", "Hän on ammattilainen kokki. — He/she is a professional chef."]
+    },
+    {
+      "id": "professions-008",
+      "finnish": "myyjä",
+      "english": "seller / salesperson",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'MYY-jä'. Derived from 'myydä' (to sell). The -jä suffix indicates the doer. Partitive: myyjää.",
+      "examples": ["Myyjä auttoi minua kaupassa. — The salesperson helped me in the store.", "Hän on hyvä myyjä. — He/she is a good salesperson."]
+    },
+    {
+      "id": "professions-009",
+      "finnish": "kirjailija",
+      "english": "writer / author",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KIR-jai-LI-ja'. Derived from 'kirja' (book). Partitive: kirjailijaa. Finland has many famous writers.",
+      "examples": ["Kirjailija kirjoitti uuden romaanin. — The writer wrote a new novel.", "Hän on tunnettu kirjailija. — He/she is a well-known author."]
+    },
+    {
+      "id": "professions-010",
+      "finnish": "taiteilija",
+      "english": "artist",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TAI-tei-LI-ja'. Derived from 'taide' (art). Partitive: taiteilijaa. Covers visual artists broadly.",
+      "examples": ["Taiteilija maalaa taulun. — The artist paints a picture.", "Hän on lahjakas taiteilija. — He/she is a talented artist."]
+    },
+    {
+      "id": "professions-011",
+      "finnish": "muusikko",
+      "english": "musician",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'MUU-sik-ko'. Loanword. Double 'k'. Partitive: muusikkoa. Plural: muusikot.",
+      "examples": ["Muusikko soittaa pianoa. — The musician plays the piano.", "Hän on ammattimmuusikko. — He/she is a professional musician."]
+    },
+    {
+      "id": "professions-012",
+      "finnish": "lakimies",
+      "english": "lawyer",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LA-ki-MIES'. Compound: laki (law) + mies (man). Gender-neutral alternative: 'juristi' or 'asianajaja'.",
+      "examples": ["Lakimies auttoi oikeudenkäynnissä. — The lawyer helped in the trial.", "Tarvitsen lakimiehen neuvon. — I need a lawyer's advice."]
+    },
+    {
+      "id": "professions-013",
+      "finnish": "toimittaja",
+      "english": "journalist / reporter",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TOI-mit-TA-ja'. Derived from 'toimittaa' (to edit/deliver). Also means 'editor'. Partitive: toimittajaa.",
+      "examples": ["Toimittaja kirjoitti artikkelin. — The journalist wrote an article.", "Toimittaja haastatteli presidentin. — The reporter interviewed the president."]
+    },
+    {
+      "id": "professions-014",
+      "finnish": "arkkitehti",
+      "english": "architect",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'ARK-ki-TEH-ti'. Loanword from Greek. Finland is famous for architects like Alvar Aalto. Partitive: arkkitehtia.",
+      "examples": ["Arkkitehti suunnitteli talon. — The architect designed the house.", "Alvar Aalto oli kuuluisa arkkitehti. — Alvar Aalto was a famous architect."]
+    },
+    {
+      "id": "professions-015",
+      "finnish": "ohjelmoija",
+      "english": "programmer",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'OH-jel-MOI-ja'. Derived from 'ohjelmoida' (to program). Partitive: ohjelmoijaa. Very common in Finnish tech industry.",
+      "examples": ["Ohjelmoija kirjoittaa koodia. — The programmer writes code.", "Hän on kokenut ohjelmoija. — He/she is an experienced programmer."]
+    },
+    {
+      "id": "professions-016",
+      "finnish": "siivooja",
+      "english": "cleaner",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SII-voo-ja'. Derived from 'siivota' (to clean). Partitive: siivoojaa. Plural: siivoojat.",
+      "examples": ["Siivooja siivosi toimiston. — The cleaner cleaned the office.", "Siivooja tulee maanantaisin. — The cleaner comes on Mondays."]
+    },
+    {
+      "id": "professions-017",
+      "finnish": "kuljettaja",
+      "english": "driver",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KUL-jet-TA-ja'. Derived from 'kuljettaa' (to drive/transport). Partitive: kuljettajaa. 'Bussi kuljettaja' = bus driver.",
+      "examples": ["Kuljettaja ajaa bussia. — The driver drives the bus.", "Taksinkuljettaja tunsi kaupungin hyvin. — The taxi driver knew the city well."]
+    },
+    {
+      "id": "professions-018",
+      "finnish": "maanviljelijä",
+      "english": "farmer",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'MAAN-vil-JE-li-jä'. Compound: maan (land's) + viljelijä (cultivator). A long but logical compound word.",
+      "examples": ["Maanviljelijä kasvattaa viljaa. — The farmer grows grain.", "Suomessa on paljon maanviljelijöitä. — In Finland there are many farmers."]
+    },
+    {
+      "id": "professions-019",
+      "finnish": "tutkija",
+      "english": "researcher",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TUT-ki-ja'. Derived from 'tutkia' (to research). Partitive: tutkijaa. Also means 'investigator'.",
+      "examples": ["Tutkija tekee kokeita laboratoriossa. — The researcher does experiments in the lab.", "Hän on yliopiston tutkija. — He/she is a university researcher."]
+    },
+    {
+      "id": "professions-020",
+      "finnish": "psykologi",
+      "english": "psychologist",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PSY-ko-LO-gi'. Loanword from Greek. Note: Finnish pronounces the 'ps' at the start. Partitive: psykologia.",
+      "examples": ["Psykologi auttaa ihmisiä. — The psychologist helps people.", "Käyn psykologilla kerran viikossa. — I visit the psychologist once a week."]
+    },
+    {
+      "id": "professions-021",
+      "finnish": "kampaaja",
+      "english": "hairdresser",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KAM-paa-ja'. Derived from 'kampaus' (hairstyle). Partitive: kampaajaa. Also 'parturi' for barber.",
+      "examples": ["Kampaaja leikkasi hiukseni. — The hairdresser cut my hair.", "Varasin ajan kampaajalle. — I booked an appointment at the hairdresser."]
+    },
+    {
+      "id": "professions-022",
+      "finnish": "putkimies",
+      "english": "plumber",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PUT-ki-MIES'. Compound: putki (pipe) + mies (man). Partitive: putkimiestä. Plural: putkimiehet.",
+      "examples": ["Putkimies korjasi vesivuodon. — The plumber fixed the water leak.", "Soita putkimiehelle. — Call the plumber."]
+    },
+    {
+      "id": "professions-023",
+      "finnish": "sähköasentaja",
+      "english": "electrician",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SÄH-kö-A-sen-TA-ja'. Compound: sähkö (electricity) + asentaja (installer). A typical Finnish compound word.",
+      "examples": ["Sähköasentaja asensi uuden pistorasian. — The electrician installed a new socket.", "Tarvitsemme sähköasentajan. — We need an electrician."]
+    },
+    {
+      "id": "professions-024",
+      "finnish": "eläinlääkäri",
+      "english": "vet / veterinarian",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'E-läin-LÄÄ-kä-ri'. Compound: eläin (animal) + lääkäri (doctor). Literally 'animal doctor'.",
+      "examples": ["Vein kissan eläinlääkäriin. — I took the cat to the vet.", "Eläinlääkäri tarkisti koiran. — The vet checked the dog."]
+    },
+    {
+      "id": "professions-025",
+      "finnish": "yrittäjä",
+      "english": "entrepreneur",
+      "category": "professions",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'Y-rit-TÄ-jä'. Derived from 'yrittää' (to try/attempt). Partitive: yrittäjää. Finland has a strong startup culture.",
+      "examples": ["Hän on menestynyt yrittäjä. — He/she is a successful entrepreneur.", "Yrittäjä perusti uuden yrityksen. — The entrepreneur founded a new company."]
+    }
+  ]
+}

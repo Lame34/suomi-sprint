@@ -1,0 +1,258 @@
+{
+  "category": "shopping-phrases",
+  "categoryLabel": "Shopping",
+  "icon": "shopping-bag",
+  "description": "Essential phrases for shopping in Finnish stores and markets",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "shopping-phrases-001",
+      "finnish": "Paljonko tämä maksaa?",
+      "english": "How much does this cost?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "How-much this costs?",
+      "notes": "'Paljonko' means 'how much'. 'Maksaa' is the verb 'to cost/to pay'. This is the most essential shopping phrase in Finnish.",
+      "words": ["paljonko", "tämä", "maksaa"]
+    },
+    {
+      "id": "shopping-phrases-002",
+      "finnish": "Haluaisin ostaa...",
+      "english": "I would like to buy...",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Would-like-I buy...",
+      "notes": "'Haluaisin' is the conditional form of 'haluta' (to want), making the request polite. 'Ostaa' means 'to buy'. Follow with the item in partitive case for uncountable items or accusative for specific items.",
+      "words": ["haluta", "ostaa"]
+    },
+    {
+      "id": "shopping-phrases-003",
+      "finnish": "Onko teillä...?",
+      "english": "Do you have...?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Is you-on(adessive)...?",
+      "notes": "'Teillä' is the formal/plural 'you' in the adessive case. Finnish expresses 'having' with the structure 'onko X:lla/llä' (is there on X). Use 'teillä' when addressing shop staff politely.",
+      "words": ["olla", "te"]
+    },
+    {
+      "id": "shopping-phrases-004",
+      "finnish": "Voinko kokeilla tätä?",
+      "english": "Can I try this on?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Can-I try this(partitive)?",
+      "notes": "'Voinko' is 'can I' from 'voida'. 'Kokeilla' means 'to try/try on'. 'Tätä' is the partitive form of 'tämä' (this). Used when trying on clothes.",
+      "words": ["voida", "kokeilla", "tämä"]
+    },
+    {
+      "id": "shopping-phrases-005",
+      "finnish": "Missä on sovituskoppi?",
+      "english": "Where is the fitting room?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Where is fitting-booth?",
+      "notes": "'Sovituskoppi' is a compound word from 'sovitus' (fitting) + 'koppi' (booth). Finnish clothing stores always have fitting rooms available.",
+      "words": ["missä", "olla", "sovituskoppi"]
+    },
+    {
+      "id": "shopping-phrases-006",
+      "finnish": "Onko tämä alennuksessa?",
+      "english": "Is this on sale?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Is this discount-in(inessive)?",
+      "notes": "'Alennuksessa' is the inessive case of 'alennus' (discount/sale). Finnish stores have major sales ('ale') especially in January and July. Look for 'ALE' signs in shop windows.",
+      "words": ["olla", "tämä", "alennus"]
+    },
+    {
+      "id": "shopping-phrases-007",
+      "finnish": "Tämä on liian kallis.",
+      "english": "This is too expensive.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "notes": "'Liian' means 'too (much)'. 'Kallis' means 'expensive'. Note that bargaining is not common in Finnish stores, but this phrase is useful for expressing your budget.",
+      "words": ["tämä", "olla", "liian", "kallis"]
+    },
+    {
+      "id": "shopping-phrases-008",
+      "finnish": "Otan tämän.",
+      "english": "I'll take this.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Take-I this(genitive/accusative).",
+      "notes": "'Otan' is the first person of 'ottaa' (to take). 'Tämän' is the genitive/accusative form of 'tämä'. Use this when you've decided to purchase something.",
+      "words": ["ottaa", "tämä"]
+    },
+    {
+      "id": "shopping-phrases-009",
+      "finnish": "Voitteko auttaa minua?",
+      "english": "Can you help me?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Can-you(formal) help me(partitive)?",
+      "notes": "'Voitteko' is the formal/plural 'can you' from 'voida'. 'Auttaa' means 'to help'. 'Minua' is the partitive of 'minä'. Use this polite form when addressing shop staff.",
+      "words": ["voida", "auttaa", "minä"]
+    },
+    {
+      "id": "shopping-phrases-010",
+      "finnish": "Missä on kassa?",
+      "english": "Where is the cash register?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Where is cash-register?",
+      "notes": "'Kassa' means both 'cash register' and 'checkout'. In Finnish supermarkets, self-checkout ('itsepalvelukassa') is increasingly common.",
+      "words": ["missä", "olla", "kassa"]
+    },
+    {
+      "id": "shopping-phrases-011",
+      "finnish": "Maksan kortilla.",
+      "english": "I'll pay by card.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Pay-I card-with(adessive).",
+      "notes": "'Maksan' is the first person of 'maksaa' (to pay). 'Kortilla' is the adessive case of 'kortti' (card), expressing the instrument of payment. Finland is largely cashless; card payment is accepted almost everywhere.",
+      "words": ["maksaa", "kortti"]
+    },
+    {
+      "id": "shopping-phrases-012",
+      "finnish": "Maksan käteisellä.",
+      "english": "I'll pay in cash.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Pay-I cash-with(adessive).",
+      "notes": "'Käteisellä' is the adessive case of 'käteinen' (cash). While Finland is very card-oriented, cash is still accepted in most places. Some small shops may only accept cards.",
+      "words": ["maksaa", "käteinen"]
+    },
+    {
+      "id": "shopping-phrases-013",
+      "finnish": "Tarvitsen kuittia.",
+      "english": "I need a receipt.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Need-I receipt(partitive).",
+      "notes": "'Kuittia' is the partitive of 'kuitti' (receipt). 'Tarvita' takes the partitive case. Receipts are important for returns and warranty claims in Finland.",
+      "words": ["tarvita", "kuitti"]
+    },
+    {
+      "id": "shopping-phrases-014",
+      "finnish": "Haluaisin palauttaa tämän.",
+      "english": "I would like to return this.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Would-like-I return this(genitive/accusative).",
+      "notes": "'Palauttaa' means 'to return (an item)'. Most Finnish stores have a 14-day return policy. Keep your receipt ('kuitti') for returns.",
+      "words": ["haluta", "palauttaa", "tämä"]
+    },
+    {
+      "id": "shopping-phrases-015",
+      "finnish": "Mikä koko tämä on?",
+      "english": "What size is this?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "What size this is?",
+      "notes": "'Mikä' means 'what/which'. 'Koko' means 'size'. Finland uses European clothing sizes. Shoe sizes follow the EU system (e.g., 38, 42).",
+      "words": ["mikä", "koko", "tämä", "olla"]
+    },
+    {
+      "id": "shopping-phrases-016",
+      "finnish": "Onko isompaa kokoa?",
+      "english": "Do you have a bigger size?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Is bigger(partitive) size(partitive)?",
+      "notes": "'Isompaa' is the partitive of the comparative 'isompi' (bigger, from 'iso'). 'Kokoa' is the partitive of 'koko' (size). The partitive is used because we're asking about an unspecified larger size.",
+      "words": ["olla", "iso", "koko"]
+    },
+    {
+      "id": "shopping-phrases-017",
+      "finnish": "Onko pienempää kokoa?",
+      "english": "Do you have a smaller size?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Is smaller(partitive) size(partitive)?",
+      "notes": "'Pienempää' is the partitive of the comparative 'pienempi' (smaller, from 'pieni'). Same grammatical structure as asking for a bigger size.",
+      "words": ["olla", "pieni", "koko"]
+    },
+    {
+      "id": "shopping-phrases-018",
+      "finnish": "Milloin kauppa sulkeutuu?",
+      "english": "When does the store close?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "When store closes(reflexive)?",
+      "notes": "'Milloin' means 'when'. 'Kauppa' means 'store/shop'. 'Sulkeutuu' is the reflexive form of 'sulkea' (to close). Most Finnish stores close between 18:00-21:00 on weekdays, shorter hours on weekends.",
+      "words": ["milloin", "kauppa", "sulkeutua"]
+    },
+    {
+      "id": "shopping-phrases-019",
+      "finnish": "Missä on ruokaosasto?",
+      "english": "Where is the food section?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Where is food-section?",
+      "notes": "'Ruokaosasto' is a compound word from 'ruoka' (food) + 'osasto' (section/department). Used in large department stores or hypermarkets like Prisma and K-Citymarket.",
+      "words": ["missä", "olla", "ruoka", "osasto"]
+    },
+    {
+      "id": "shopping-phrases-020",
+      "finnish": "Kuinka paljon tämä painaa?",
+      "english": "How much does this weigh?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "How much this weighs?",
+      "notes": "'Kuinka paljon' means 'how much'. 'Painaa' means 'to weigh'. Useful at market stalls and delis where items are sold by weight. Finland uses the metric system (kilograms and grams).",
+      "words": ["kuinka", "paljon", "tämä", "painaa"]
+    },
+    {
+      "id": "shopping-phrases-021",
+      "finnish": "Saanko maistaa?",
+      "english": "Can I taste?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "May-I taste?",
+      "notes": "'Saanko' means 'may I/can I' from 'saada' (to get/may). 'Maistaa' means 'to taste'. Polite way to ask for a sample at a market or food counter.",
+      "words": ["saada", "maistaa"]
+    },
+    {
+      "id": "shopping-phrases-022",
+      "finnish": "Tarvitsen muovipussia.",
+      "english": "I need a plastic bag.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Need-I plastic-bag(partitive).",
+      "notes": "'Muovipussia' is the partitive of 'muovipussi' (plastic bag). In Finland, plastic bags cost extra (usually 0.10-0.30 euros). Many Finns bring their own reusable bags ('kangaskassi').",
+      "words": ["tarvita", "muovipussi"]
+    },
+    {
+      "id": "shopping-phrases-023",
+      "finnish": "Onko teillä tarjouksia?",
+      "english": "Do you have offers?",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Is you-on(adessive) offers(partitive)?",
+      "notes": "'Tarjouksia' is the partitive plural of 'tarjous' (offer/deal). Finnish supermarkets regularly have weekly offers advertised in flyers and at store entrances.",
+      "words": ["olla", "te", "tarjous"]
+    },
+    {
+      "id": "shopping-phrases-024",
+      "finnish": "Haluaisin lahjan tähän.",
+      "english": "I would like gift wrapping.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Would-like-I gift this-into(illative).",
+      "notes": "A shortened way of asking for gift wrapping. More explicitly: 'Haluaisin lahjapaketoinnin' (I'd like gift wrapping). 'Lahja' means 'gift'. Gift wrapping services are available in many Finnish stores, especially before Christmas.",
+      "words": ["haluta", "lahja", "tämä"]
+    },
+    {
+      "id": "shopping-phrases-025",
+      "finnish": "Kiitos, tämä riittää.",
+      "english": "Thanks, this is enough.",
+      "category": "shopping-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Thanks, this suffices.",
+      "notes": "'Riittää' means 'is enough/suffices' from 'riittää' (to suffice). Useful at delis, market stalls, or when a salesperson is adding items. A polite way to indicate you have enough.",
+      "words": ["kiitos", "tämä", "riittää"]
+    }
+  ]
+}

@@ -1,6 +1,5 @@
 import { useState } from 'react';
-import { ChevronDown, Play } from 'lucide-react';
-import { useNavigate } from 'react-router-dom';
+import { ChevronDown } from 'lucide-react';
 import type { VocabEntry } from '../../types';
 
 interface Props {
@@ -34,7 +33,6 @@ const statusDot: Record<string, string> = {
  */
 export function WordCard({ item, status }: Props) {
   const [expanded, setExpanded] = useState(false);
-  const navigate = useNavigate();
 
   return (
     <div className="card transition-all duration-200">
@@ -97,17 +95,6 @@ export function WordCard({ item, status }: Props) {
             </div>
           )}
 
-          {/* Practice button */}
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              navigate(`/practice?category=${item.category}&type=vocab`);
-            }}
-            className="btn-secondary flex items-center justify-center gap-2 !w-auto !min-h-[40px] !px-4 !py-2 text-sm"
-          >
-            <Play className="w-4 h-4" />
-            Practice this category
-          </button>
         </div>
       )}
     </div>

@@ -1,0 +1,208 @@
+{
+  "category": "transport-phrases",
+  "categoryLabel": "Public Transport",
+  "icon": "train-front",
+  "description": "Essential phrases for buses, trains, trams, and taxis in Finland",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "transport-phrases-001",
+      "finnish": "Missä on linja-autoasema?",
+      "english": "Where is the bus station?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Where is line-car-station?",
+      "notes": "'Linja-autoasema' is a compound from 'linja-auto' (bus, literally 'line car') + 'asema' (station). Major cities have central bus stations ('linja-autoasema'). In Helsinki, the main bus station is at Kamppi.",
+      "words": ["missä", "olla", "linja-auto", "asema"]
+    },
+    {
+      "id": "transport-phrases-002",
+      "finnish": "Mihin aikaan bussi lähtee?",
+      "english": "What time does the bus leave?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "What time-to(illative) bus leaves?",
+      "notes": "'Mihin aikaan' means 'at what time'. 'Bussi' is the informal word for 'linja-auto' (bus). 'Lähtee' is from 'lähteä' (to leave/depart). Finnish public transport is known for punctuality.",
+      "words": ["mikä", "aika", "bussi", "lähteä"]
+    },
+    {
+      "id": "transport-phrases-003",
+      "finnish": "Paljonko lippu maksaa?",
+      "english": "How much is the ticket?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "How-much ticket costs?",
+      "notes": "'Lippu' means 'ticket'. 'Maksaa' means 'to cost'. Ticket prices in Finland vary by zone and operator. In Helsinki, the HSL travel card ('matkakortti') offers discounted fares.",
+      "words": ["paljonko", "lippu", "maksaa"]
+    },
+    {
+      "id": "transport-phrases-004",
+      "finnish": "Haluaisin menolipun.",
+      "english": "I'd like a one-way ticket.",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Would-like-I go-ticket(genitive/accusative).",
+      "notes": "'Menolipun' is the genitive/accusative of 'menolippu' (one-way ticket), a compound from 'meno' (going) + 'lippu' (ticket). One-way tickets are standard for city transport.",
+      "words": ["haluta", "menolippu"]
+    },
+    {
+      "id": "transport-phrases-005",
+      "finnish": "Haluaisin menopaluulipun.",
+      "english": "I'd like a return ticket.",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Would-like-I go-return-ticket(genitive/accusative).",
+      "notes": "'Menopaluulipun' is the genitive/accusative of 'menopaluulippu' (return ticket), a compound from 'meno' (going) + 'paluu' (return) + 'lippu' (ticket). Often cheaper than two single tickets for long-distance travel.",
+      "words": ["haluta", "menopaluulippu"]
+    },
+    {
+      "id": "transport-phrases-006",
+      "finnish": "Onko tämä paikka vapaa?",
+      "english": "Is this seat free?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Is this seat free?",
+      "notes": "'Paikka' means 'seat/place'. 'Vapaa' means 'free/available'. Finns generally respect personal space on public transport. It's polite to ask before sitting next to someone on a less crowded bus or train.",
+      "words": ["olla", "tämä", "paikka", "vapaa"]
+    },
+    {
+      "id": "transport-phrases-007",
+      "finnish": "Mikä on seuraava pysäkki?",
+      "english": "What is the next stop?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "What is next stop?",
+      "notes": "'Seuraava' means 'next'. 'Pysäkki' means 'stop' (bus/tram stop). Finnish buses and trams typically announce stops automatically. Press the stop button ('STOP') before your stop.",
+      "words": ["mikä", "olla", "seuraava", "pysäkki"]
+    },
+    {
+      "id": "transport-phrases-008",
+      "finnish": "Missä minun pitää vaihtaa?",
+      "english": "Where do I need to transfer?",
+      "category": "transport-phrases",
+      "difficulty": 2,
+      "literalTranslation": "Where my must change?",
+      "notes": "'Minun pitää' means 'I need to/must'. 'Vaihtaa' means 'to change/transfer'. Transfers between buses, trams, and metro in Helsinki are included in a single ticket within the time limit.",
+      "words": ["missä", "minä", "pitää", "vaihtaa"]
+    },
+    {
+      "id": "transport-phrases-009",
+      "finnish": "Kuinka kauan matka kestää?",
+      "english": "How long does the journey take?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "How long journey lasts?",
+      "notes": "'Kuinka kauan' means 'how long'. 'Matka' means 'journey/trip'. 'Kestää' means 'to last/take time'. Useful for planning travel, especially for longer intercity routes.",
+      "words": ["kuinka", "kauan", "matka", "kestää"]
+    },
+    {
+      "id": "transport-phrases-010",
+      "finnish": "Tämä juna menee Helsinkiin.",
+      "english": "This train goes to Helsinki.",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "This train goes Helsinki-to(illative).",
+      "notes": "'Juna' means 'train'. 'Menee' is from 'mennä' (to go). 'Helsinkiin' is the illative case of 'Helsinki' (to Helsinki). Finnish city names take case endings: Tampereelle, Turkuun, Ouluun.",
+      "words": ["tämä", "juna", "mennä", "Helsinki"]
+    },
+    {
+      "id": "transport-phrases-011",
+      "finnish": "Missä on metroasema?",
+      "english": "Where is the metro station?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Where is metro-station?",
+      "notes": "'Metroasema' is a compound from 'metro' + 'asema' (station). Helsinki is the only Finnish city with a metro system. The metro runs from east Helsinki through the center to Espoo.",
+      "words": ["missä", "olla", "metro", "asema"]
+    },
+    {
+      "id": "transport-phrases-012",
+      "finnish": "Haluaisin raitiovaunulipun.",
+      "english": "I'd like a tram ticket.",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Would-like-I tram-ticket(genitive/accusative).",
+      "notes": "'Raitiovaunulipun' is the genitive/accusative of 'raitiovaunulippu' (tram ticket). 'Raitiovaunu' means 'tram' (literally 'rail wagon'). The colloquial word is 'ratikka'. Helsinki and Tampere have tram networks.",
+      "words": ["haluta", "raitiovaunu", "lippu"]
+    },
+    {
+      "id": "transport-phrases-013",
+      "finnish": "Milloin seuraava juna lähtee?",
+      "english": "When does the next train leave?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "When next train leaves?",
+      "notes": "'Milloin' means 'when'. 'Seuraava' means 'next'. VR (Valtion Rautatiet) operates Finnish train services. Check schedules at vr.fi or the VR app.",
+      "words": ["milloin", "seuraava", "juna", "lähteä"]
+    },
+    {
+      "id": "transport-phrases-014",
+      "finnish": "Onko myöhässä?",
+      "english": "Is it delayed?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Is late-in(inessive)?",
+      "notes": "'Myöhässä' is the inessive case of 'myöhä' (late), meaning 'delayed/running late'. Finnish public transport is generally very punctual, but winter weather can cause delays.",
+      "words": ["olla", "myöhässä"]
+    },
+    {
+      "id": "transport-phrases-015",
+      "finnish": "Voinko ostaa lipun bussista?",
+      "english": "Can I buy a ticket on the bus?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Can-I buy ticket bus-from(elative)?",
+      "notes": "'Bussista' is the elative case of 'bussi' (from the bus). In many Finnish cities, you can pay on the bus with a contactless card, but it's usually more expensive than a pre-purchased ticket or travel card.",
+      "words": ["voida", "ostaa", "lippu", "bussi"]
+    },
+    {
+      "id": "transport-phrases-016",
+      "finnish": "Missä on taksitolppa?",
+      "english": "Where is the taxi stand?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Where is taxi-stand?",
+      "notes": "'Taksitolppa' is a compound from 'taksi' (taxi) + 'tolppa' (post/stand). Taxi stands are marked with a yellow 'TAKSI' sign. Finnish taxis are safe but relatively expensive. The meter starts when you get in.",
+      "words": ["missä", "olla", "taksitolppa"]
+    },
+    {
+      "id": "transport-phrases-017",
+      "finnish": "Kuinka pääsen keskustaan?",
+      "english": "How do I get to the center?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "How get-I center-to(illative)?",
+      "notes": "'Pääsen' is the first person of 'päästä' (to get to/reach). 'Keskustaan' is the illative of 'keskusta' (center). 'Keskusta' refers to the city center/downtown area in Finnish cities.",
+      "words": ["kuinka", "päästä", "keskusta"]
+    },
+    {
+      "id": "transport-phrases-018",
+      "finnish": "Tarvitsen aikataulun.",
+      "english": "I need a timetable.",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Need-I timetable(genitive/accusative).",
+      "notes": "'Aikataulun' is the genitive/accusative of 'aikataulu' (timetable), a compound from 'aika' (time) + 'taulu' (board/table). Digital timetables are available on apps like HSL (Helsinki) and the Matkahuolto app for long-distance buses.",
+      "words": ["tarvita", "aikataulu"]
+    },
+    {
+      "id": "transport-phrases-019",
+      "finnish": "Bussi numero viisi.",
+      "english": "Bus number five.",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "notes": "'Numero' means 'number'. 'Viisi' means 'five'. Replace the number as needed. Finnish bus numbers are displayed on the front and side of the bus. Major routes in cities typically have low numbers.",
+      "words": ["bussi", "numero", "viisi"]
+    },
+    {
+      "id": "transport-phrases-020",
+      "finnish": "Mihin tämä bussi menee?",
+      "english": "Where does this bus go?",
+      "category": "transport-phrases",
+      "difficulty": 1,
+      "literalTranslation": "Where-to(illative) this bus goes?",
+      "notes": "'Mihin' means 'where to' (illative of 'mikä'). 'Menee' is from 'mennä' (to go). Ask the driver or check the destination displayed on the front of the bus.",
+      "words": ["mihin", "tämä", "bussi", "mennä"]
+    }
+  ]
+}

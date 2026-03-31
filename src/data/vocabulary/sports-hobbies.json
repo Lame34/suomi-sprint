@@ -1,0 +1,309 @@
+{
+  "category": "sports-hobbies",
+  "categoryLabel": "Sports & Hobbies",
+  "icon": "trophy",
+  "description": "Sports, games, and leisure activities",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "sports-hobbies-001",
+      "finnish": "jalkapallo",
+      "english": "football / soccer",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'JAL-ka-PAL-lo'. Compound: jalka (foot) + pallo (ball). Partitive: jalkapalloa. Also 'futis' in casual speech.",
+      "examples": ["Pelaamme jalkapalloa puistossa. — We play football in the park.", "Jalkapallo on suosittu laji. — Football is a popular sport."]
+    },
+    {
+      "id": "sports-hobbies-002",
+      "finnish": "jääkiekko",
+      "english": "ice hockey",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'JÄÄ-kiek-ko'. Compound: jää (ice) + kiekko (puck/disc). Finland's most popular sport. Also 'lätkä' in casual speech.",
+      "examples": ["Jääkiekko on Suomen suosituin urheilulaji. — Ice hockey is Finland's most popular sport.", "Katsomme jääkiekkoa televisiosta. — We watch ice hockey on TV."]
+    },
+    {
+      "id": "sports-hobbies-003",
+      "finnish": "juoksu",
+      "english": "running",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'JUOK-su'. Derived from 'juosta' (to run). Partitive: juoksua. 'Juoksija' = runner.",
+      "examples": ["Juoksu on hyvää liikuntaa. — Running is good exercise.", "Käyn juoksulla joka aamu. — I go running every morning."]
+    },
+    {
+      "id": "sports-hobbies-004",
+      "finnish": "uinti",
+      "english": "swimming",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'U-in-ti'. Derived from 'uida' (to swim). Partitive: uintia. Finland has thousands of lakes for swimming.",
+      "examples": ["Uinti on mukavaa kesällä. — Swimming is nice in summer.", "Käyn uinnilla kaksi kertaa viikossa. — I go swimming twice a week."]
+    },
+    {
+      "id": "sports-hobbies-005",
+      "finnish": "hiihto",
+      "english": "skiing",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HIIH-to'. Derived from 'hiihtää' (to ski). Refers to cross-country skiing. 'Laskettelu' = downhill skiing.",
+      "examples": ["Hiihto on suosittu talvilaji Suomessa. — Skiing is a popular winter sport in Finland.", "Käymme hiihtämässä viikonloppuna. — We go skiing on the weekend."]
+    },
+    {
+      "id": "sports-hobbies-006",
+      "finnish": "pyöräily",
+      "english": "cycling",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PYÖ-räi-ly'. Derived from 'pyöräillä' (to cycle), from 'pyörä' (wheel/bicycle). Partitive: pyöräilyä.",
+      "examples": ["Pyöräily on ekologista liikuntaa. — Cycling is ecological exercise.", "Pyöräily Helsingin keskustassa on helppoa. — Cycling in Helsinki city center is easy."]
+    },
+    {
+      "id": "sports-hobbies-007",
+      "finnish": "koripallo",
+      "english": "basketball",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KO-ri-PAL-lo'. Compound: kori (basket) + pallo (ball). Partitive: koripalloa.",
+      "examples": ["Pelaamme koripalloa koulun jälkeen. — We play basketball after school.", "Koripallo on nopea peli. — Basketball is a fast game."]
+    },
+    {
+      "id": "sports-hobbies-008",
+      "finnish": "tennis",
+      "english": "tennis",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TEN-nis'. Loanword, used as-is. Partitive: tennistä. 'Tenniskenttä' = tennis court.",
+      "examples": ["Pelaan tennistä kesäisin. — I play tennis in the summers.", "Tennis on hauska laji. — Tennis is a fun sport."]
+    },
+    {
+      "id": "sports-hobbies-009",
+      "finnish": "golf",
+      "english": "golf",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'GOLF'. Loanword, used as-is. Partitive: golfia. 'Golfkenttä' = golf course.",
+      "examples": ["Isäni pelaa golfia. — My father plays golf.", "Suomessa on paljon golfkenttiä. — In Finland there are many golf courses."]
+    },
+    {
+      "id": "sports-hobbies-010",
+      "finnish": "voimistelu",
+      "english": "gymnastics",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'VOI-mis-TE-lu'. Derived from 'voimistella' (to do gymnastics), from 'voima' (strength/power). Partitive: voimistelua.",
+      "examples": ["Voimistelu vaatii joustavuutta. — Gymnastics requires flexibility.", "Tyttäreni harrastaa voimistelua. — My daughter does gymnastics."]
+    },
+    {
+      "id": "sports-hobbies-011",
+      "finnish": "lukeminen",
+      "english": "reading",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LU-ke-MI-nen'. Derived from 'lukea' (to read). The -minen suffix turns verbs into nouns. Partitive: lukemista.",
+      "examples": ["Lukeminen on mun lempiharrastus. — Reading is my favorite hobby.", "Lukeminen on hyväksi aivoille. — Reading is good for the brain."]
+    },
+    {
+      "id": "sports-hobbies-012",
+      "finnish": "maalaus",
+      "english": "painting",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'MAA-la-us'. Derived from 'maalata' (to paint). Partitive: maalausta. Also refers to a painting (the artwork).",
+      "examples": ["Maalaus on rentouttava harrastus. — Painting is a relaxing hobby.", "Tämä maalaus on kaunis. — This painting is beautiful."]
+    },
+    {
+      "id": "sports-hobbies-013",
+      "finnish": "valokuvaus",
+      "english": "photography",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'VA-lo-KU-va-us'. Compound: valo (light) + kuvaus (imaging). Derived from 'valokuvata' (to photograph).",
+      "examples": ["Valokuvaus on suosittu harrastus. — Photography is a popular hobby.", "Harrastan luontovalokuvausta. — I do nature photography."]
+    },
+    {
+      "id": "sports-hobbies-014",
+      "finnish": "puutarhanhoito",
+      "english": "gardening",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PUU-tar-han-HOI-to'. Compound: puutarhan (garden's) + hoito (care). A common Finnish hobby.",
+      "examples": ["Puutarhanhoito on rentouttavaa. — Gardening is relaxing.", "Äitini harrastaa puutarhanhoitoa. — My mother does gardening."]
+    },
+    {
+      "id": "sports-hobbies-015",
+      "finnish": "kalastus",
+      "english": "fishing",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KA-las-tus'. Derived from 'kalastaa' (to fish), from 'kala' (fish). Very popular in Finland's lake region.",
+      "examples": ["Kalastus on suosittu harrastus Suomessa. — Fishing is a popular hobby in Finland.", "Käymme kalastamassa järvellä. — We go fishing on the lake."]
+    },
+    {
+      "id": "sports-hobbies-016",
+      "finnish": "metsästys",
+      "english": "hunting",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'MET-säs-tys'. Derived from 'metsästää' (to hunt), from 'metsä' (forest). Partitive: metsästystä.",
+      "examples": ["Metsästys on yleistä maaseudulla. — Hunting is common in the countryside.", "Isäni harrastaa metsästystä. — My father does hunting."]
+    },
+    {
+      "id": "sports-hobbies-017",
+      "finnish": "lenkkeily",
+      "english": "jogging",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LENK-kei-ly'. Derived from 'lenkkeillä' (to jog), from 'lenkki' (loop/lap). Partitive: lenkkeilyä.",
+      "examples": ["Lenkkeily aamulla piristää. — Jogging in the morning refreshes you.", "Käyn lenkkeilyllä kolme kertaa viikossa. — I go jogging three times a week."]
+    },
+    {
+      "id": "sports-hobbies-018",
+      "finnish": "peli",
+      "english": "game",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PE-li'. Partitive: peliä. Plural: pelit. 'Lautapeli' = board game, 'videopeli' = video game.",
+      "examples": ["Pelataan peliä yhdessä. — Let's play a game together.", "Tämä peli on hauska. — This game is fun."]
+    },
+    {
+      "id": "sports-hobbies-019",
+      "finnish": "urheilu",
+      "english": "sports",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'UR-hei-lu'. General term for sports/athletics. Partitive: urheilua. 'Urheilija' = athlete.",
+      "examples": ["Urheilu on tärkeää terveydelle. — Sports are important for health.", "Mitä urheilua sinä harrastat? — What sports do you do?"]
+    },
+    {
+      "id": "sports-hobbies-020",
+      "finnish": "liikunta",
+      "english": "exercise / physical activity",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LII-kun-ta'. Derived from 'liikkua' (to move). Broader than 'urheilu'; includes any physical activity.",
+      "examples": ["Liikunta pitää sinut terveenä. — Exercise keeps you healthy.", "Suositeltu liikunta on 30 minuuttia päivässä. — Recommended exercise is 30 minutes a day."]
+    },
+    {
+      "id": "sports-hobbies-021",
+      "finnish": "harrastus",
+      "english": "hobby",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HAR-ras-tus'. Derived from 'harrastaa' (to have as a hobby). Partitive: harrastusta. Plural: harrastukset.",
+      "examples": ["Mikä on sinun harrastuksesi? — What is your hobby?", "Minulla on monta harrastusta. — I have many hobbies."]
+    },
+    {
+      "id": "sports-hobbies-022",
+      "finnish": "joukkue",
+      "english": "team",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'JOUK-ku-e'. Partitive: joukkuetta. Plural: joukkueet. 'Joukkuepeli' = team game.",
+      "examples": ["Joukkueemme voitti ottelun. — Our team won the match.", "Pelaan joukkueessa. — I play on a team."]
+    },
+    {
+      "id": "sports-hobbies-023",
+      "finnish": "ottelu",
+      "english": "match / game",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'OT-te-lu'. Refers to a competitive match or game. Partitive: ottelua. Plural: ottelut.",
+      "examples": ["Ottelu alkaa kello kuusi. — The match starts at six o'clock.", "Se oli jännittävä ottelu. — It was an exciting match."]
+    },
+    {
+      "id": "sports-hobbies-024",
+      "finnish": "voittaa",
+      "english": "to win",
+      "category": "sports-hobbies",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Pronounced 'VOIT-taa'. Conjugation: voitan (I win), voitat (you win), voittaa (he/she wins). Past: voitti.",
+      "examples": ["Suomi voitti jääkiekko-ottelun. — Finland won the ice hockey match.", "Haluamme voittaa pelin. — We want to win the game."]
+    },
+    {
+      "id": "sports-hobbies-025",
+      "finnish": "hävitä",
+      "english": "to lose",
+      "category": "sports-hobbies",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Pronounced 'HÄ-vi-tä'. Conjugation: häviän (I lose), häviät (you lose), häviää (he/she loses). Also means 'to disappear'.",
+      "examples": ["Emme halua hävitä peliä. — We do not want to lose the game.", "Joukkue hävisi ottelun. — The team lost the match."]
+    },
+    {
+      "id": "sports-hobbies-026",
+      "finnish": "sauna",
+      "english": "sauna",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SAU-na'. One of the most famous Finnish words globally. Partitive: saunaa. 'Saunoa' = to have a sauna.",
+      "examples": ["Sauna on tärkeä osa suomalaista kulttuuria. — Sauna is an important part of Finnish culture.", "Käyn saunassa joka lauantai. — I go to the sauna every Saturday."]
+    },
+    {
+      "id": "sports-hobbies-027",
+      "finnish": "retkeily",
+      "english": "hiking",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'RET-kei-ly'. Derived from 'retkeillä' (to hike), from 'retki' (trip/excursion). Partitive: retkeilyä.",
+      "examples": ["Retkeily Lapissa on upeaa. — Hiking in Lapland is wonderful.", "Retkeily on suosittu kesäharrastus. — Hiking is a popular summer hobby."]
+    },
+    {
+      "id": "sports-hobbies-028",
+      "finnish": "telttailu",
+      "english": "camping",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TELT-tai-lu'. Derived from 'teltailla' (to camp), from 'teltta' (tent). Partitive: telttailua.",
+      "examples": ["Telttailu on hauskaa kesällä. — Camping is fun in summer.", "Lähdemme telttailuun viikonlopuksi. — We are going camping for the weekend."]
+    },
+    {
+      "id": "sports-hobbies-029",
+      "finnish": "luistelu",
+      "english": "skating / ice skating",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LUIS-te-lu'. Derived from 'luistella' (to skate), from 'luistin' (skate). Partitive: luistelua.",
+      "examples": ["Luistelu on hauskaa talvilaji. — Skating is a fun winter sport.", "Lähdemme luistelemaan järvelle. — Let's go skating on the lake."]
+    },
+    {
+      "id": "sports-hobbies-030",
+      "finnish": "lautailu",
+      "english": "boarding / snowboarding",
+      "category": "sports-hobbies",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LAU-tai-lu'. Derived from 'lauta' (board). Can refer to snowboarding or skateboarding depending on context. 'Lumilautailu' = snowboarding specifically.",
+      "examples": ["Lautailu on suosittu nuorten keskuudessa. — Boarding is popular among young people.", "Harrastan lumilautailua talvisin. — I snowboard in the winters."]
+    }
+  ]
+}

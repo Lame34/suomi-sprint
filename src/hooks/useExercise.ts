@@ -110,9 +110,13 @@ export function useExercise(sessionKey: string = 'practice'): UseExerciseReturn 
     () => persistedStates.get(sessionKey) ?? initialState,
   );
 
-  // Sync state back to persistent store
+  // Sync state back to persistent store (but clear completed sessions)
   useEffect(() => {
-    persistedStates.set(sessionKey, state);
+    if (state.status === 'complete') {
+      persistedStates.delete(sessionKey);
+    } else {
+      persistedStates.set(sessionKey, state);
+    }
   }, [sessionKey, state]);
   const feedbackTimerRef = useRef<ReturnType<typeof setTimeout>>(undefined);
 

@@ -1,0 +1,208 @@
+{
+  "category": "doctor",
+  "categoryLabel": "At the Doctor",
+  "icon": "stethoscope",
+  "description": "Medical phrases for doctor visits, symptoms, and health situations",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "doctor-001",
+      "finnish": "Minulla on aika lääkärille.",
+      "english": "I have an appointment with the doctor.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "Me-on(adessive) is time doctor-to(allative).",
+      "notes": "'Aika' here means 'appointment' (also means 'time'). 'Lääkärille' is the allative case of 'lääkäri' (doctor). In Finland, you typically need to book appointments through a health center ('terveyskeskus') or private clinic.",
+      "words": ["minä", "olla", "aika", "lääkäri"]
+    },
+    {
+      "id": "doctor-002",
+      "finnish": "Olen sairas.",
+      "english": "I am sick.",
+      "category": "doctor",
+      "difficulty": 1,
+      "notes": "Basic statement of illness. 'Sairas' is an adjective meaning 'sick/ill'. This is often the first thing you tell the doctor or nurse when arriving.",
+      "words": ["olla", "sairas"]
+    },
+    {
+      "id": "doctor-003",
+      "finnish": "Minulla on kuumetta.",
+      "english": "I have a fever.",
+      "category": "doctor",
+      "difficulty": 1,
+      "literalTranslation": "Me-on(adessive) is fever(partitive).",
+      "notes": "'Kuumetta' is the partitive form of 'kuume' (fever). The partitive is used because fever is an ongoing condition. Normal body temperature is 37°C in Finland. Fever ('kuume') is typically considered to start at 38°C.",
+      "words": ["minä", "olla", "kuume"]
+    },
+    {
+      "id": "doctor-004",
+      "finnish": "Minun päätäni särkee.",
+      "english": "I have a headache.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "My head-my(partitive) aches.",
+      "notes": "'Päätäni' is the partitive of 'pää' (head) with possessive suffix '-ni'. 'Särkee' is an impersonal verb meaning 'aches/hurts'. This construction 'X:ää särkee' is the Finnish way to express body pain. You can replace 'päätäni' with other body parts.",
+      "words": ["minä", "pää", "särkeä"]
+    },
+    {
+      "id": "doctor-005",
+      "finnish": "Minulla on yskää.",
+      "english": "I have a cough.",
+      "category": "doctor",
+      "difficulty": 1,
+      "literalTranslation": "Me-on(adessive) is cough(partitive).",
+      "notes": "'Yskää' is the partitive form of 'yskä' (cough). Same possessive construction as other symptoms. You can add 'kuivaa yskää' (dry cough) or 'limayskää' (phlegmy cough) for more detail.",
+      "words": ["minä", "olla", "yskä"]
+    },
+    {
+      "id": "doctor-006",
+      "finnish": "Minulla on vatsavaivoja.",
+      "english": "I have stomach problems.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "Me-on(adessive) is stomach-troubles(partitive plural).",
+      "notes": "'Vatsavaivoja' is the partitive plural of 'vatsavaiva' (stomach trouble), a compound from 'vatsa' (stomach) + 'vaiva' (ailment). This is a polite, general way to describe digestive issues.",
+      "words": ["minä", "olla", "vatsa", "vaiva"]
+    },
+    {
+      "id": "doctor-007",
+      "finnish": "Olen allerginen penisilliinille.",
+      "english": "I'm allergic to penicillin.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "Am-I allergic penicillin-to(allative).",
+      "notes": "'Allerginen' takes the allative case (-lle) for the allergen. This is critical medical information. Always inform your doctor of allergies. You can replace 'penisilliinille' with other allergens.",
+      "words": ["olla", "allerginen", "penisilliini"]
+    },
+    {
+      "id": "doctor-008",
+      "finnish": "Tarvitsen reseptin.",
+      "english": "I need a prescription.",
+      "category": "doctor",
+      "difficulty": 1,
+      "literalTranslation": "Need-I prescription(genitive/accusative).",
+      "notes": "'Reseptin' is the genitive/accusative of 'resepti' (prescription). In Finland, prescriptions are electronic ('e-resepti') and sent directly to the pharmacy system. You just show your ID at any pharmacy.",
+      "words": ["tarvita", "resepti"]
+    },
+    {
+      "id": "doctor-009",
+      "finnish": "Missä on lähin apteekki?",
+      "english": "Where is the nearest pharmacy?",
+      "category": "doctor",
+      "difficulty": 1,
+      "literalTranslation": "Where is nearest pharmacy?",
+      "notes": "'Lähin' is the superlative of 'lähellä' (near). 'Apteekki' means 'pharmacy'. Finnish pharmacies are marked with a green cross. Many common medicines require a prescription in Finland that may be over-the-counter elsewhere.",
+      "words": ["missä", "olla", "lähellä", "apteekki"]
+    },
+    {
+      "id": "doctor-010",
+      "finnish": "Kuinka usein otan lääkettä?",
+      "english": "How often do I take the medicine?",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "How often take-I medicine(partitive)?",
+      "notes": "'Kuinka usein' means 'how often'. 'Otan' is the first person of 'ottaa' (to take). 'Lääkettä' is the partitive of 'lääke' (medicine). Common answers: 'kerran päivässä' (once a day), 'kahdesti päivässä' (twice a day).",
+      "words": ["kuinka", "usein", "ottaa", "lääke"]
+    },
+    {
+      "id": "doctor-011",
+      "finnish": "Minun pitää ottaa verikoe.",
+      "english": "I need to take a blood test.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "My must take blood-test.",
+      "notes": "'Minun pitää' means 'I must/need to'. 'Verikoe' is a compound word from 'veri' (blood) + 'koe' (test). Blood tests in Finland are often done at a laboratory ('laboratorio'), which may be at the health center or hospital.",
+      "words": ["minä", "pitää", "ottaa", "veri", "koe"]
+    },
+    {
+      "id": "doctor-012",
+      "finnish": "Tarvitsen sairaslomaa.",
+      "english": "I need sick leave.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "Need-I sick-leave(partitive).",
+      "notes": "'Sairaslomaa' is the partitive of 'sairasloma' (sick leave), a compound from 'sairas' (sick) + 'loma' (leave). In Finland, a doctor's certificate ('lääkärintodistus') is usually required for sick leave beyond 3 days.",
+      "words": ["tarvita", "sairasloma"]
+    },
+    {
+      "id": "doctor-013",
+      "finnish": "Onko tämä vakavaa?",
+      "english": "Is this serious?",
+      "category": "doctor",
+      "difficulty": 1,
+      "literalTranslation": "Is this serious(partitive)?",
+      "notes": "'Vakavaa' is the partitive of 'vakava' (serious). The partitive is used here because the question concerns the nature/degree of the condition. A natural question to ask your doctor about a diagnosis.",
+      "words": ["olla", "tämä", "vakava"]
+    },
+    {
+      "id": "doctor-014",
+      "finnish": "Kuinka kauan paraneminen kestää?",
+      "english": "How long is the recovery?",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "How long recovery lasts?",
+      "notes": "'Kuinka kauan' means 'how long (duration)'. 'Paraneminen' means 'recovery/healing' from 'parantua' (to recover). 'Kestää' means 'to last/take (time)'. Common answers include 'muutama päivä' (a few days) or 'pari viikkoa' (a couple of weeks).",
+      "words": ["kuinka", "kauan", "paraneminen", "kestää"]
+    },
+    {
+      "id": "doctor-015",
+      "finnish": "Milloin tulen uudestaan?",
+      "english": "When should I come back?",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "When come-I again?",
+      "notes": "'Milloin' means 'when'. 'Tulen' is the first person of 'tulla' (to come). 'Uudestaan' means 'again'. Ask this to understand follow-up appointment scheduling.",
+      "words": ["milloin", "tulla", "uudestaan"]
+    },
+    {
+      "id": "doctor-016",
+      "finnish": "Sattuuko tämä?",
+      "english": "Does this hurt?",
+      "category": "doctor",
+      "difficulty": 1,
+      "literalTranslation": "Hurts-question this?",
+      "notes": "'Sattuuko' is from 'sattua' (to hurt) with the question suffix '-ko'. This is what the doctor might ask you during an examination. Answer 'Kyllä, sattuu' (Yes, it hurts) or 'Ei satu' (No, it doesn't hurt).",
+      "words": ["sattua", "tämä"]
+    },
+    {
+      "id": "doctor-017",
+      "finnish": "Minua huimaa.",
+      "english": "I feel dizzy.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "Me(partitive) dizzies.",
+      "notes": "'Minua' is the partitive of 'minä'. 'Huimaa' is an impersonal verb meaning 'to feel dizzy'. This impersonal construction (partitive person + verb) is typical for Finnish body sensations. There is no separate subject.",
+      "words": ["minä", "huimata"]
+    },
+    {
+      "id": "doctor-018",
+      "finnish": "Minua oksettaa.",
+      "english": "I feel nauseous.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "Me(partitive) nauseates.",
+      "notes": "'Oksettaa' is an impersonal verb meaning 'to feel nauseous'. Same impersonal construction as 'huimaa'. If you have vomited, you can say 'Olen oksentanut' (I have vomited).",
+      "words": ["minä", "oksettaa"]
+    },
+    {
+      "id": "doctor-019",
+      "finnish": "Tarvitsen hammaslääkärin.",
+      "english": "I need a dentist.",
+      "category": "doctor",
+      "difficulty": 1,
+      "literalTranslation": "Need-I dentist(genitive/accusative).",
+      "notes": "'Hammaslääkärin' is the genitive/accusative of 'hammaslääkäri' (dentist), a compound from 'hammas' (tooth) + 'lääkäri' (doctor). Public dental care is available through health centers, but private clinics often have shorter wait times.",
+      "words": ["tarvita", "hammaslääkäri"]
+    },
+    {
+      "id": "doctor-020",
+      "finnish": "Näköni on heikentynyt.",
+      "english": "My vision has worsened.",
+      "category": "doctor",
+      "difficulty": 2,
+      "literalTranslation": "Vision-my is weakened.",
+      "notes": "'Näköni' is 'näkö' (vision) with possessive suffix '-ni' (my). 'Heikentynyt' is the past participle of 'heikentyä' (to weaken/worsen). Use this at an optician ('optikko') or eye doctor ('silmälääkäri') appointment.",
+      "words": ["näkö", "olla", "heikentyä"]
+    }
+  ]
+}

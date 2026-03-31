@@ -1,0 +1,209 @@
+{
+  "category": "social",
+  "categoryLabel": "Social Situations",
+  "icon": "users",
+  "description": "Phrases for socializing, making friends, and everyday interactions",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "social-001",
+      "finnish": "Haluaisitko lähteä kahville?",
+      "english": "Would you like to go for coffee?",
+      "category": "social",
+      "difficulty": 2,
+      "literalTranslation": "Would-like-you leave coffee-to(allative)?",
+      "notes": "'Haluaisitko' is the conditional of 'haluta' with second person '-t' and question suffix '-ko'. 'Kahville' is the allative of 'kahvi' (coffee). Coffee culture is huge in Finland — Finns are among the world's top coffee drinkers.",
+      "words": ["haluta", "lähteä", "kahvi"]
+    },
+    {
+      "id": "social-002",
+      "finnish": "Mitä sinulle kuuluu?",
+      "english": "How are you?",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "What you-to(allative) is-heard?",
+      "notes": "'Mitä kuuluu' literally means 'what is heard/what belongs'. This is the standard Finnish greeting equivalent to 'how are you?'. Common replies: 'Hyvää, kiitos!' (Good, thanks!) or 'Ihan hyvää' (Pretty good).",
+      "words": ["mitä", "sinä", "kuulua"]
+    },
+    {
+      "id": "social-003",
+      "finnish": "Mukava tavata!",
+      "english": "Nice to meet you!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Nice to-meet!",
+      "notes": "'Mukava' means 'nice/pleasant'. 'Tavata' means 'to meet'. In Finland, people typically shake hands when meeting for the first time. Finns tend to introduce themselves with just their first name.",
+      "words": ["mukava", "tavata"]
+    },
+    {
+      "id": "social-004",
+      "finnish": "Mistä olet kotoisin?",
+      "english": "Where are you from?",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Where-from(elative) are-you from-home?",
+      "notes": "'Mistä' is the elative of 'mikä' (from where). 'Kotoisin' means 'originally from' (derived from 'koti', home). This is a common conversation starter. Answer: 'Olen kotoisin...' + country/city in the elative case.",
+      "words": ["mikä", "olla", "kotoisin"]
+    },
+    {
+      "id": "social-005",
+      "finnish": "Olen kotoisin...",
+      "english": "I'm from...",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Am-I from-home...",
+      "notes": "Follow with your country or city in the elative case (-sta/-stä): 'Englannista' (from England), 'Amerikasta' (from America), 'Australiasta' (from Australia). Cities: 'Lontoosta' (from London).",
+      "words": ["olla", "kotoisin"]
+    },
+    {
+      "id": "social-006",
+      "finnish": "Puhutko englantia?",
+      "english": "Do you speak English?",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Speak-you English(partitive)?",
+      "notes": "'Puhutko' is from 'puhua' (to speak) with second person '-t' and question suffix '-ko'. 'Englantia' is the partitive of 'englanti'. Most Finns speak excellent English, especially younger generations.",
+      "words": ["puhua", "englanti"]
+    },
+    {
+      "id": "social-007",
+      "finnish": "Puhun vähän suomea.",
+      "english": "I speak a little Finnish.",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Speak-I little Finnish(partitive).",
+      "notes": "'Vähän' means 'a little'. 'Suomea' is the partitive of 'suomi' (Finnish). Finns are typically very appreciative when foreigners try to speak Finnish, even just a little.",
+      "words": ["puhua", "vähän", "suomi"]
+    },
+    {
+      "id": "social-008",
+      "finnish": "Anteeksi, en ymmärrä.",
+      "english": "Sorry, I don't understand.",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Sorry, not understand-I.",
+      "notes": "'Anteeksi' means 'sorry/excuse me'. 'En ymmärrä' is the negative of 'ymmärtää' (to understand). 'En' is the first person negative verb. This is essential when you need someone to repeat or switch to English.",
+      "words": ["anteeksi", "ei", "ymmärtää"]
+    },
+    {
+      "id": "social-009",
+      "finnish": "Voitko puhua hitaammin?",
+      "english": "Can you speak more slowly?",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Can-you speak slower?",
+      "notes": "'Voitko' is from 'voida' (can) with second person '-t' and question suffix '-ko'. 'Hitaammin' is the comparative adverb of 'hitaasti' (slowly). Very useful when learning Finnish, as spoken Finnish can be quite fast.",
+      "words": ["voida", "puhua", "hitaasti"]
+    },
+    {
+      "id": "social-010",
+      "finnish": "Mitä tämä tarkoittaa?",
+      "english": "What does this mean?",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "What this means?",
+      "notes": "'Tarkoittaa' means 'to mean'. Useful when encountering unfamiliar Finnish words or signs. You can also point at text and ask this question.",
+      "words": ["mitä", "tämä", "tarkoittaa"]
+    },
+    {
+      "id": "social-011",
+      "finnish": "Pidetään yhteyttä!",
+      "english": "Let's keep in touch!",
+      "category": "social",
+      "difficulty": 2,
+      "literalTranslation": "Let's-keep connection(partitive)!",
+      "notes": "'Pidetään' is the passive/first person plural imperative of 'pitää' (to keep). 'Yhteyttä' is the partitive of 'yhteys' (connection/contact). A warm way to end a conversation with someone you'd like to stay connected with.",
+      "words": ["pitää", "yhteys"]
+    },
+    {
+      "id": "social-012",
+      "finnish": "Hauskaa viikonloppua!",
+      "english": "Have a nice weekend!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Fun(partitive) weekend(partitive)!",
+      "notes": "'Hauskaa' is the partitive of 'hauska' (fun/nice). 'Viikonloppua' is the partitive of 'viikonloppu' (weekend), a compound from 'viikko' (week) + 'loppu' (end). Common Friday farewell among colleagues and friends.",
+      "words": ["hauska", "viikonloppu"]
+    },
+    {
+      "id": "social-013",
+      "finnish": "Onneksi olkoon!",
+      "english": "Congratulations!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "For-luck be(imperative)!",
+      "notes": "'Onneksi' is the translative of 'onni' (happiness/luck). 'Olkoon' is the imperative of 'olla' (to be). Used for graduations, weddings, promotions, and other achievements. Can be shortened to 'Onnittelut!' (Congratulations!).",
+      "words": ["onni", "olla"]
+    },
+    {
+      "id": "social-014",
+      "finnish": "Hyvää syntymäpäivää!",
+      "english": "Happy birthday!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Good(partitive) birth-day(partitive)!",
+      "notes": "'Syntymäpäivää' is the partitive of 'syntymäpäivä' (birthday), a compound from 'syntymä' (birth) + 'päivä' (day). Finnish birthday traditions include the birthday person often providing cake ('kakku') at work or school.",
+      "words": ["hyvä", "syntymäpäivä"]
+    },
+    {
+      "id": "social-015",
+      "finnish": "Hauskaa joulua!",
+      "english": "Merry Christmas!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Fun(partitive) Christmas(partitive)!",
+      "notes": "'Joulua' is the partitive of 'joulu' (Christmas). Christmas is the most important holiday in Finland. 'Joulupukki' (Santa Claus) is said to live in Korvatunturi, Finnish Lapland. Christmas Eve ('jouluaatto') is the main celebration day.",
+      "words": ["hauska", "joulu"]
+    },
+    {
+      "id": "social-016",
+      "finnish": "Hyvää uutta vuotta!",
+      "english": "Happy New Year!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Good(partitive) new(partitive) year(partitive)!",
+      "notes": "'Uutta' is the partitive of 'uusi' (new). 'Vuotta' is the partitive of 'vuosi' (year). New Year's Eve ('uudenvuodenaatto') is celebrated with fireworks throughout Finland. Tin casting ('tinannvalanta') is a traditional activity.",
+      "words": ["hyvä", "uusi", "vuosi"]
+    },
+    {
+      "id": "social-017",
+      "finnish": "Tervetuloa!",
+      "english": "Welcome!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Well-come!",
+      "notes": "'Tervetuloa' is a compound from 'terve' (healthy/well) + 'tuloa' (coming, partitive of 'tulo'). Used to welcome guests to your home, workplace, or Finland. You'll see this on doormats and welcome signs.",
+      "words": ["tervetuloa"]
+    },
+    {
+      "id": "social-018",
+      "finnish": "Voitko auttaa minua?",
+      "english": "Can you help me?",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Can-you help me(partitive)?",
+      "notes": "'Voitko' is the informal 'can you' from 'voida'. 'Auttaa' means 'to help'. 'Minua' is the partitive of 'minä'. This is the informal version; use 'Voitteko' for formal/polite situations.",
+      "words": ["voida", "auttaa", "minä"]
+    },
+    {
+      "id": "social-019",
+      "finnish": "Kiitos avusta!",
+      "english": "Thanks for the help!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Thanks help-from(elative)!",
+      "notes": "'Avusta' is the elative case of 'apu' (help). 'Kiitos' + elative is the standard Finnish construction for 'thank you for...'. Always good to express gratitude, even in the famously reserved Finnish culture.",
+      "words": ["kiitos", "apu"]
+    },
+    {
+      "id": "social-020",
+      "finnish": "Nähdään pian!",
+      "english": "See you soon!",
+      "category": "social",
+      "difficulty": 1,
+      "literalTranslation": "Is-seen soon!",
+      "notes": "'Nähdään' is the passive form of 'nähdä' (to see), used as 'we'll see each other'. 'Pian' means 'soon'. This is a warm, casual farewell. Other variations: 'Nähdään huomenna!' (See you tomorrow!), 'Nähdään ensi viikolla!' (See you next week!).",
+      "words": ["nähdä", "pian"]
+    }
+  ]
+}

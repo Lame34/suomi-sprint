@@ -1,0 +1,259 @@
+{
+  "category": "city",
+  "categoryLabel": "City & Places",
+  "icon": "building-2",
+  "description": "Urban places, buildings, and city vocabulary",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "city-001",
+      "finnish": "kaupunki",
+      "english": "city / town",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KAU-pun-ki'. Partitive: kaupunkia. Helsinki is Finland's largest kaupunki.",
+      "examples": ["Helsinki on iso kaupunki. — Helsinki is a big city.", "Asun kaupungissa. — I live in the city."]
+    },
+    {
+      "id": "city-002",
+      "finnish": "kylä",
+      "english": "village",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KY-lä'. Note the front vowels y and ä. Partitive: kylää.",
+      "examples": ["Kylä on pieni. — The village is small.", "Asuin ennen pienessä kylässä. — I used to live in a small village."]
+    },
+    {
+      "id": "city-003",
+      "finnish": "katu",
+      "english": "street",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KA-tu'. Partitive: katua. Very common in street names: Mannerheiminkatu.",
+      "examples": ["Katu on leveä. — The street is wide.", "Kävelen kadulla. — I'm walking on the street."]
+    },
+    {
+      "id": "city-004",
+      "finnish": "tie",
+      "english": "road / way",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TIE' (like 'tee-eh'). The 'ie' is a diphthong. Also means 'way/path'. Partitive: tietä.",
+      "examples": ["Tie on pitkä. — The road is long.", "Missä on tie Helsinkiin? — Where is the road to Helsinki?"]
+    },
+    {
+      "id": "city-005",
+      "finnish": "silta",
+      "english": "bridge",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SIL-ta'. Partitive: siltaa. Finland has many bridges due to its lakes and rivers.",
+      "examples": ["Silta ylittää joen. — The bridge crosses the river.", "Kävelen sillan yli. — I walk over the bridge."]
+    },
+    {
+      "id": "city-006",
+      "finnish": "puisto",
+      "english": "park",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PUIS-to'. The 'ui' is a diphthong. Partitive: puistoa.",
+      "examples": ["Puistossa on kaunista. — It's beautiful in the park.", "Lapset leikkivät puistossa. — The children play in the park."]
+    },
+    {
+      "id": "city-007",
+      "finnish": "kirjasto",
+      "english": "library",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KIR-jas-to'. From 'kirja' (book) + -sto suffix. Finnish libraries are famous and well-used. Partitive: kirjastoa.",
+      "examples": ["Kirjasto on auki. — The library is open.", "Lainaan kirjan kirjastosta. — I borrow a book from the library."]
+    },
+    {
+      "id": "city-008",
+      "finnish": "museo",
+      "english": "museum",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'MU-se-o'. Similar to English. Partitive: museota.",
+      "examples": ["Museo on mielenkiintoinen. — The museum is interesting.", "Käymme museossa. — We visit the museum."]
+    },
+    {
+      "id": "city-009",
+      "finnish": "teatteri",
+      "english": "theater",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TE-at-te-ri'. Double 't' is long. A loanword. Partitive: teatteria.",
+      "examples": ["Menemme teatteriin illalla. — We're going to the theater in the evening.", "Teatteri on keskustassa. — The theater is in the center."]
+    },
+    {
+      "id": "city-010",
+      "finnish": "kirkko",
+      "english": "church",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KIRK-ko'. Double 'k' is long. Partitive: kirkkoa. The Lutheran church is dominant in Finland.",
+      "examples": ["Kirkko on vanha. — The church is old.", "Tuomiokirkko on Helsingin keskustassa. — The cathedral is in the center of Helsinki."]
+    },
+    {
+      "id": "city-011",
+      "finnish": "torni",
+      "english": "tower",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TOR-ni'. Partitive: tornia. 'Näkötorni' = observation tower.",
+      "examples": ["Torni on korkea. — The tower is tall.", "Näkötornista näkee kauas. — You can see far from the observation tower."]
+    },
+    {
+      "id": "city-012",
+      "finnish": "tori",
+      "english": "market square",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TO-ri'. Partitive: toria. Finnish cities typically have a tori as the central meeting place. Kauppatori = market square.",
+      "examples": ["Tori on täynnä ihmisiä. — The market square is full of people.", "Ostin marjoja torilta. — I bought berries from the market."]
+    },
+    {
+      "id": "city-013",
+      "finnish": "pankki",
+      "english": "bank",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PANK-ki'. Double 'k' is long. A loanword from Swedish/German. Partitive: pankkia.",
+      "examples": ["Pankki on kiinni. — The bank is closed.", "Menen pankkiin huomenna. — I'm going to the bank tomorrow."]
+    },
+    {
+      "id": "city-014",
+      "finnish": "posti",
+      "english": "post office / mail",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'POS-ti'. Means both 'mail' and 'post office'. Partitive: postia.",
+      "examples": ["Vien paketin postiin. — I take the package to the post office.", "Onko postia tullut? — Has any mail arrived?"]
+    },
+    {
+      "id": "city-015",
+      "finnish": "poliisiasema",
+      "english": "police station",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PO-lii-si-A-se-ma'. Compound: poliisi (police) + asema (station). Long double 'i' in poliisi.",
+      "examples": ["Poliisiasema on lähellä. — The police station is nearby.", "Menin poliisiasemalle tekemään ilmoituksen. — I went to the police station to file a report."]
+    },
+    {
+      "id": "city-016",
+      "finnish": "palokunta",
+      "english": "fire station / fire department",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PA-lo-kun-ta'. Compound: palo (fire) + kunta (department/unit). Partitive: palokuntaa.",
+      "examples": ["Palokunta tuli nopeasti. — The fire department came quickly.", "Soita palokunnalle! — Call the fire department!"]
+    },
+    {
+      "id": "city-017",
+      "finnish": "koulu",
+      "english": "school",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KOU-lu'. The 'ou' diphthong. Partitive: koulua. Finnish schools are world-famous for quality education.",
+      "examples": ["Koulu alkaa kahdeksalta. — School starts at eight.", "Lapset menevät kouluun. — The children go to school."]
+    },
+    {
+      "id": "city-018",
+      "finnish": "yliopisto",
+      "english": "university",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'Y-li-O-pis-to'. Note: starts with 'y' which is a front vowel in Finnish (like German ü). Partitive: yliopistoa.",
+      "examples": ["Opiskelen yliopistossa. — I study at a university.", "Helsingin yliopisto on vanha. — The University of Helsinki is old."]
+    },
+    {
+      "id": "city-019",
+      "finnish": "lentokenttä",
+      "english": "airport",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LEN-to-kent-tä'. Compound: lento (flight) + kenttä (field). Double 't' is long. Partitive: lentokenttää.",
+      "examples": ["Lentokenttä on kaukana. — The airport is far away.", "Menen lentokentälle taksilla. — I'm going to the airport by taxi."]
+    },
+    {
+      "id": "city-020",
+      "finnish": "rautatieasema",
+      "english": "train station",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'RAU-ta-tie-A-se-ma'. Compound: rautatie (railway, literally 'iron road') + asema (station). A long but logical word.",
+      "examples": ["Rautatieasema on keskustassa. — The train station is in the center.", "Tapaamme rautatieasemalla. — We meet at the train station."]
+    },
+    {
+      "id": "city-021",
+      "finnish": "satama",
+      "english": "port / harbor",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SA-ta-ma'. Partitive: satamaa. Helsinki has a famous harbor area.",
+      "examples": ["Satamassa on laivoja. — There are ships in the harbor.", "Kävelen satamaan. — I walk to the harbor."]
+    },
+    {
+      "id": "city-022",
+      "finnish": "hotelli",
+      "english": "hotel",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HO-tel-li'. Double 'l' is long. A loanword, easy to remember. Partitive: hotellia.",
+      "examples": ["Hotelli on kallis. — The hotel is expensive.", "Yövymme hotellissa. — We stay at a hotel."]
+    },
+    {
+      "id": "city-023",
+      "finnish": "ravintola",
+      "english": "restaurant",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'RA-vin-to-la'. From 'ravinto' (nourishment) + -la (place suffix). Partitive: ravintolaa.",
+      "examples": ["Ravintola on täynnä. — The restaurant is full.", "Syömme ravintolassa. — We eat at a restaurant."]
+    },
+    {
+      "id": "city-024",
+      "finnish": "sairaala",
+      "english": "hospital",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SAI-raa-la'. From 'sairas' (sick) + -la (place suffix). Double 'a' is long. Partitive: sairaalaa.",
+      "examples": ["Sairaala on iso. — The hospital is big.", "Menen sairaalaan. — I'm going to the hospital."]
+    },
+    {
+      "id": "city-025",
+      "finnish": "kauppakeskus",
+      "english": "shopping center / mall",
+      "category": "city",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KAUP-pa-kes-kus'. Compound: kauppa (shop) + keskus (center). Double 'p' is long. Partitive: kauppakeskusta.",
+      "examples": ["Kauppakeskus on auki kymmenestä yhdeksään. — The shopping center is open from ten to nine.", "Menemme kauppakeskukseen. — We're going to the shopping center."]
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "category": "nature",
+  "categoryLabel": "Nature & Outdoors",
+  "icon": "tree-pine",
+  "description": "Nature, landscapes, plants, and wild animals",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "nature-001",
+      "finnish": "metsä",
+      "english": "forest",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'MET-sä'. Finland is about 75% forest, so this is an essential word. Partitive: metsää.",
+      "examples": ["Metsä on kaunis. — The forest is beautiful.", "Kävelen metsässä. — I walk in the forest."]
+    },
+    {
+      "id": "nature-002",
+      "finnish": "järvi",
+      "english": "lake",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'YÄR-vi'. Finland is called 'the land of a thousand lakes' (actually 188,000!). Partitive: järveä.",
+      "examples": ["Järvi on syvä. — The lake is deep.", "Suomessa on paljon järviä. — There are many lakes in Finland."]
+    },
+    {
+      "id": "nature-003",
+      "finnish": "joki",
+      "english": "river",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'YO-ki'. Partitive: jokea. Changes stem in some forms: joen (genitive).",
+      "examples": ["Joki virtaa hitaasti. — The river flows slowly.", "Joen rannalla on kaunista. — It's beautiful on the riverbank."]
+    },
+    {
+      "id": "nature-004",
+      "finnish": "meri",
+      "english": "sea",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'ME-ri'. Partitive: merta. Itämeri = Baltic Sea (literally 'East Sea').",
+      "examples": ["Meri on tyyni. — The sea is calm.", "Asun meren lähellä. — I live near the sea."]
+    },
+    {
+      "id": "nature-005",
+      "finnish": "vuori",
+      "english": "mountain",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'VUO-ri'. The 'uo' is a diphthong. Finland has very few mountains; they are called 'tunturi' in Lapland. Partitive: vuorta.",
+      "examples": ["Vuori on korkea. — The mountain is high.", "Kiipeämme vuorelle. — We climb the mountain."]
+    },
+    {
+      "id": "nature-006",
+      "finnish": "saari",
+      "english": "island",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SAA-ri'. Double 'a' is long. Finland has thousands of islands in its archipelago. Partitive: saarta.",
+      "examples": ["Saari on pieni. — The island is small.", "Veneellä pääsee saareen. — You can get to the island by boat."]
+    },
+    {
+      "id": "nature-007",
+      "finnish": "ranta",
+      "english": "beach / shore",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'RAN-ta'. Partitive: rantaa. Can mean lakeshore, seashore, or beach.",
+      "examples": ["Ranta on hiekkainen. — The beach is sandy.", "Istumme rannalla. — We sit on the shore."]
+    },
+    {
+      "id": "nature-008",
+      "finnish": "niitty",
+      "english": "meadow",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'NIIT-ty'. Double 'i' and double 't' are both long. Partitive: niittyä.",
+      "examples": ["Niityllä kasvaa kukkia. — Flowers grow in the meadow.", "Niitty on vihreä kesällä. — The meadow is green in summer."]
+    },
+    {
+      "id": "nature-009",
+      "finnish": "suo",
+      "english": "swamp / bog",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SUO'. The 'uo' diphthong. Finland has extensive bog areas. Partitive: suota.",
+      "examples": ["Suo on märkä. — The swamp is wet.", "Suomessa on paljon soita. — There are many swamps in Finland."]
+    },
+    {
+      "id": "nature-010",
+      "finnish": "kallio",
+      "english": "rock / cliff",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KAL-li-o'. Double 'l' is long. Refers to bedrock or a rock formation, not a small stone (which is 'kivi'). Partitive: kalliota.",
+      "examples": ["Kallio on jyrkkä. — The cliff is steep.", "Istun kalliolla. — I sit on the rock."]
+    },
+    {
+      "id": "nature-011",
+      "finnish": "puu",
+      "english": "tree / wood",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PUU'. Double 'u' is long. Means both 'tree' and 'wood' (material). Partitive: puuta.",
+      "examples": ["Puu on vanha. — The tree is old.", "Talo on puuta. — The house is made of wood."]
+    },
+    {
+      "id": "nature-012",
+      "finnish": "kukka",
+      "english": "flower",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KUK-ka'. Double 'k' is long. Partitive: kukkaa. Plural: kukat.",
+      "examples": ["Kukka tuoksuu hyvältä. — The flower smells good.", "Ostin kukkia. — I bought flowers."]
+    },
+    {
+      "id": "nature-013",
+      "finnish": "ruoho",
+      "english": "grass",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'RUO-ho'. The 'uo' diphthong. Partitive: ruohoa.",
+      "examples": ["Ruoho on vihreää. — The grass is green.", "Istun ruoholla. — I sit on the grass."]
+    },
+    {
+      "id": "nature-014",
+      "finnish": "lehti",
+      "english": "leaf",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LEH-ti'. Also means 'newspaper' or 'magazine'. Partitive: lehteä. Plural: lehdet.",
+      "examples": ["Lehdet putoavat syksyllä. — The leaves fall in autumn.", "Lehti on keltainen. — The leaf is yellow."]
+    },
+    {
+      "id": "nature-015",
+      "finnish": "oksa",
+      "english": "branch",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'OK-sa'. Partitive: oksaa. Used in sauna whisks (vihta/vasta) made from birch branches.",
+      "examples": ["Lintu istuu oksalla. — The bird sits on a branch.", "Oksa katkesi. — The branch broke."]
+    },
+    {
+      "id": "nature-016",
+      "finnish": "sammal",
+      "english": "moss",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SAM-mal'. Double 'm' is long. Very common in Finnish forests. Partitive: sammalta.",
+      "examples": ["Sammal on pehmeää. — Moss is soft.", "Kivet ovat sammalen peitossa. — The rocks are covered in moss."]
+    },
+    {
+      "id": "nature-017",
+      "finnish": "sieni",
+      "english": "mushroom",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SIE-ni'. The 'ie' diphthong. Mushroom picking is a beloved Finnish tradition. Partitive: sientä.",
+      "examples": ["Keräämme sieniä metsästä. — We pick mushrooms from the forest.", "Tämä sieni on myrkyllinen. — This mushroom is poisonous."]
+    },
+    {
+      "id": "nature-018",
+      "finnish": "marja",
+      "english": "berry",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'MAR-ja'. Partitive: marjaa. Berry picking (marjanpoiminta) is a Finnish summer tradition. Everyman's rights allow picking in any forest.",
+      "examples": ["Poimin marjoja. — I pick berries.", "Mustikka on suosittu marja. — Blueberry is a popular berry."]
+    },
+    {
+      "id": "nature-019",
+      "finnish": "lintu",
+      "english": "bird",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LIN-tu'. Partitive: lintua. Finland has many migratory bird species.",
+      "examples": ["Lintu laulaa. — The bird sings.", "Näin kauniin linnun. — I saw a beautiful bird."]
+    },
+    {
+      "id": "nature-020",
+      "finnish": "kala",
+      "english": "fish",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KA-la'. Partitive: kalaa. Fishing is very popular in Finland. Also a common food.",
+      "examples": ["Kala ui järvessä. — The fish swims in the lake.", "Syön kalaa usein. — I eat fish often."]
+    },
+    {
+      "id": "nature-021",
+      "finnish": "hirvi",
+      "english": "moose / elk",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'HIR-vi'. Partitive: hirveä. Very common in Finland; watch for moose road signs! 'Hirveä' also means 'terrible' (unrelated).",
+      "examples": ["Hirvi ylitti tien. — The moose crossed the road.", "Suomessa on paljon hirviä. — There are many moose in Finland."]
+    },
+    {
+      "id": "nature-022",
+      "finnish": "karhu",
+      "english": "bear",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KAR-hu'. Partitive: karhua. The brown bear is Finland's national animal. Finns traditionally avoided saying the bear's real name (otso, kontio) out of respect.",
+      "examples": ["Karhu nukkuu talvella. — The bear sleeps in winter.", "Karhu on Suomen kansalliseläin. — The bear is Finland's national animal."]
+    },
+    {
+      "id": "nature-023",
+      "finnish": "kettu",
+      "english": "fox",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KET-tu'. Double 't' is long. Partitive: kettua. Red foxes are common in Finland.",
+      "examples": ["Kettu on ovela. — The fox is cunning.", "Näin ketun metsässä. — I saw a fox in the forest."]
+    },
+    {
+      "id": "nature-024",
+      "finnish": "jänis",
+      "english": "hare",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'YÄ-nis'. Note: jänis is a hare (wild), not a pet rabbit (kani). Partitive: jänistä.",
+      "examples": ["Jänis juoksi pellolle. — The hare ran to the field.", "Jäniksen turkki muuttuu talvella valkoiseksi. — The hare's fur turns white in winter."]
+    },
+    {
+      "id": "nature-025",
+      "finnish": "orava",
+      "english": "squirrel",
+      "category": "nature",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'O-ra-va'. Partitive: oravaa. Red squirrels are common in Finnish forests and parks.",
+      "examples": ["Orava kiipeää puuhun. — The squirrel climbs the tree.", "Orava kerää pähkinöitä. — The squirrel collects nuts."]
+    }
+  ]
+}

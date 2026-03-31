@@ -1,0 +1,209 @@
+{
+  "category": "prepositions",
+  "categoryLabel": "Prepositions & Postpositions",
+  "icon": "move",
+  "description": "Finnish pre- and postpositions for expressing relationships between words",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "prepositions-001",
+      "finnish": "kanssa",
+      "english": "with",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'KANS-sa'. POSTPOSITION: comes after the noun in genitive case. 'Ystävän kanssa' = with a friend. In spoken Finnish, often shortened to '-kaa/-kää' suffix.",
+      "examples": ["Tulen ystävän kanssa. — I'm coming with a friend.", "Kenen kanssa puhuit? — With whom did you speak?"]
+    },
+    {
+      "id": "prepositions-002",
+      "finnish": "ilman",
+      "english": "without",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'IL-man'. PREPOSITION: comes before the noun in partitive case. 'Ilman sokeria' = without sugar. One of the few true prepositions in Finnish.",
+      "examples": ["Juon kahvia ilman sokeria. — I drink coffee without sugar.", "En voi elää ilman sinua. — I can't live without you."]
+    },
+    {
+      "id": "prepositions-003",
+      "finnish": "ennen",
+      "english": "before",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'EN-nen'. PREPOSITION: used with partitive case. 'Ennen lounasta' = before lunch. Double 'n' is long.",
+      "examples": ["Ennen ruokaa pesen kädet. — Before eating I wash my hands.", "Tulin ennen sinua. — I came before you."]
+    },
+    {
+      "id": "prepositions-004",
+      "finnish": "jälkeen",
+      "english": "after",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'YÄL-keen'. POSTPOSITION: comes after the noun in genitive case. 'Lounaan jälkeen' = after lunch. Double 'e' is long.",
+      "examples": ["Lounaan jälkeen menen ulos. — After lunch I go outside.", "Työn jälkeen olen väsynyt. — After work I am tired."]
+    },
+    {
+      "id": "prepositions-005",
+      "finnish": "aikana",
+      "english": "during",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'AI-ka-na'. POSTPOSITION: comes after the noun in genitive case. 'Päivän aikana' = during the day. From 'aika' (time).",
+      "examples": ["Kesän aikana matkustan. — During summer I travel.", "Tunnin aikana opin paljon. — During the lesson I learned a lot."]
+    },
+    {
+      "id": "prepositions-006",
+      "finnish": "sijaan",
+      "english": "instead of",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 3,
+      "notes": "Pronounced 'SI-jaan'. POSTPOSITION: comes after the noun in genitive case. 'Kahvin sijaan' = instead of coffee. Double 'a' is long.",
+      "examples": ["Juon teetä kahvin sijaan. — I drink tea instead of coffee.", "Hänen sijaansa tulen minä. — Instead of him/her, I'm coming."]
+    },
+    {
+      "id": "prepositions-007",
+      "finnish": "varten",
+      "english": "for (purpose)",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'VAR-ten'. POSTPOSITION: comes after the noun in partitive case. 'Sinua varten' = for you. Expresses purpose or benefit.",
+      "examples": ["Tämä on sinua varten. — This is for you.", "Ostin lahjan häntä varten. — I bought a gift for him/her."]
+    },
+    {
+      "id": "prepositions-008",
+      "finnish": "takia",
+      "english": "because of",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'TA-ki-a'. POSTPOSITION: comes after the noun in genitive case. 'Sateen takia' = because of rain. Also written 'vuoksi' (more formal).",
+      "examples": ["Sateen takia jäin kotiin. — Because of rain I stayed home.", "Sinun takiasi olen myöhässä. — Because of you I'm late."]
+    },
+    {
+      "id": "prepositions-009",
+      "finnish": "kohti",
+      "english": "towards",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'KOH-ti'. POSTPOSITION: comes after the noun in partitive case. 'Kaupunkia kohti' = towards the city.",
+      "examples": ["Kävelen koulua kohti. — I walk towards the school.", "Hän tuli minua kohti. — He/she came towards me."]
+    },
+    {
+      "id": "prepositions-010",
+      "finnish": "ohi",
+      "english": "past / by",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'O-hi'. POSTPOSITION: comes after the noun in genitive case. 'Talon ohi' = past the house. Can also be used as an adverb: 'Bussi ajoi ohi' = The bus drove past.",
+      "examples": ["Kävelin kaupan ohi. — I walked past the shop.", "Juna meni ohi. — The train went past."]
+    },
+    {
+      "id": "prepositions-011",
+      "finnish": "yli",
+      "english": "over / across",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'Y-li'. POSTPOSITION: comes after the noun in genitive case. 'Sillan yli' = over the bridge. Also means 'more than': yli sata = over a hundred.",
+      "examples": ["Kävelin sillan yli. — I walked over the bridge.", "Olen asunut täällä yli vuoden. — I've lived here over a year."]
+    },
+    {
+      "id": "prepositions-012",
+      "finnish": "ali",
+      "english": "under / beneath (passing under)",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'A-li'. POSTPOSITION: comes after the noun in genitive case. 'Sillan ali' = under the bridge (passing through). Implies movement, unlike 'alla' which is static.",
+      "examples": ["Juna menee sillan ali. — The train goes under the bridge.", "Vene kulki sillan ali. — The boat passed under the bridge."]
+    },
+    {
+      "id": "prepositions-013",
+      "finnish": "läpi",
+      "english": "through",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'LÄ-pi'. POSTPOSITION: comes after the noun in genitive case. 'Metsän läpi' = through the forest. Implies passing from one side to the other.",
+      "examples": ["Kävelimme metsän läpi. — We walked through the forest.", "Valo paistaa ikkunan läpi. — Light shines through the window."]
+    },
+    {
+      "id": "prepositions-014",
+      "finnish": "ympäri",
+      "english": "around",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'YM-pä-ri'. Can be a POSTPOSITION (genitive: talon ympäri = around the house) or PREPOSITION (partitive: ympäri maailmaa = around the world).",
+      "examples": ["Juoksin talon ympäri. — I ran around the house.", "Matkustan ympäri maailmaa. — I travel around the world."]
+    },
+    {
+      "id": "prepositions-015",
+      "finnish": "vastaan",
+      "english": "against",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'VAS-taan'. POSTPOSITION: comes after the noun in partitive case. 'Sääntöjä vastaan' = against the rules. Double 'a' is long.",
+      "examples": ["Suomi pelaa Ruotsia vastaan. — Finland plays against Sweden.", "Olen tätä vastaan. — I am against this."]
+    },
+    {
+      "id": "prepositions-016",
+      "finnish": "mukaan",
+      "english": "according to / along",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'MU-kaan'. POSTPOSITION: comes after the noun in genitive case. 'Sääntöjen mukaan' = according to the rules. Also means 'along/with' in phrases like 'tule mukaan' = come along.",
+      "examples": ["Sääennusteen mukaan sataa huomenna. — According to the weather forecast it will rain tomorrow.", "Tule mukaan! — Come along!"]
+    },
+    {
+      "id": "prepositions-017",
+      "finnish": "välissä",
+      "english": "between / in between",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 3,
+      "notes": "Pronounced 'VÄ-lis-sä'. POSTPOSITION: comes after the noun in genitive case. 'Talojen välissä' = between the houses. From 'väli' (gap/space). Double 's' is long.",
+      "examples": ["Puisto on talojen välissä. — The park is between the houses.", "Istun teidän välissänne. — I sit between you (plural)."]
+    },
+    {
+      "id": "prepositions-018",
+      "finnish": "keskellä",
+      "english": "in the middle of",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 3,
+      "notes": "Pronounced 'KES-kel-lä'. POSTPOSITION: comes after the noun in genitive case. 'Huoneen keskellä' = in the middle of the room. From 'keski' (middle). Double 'l' is long.",
+      "examples": ["Pöytä on huoneen keskellä. — The table is in the middle of the room.", "Keskellä yötä heräsin. — In the middle of the night I woke up."]
+    },
+    {
+      "id": "prepositions-019",
+      "finnish": "vieressä",
+      "english": "next to / beside",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'VIE-res-sä'. POSTPOSITION: comes after the noun in genitive case. 'Talon vieressä' = next to the house. From 'vieri' (side). Double 's' is long.",
+      "examples": ["Istun sinun vieressäsi. — I sit next to you.", "Kauppa on pankin vieressä. — The shop is next to the bank."]
+    },
+    {
+      "id": "prepositions-020",
+      "finnish": "päällä",
+      "english": "on top of / on",
+      "category": "prepositions",
+      "partOfSpeech": "other",
+      "difficulty": 2,
+      "notes": "Pronounced 'PÄÄL-lä'. POSTPOSITION: comes after the noun in genitive case. 'Pöydän päällä' = on top of the table. From 'pää' (head/top). Double 'ä' and double 'l' are long.",
+      "examples": ["Kirja on pöydän päällä. — The book is on top of the table.", "Kissa istuu sohvan päällä. — The cat sits on the sofa."]
+    }
+  ]
+}

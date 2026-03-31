@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import { Search, ArrowLeft } from 'lucide-react';
+import { Search, ArrowLeft, Play } from 'lucide-react';
 import { getPhrasesByCategory, getPhraseCategoryMeta } from '../../data/phrases/_index';
 import { DynamicIcon } from '../../lib/icons';
 import { db } from '../../lib/db';
@@ -108,6 +108,15 @@ export function PhraseList() {
           </p>
         </div>
       </div>
+
+      {/* Start lesson button */}
+      <button
+        onClick={() => navigate(`/practice?category=${categoryId}&type=phrase&autostart=true`)}
+        className="btn-primary flex items-center justify-center gap-2"
+      >
+        <Play className="w-5 h-5" />
+        Start Lesson
+      </button>
 
       {/* Search */}
       <div className="relative">

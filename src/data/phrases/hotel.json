@@ -1,0 +1,209 @@
+{
+  "category": "hotel",
+  "categoryLabel": "Hotel & Accommodation",
+  "icon": "bed",
+  "description": "Phrases for hotels, hostels, and accommodation situations",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "hotel-001",
+      "finnish": "Haluaisin varata huoneen.",
+      "english": "I would like to book a room.",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Would-like-I book room(genitive/accusative).",
+      "notes": "'Varata' means 'to book/reserve'. 'Huoneen' is the genitive/accusative of 'huone' (room). The conditional 'haluaisin' makes the request polite. Many Finnish hotels can also be booked online.",
+      "words": ["haluta", "varata", "huone"]
+    },
+    {
+      "id": "hotel-002",
+      "finnish": "Onko teillä vapaita huoneita?",
+      "english": "Do you have available rooms?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Is you-on(adessive) free(partitive plural) rooms(partitive plural)?",
+      "notes": "'Vapaita' is the partitive plural of 'vapaa' (free/available). 'Huoneita' is the partitive plural of 'huone'. The partitive plural is used because we're asking about an unspecified number of rooms.",
+      "words": ["olla", "te", "vapaa", "huone"]
+    },
+    {
+      "id": "hotel-003",
+      "finnish": "Yhden hengen huone.",
+      "english": "Single room.",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "One person's room.",
+      "notes": "'Yhden' is the genitive of 'yksi' (one). 'Hengen' is the genitive of 'henki' (person/spirit, here meaning 'person'). This is the standard way to request a single room in Finnish hotels.",
+      "words": ["yksi", "henki", "huone"]
+    },
+    {
+      "id": "hotel-004",
+      "finnish": "Kahden hengen huone.",
+      "english": "Double room.",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Two persons' room.",
+      "notes": "'Kahden' is the genitive of 'kaksi' (two). Same structure as single room. You can specify bed type: 'parisängyllä' (with a double bed) or 'erillisillä vuoteilla' (with separate beds).",
+      "words": ["kaksi", "henki", "huone"]
+    },
+    {
+      "id": "hotel-005",
+      "finnish": "Kuinka paljon yö maksaa?",
+      "english": "How much per night?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "How much night costs?",
+      "notes": "'Yö' means 'night'. 'Maksaa' means 'to cost'. Finnish hotel prices typically include VAT (ALV). Breakfast may or may not be included, so always ask.",
+      "words": ["kuinka", "paljon", "yö", "maksaa"]
+    },
+    {
+      "id": "hotel-006",
+      "finnish": "Sisältyykö aamiainen?",
+      "english": "Is breakfast included?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Is-included breakfast?",
+      "notes": "'Sisältyykö' is from 'sisältyä' (to be included), with the question suffix '-kö'. 'Aamiainen' means 'breakfast'. Finnish hotel breakfasts are typically generous buffets with bread, porridge, cold cuts, and coffee.",
+      "words": ["sisältyä", "aamiainen"]
+    },
+    {
+      "id": "hotel-007",
+      "finnish": "Mihin aikaan on sisäänkirjautuminen?",
+      "english": "What time is check-in?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "What time-to(illative) is in-registration?",
+      "notes": "'Mihin aikaan' means 'at what time'. 'Sisäänkirjautuminen' is a compound word from 'sisään' (in) + 'kirjautuminen' (registration/logging in). Check-in in Finnish hotels is typically at 14:00-16:00.",
+      "words": ["mikä", "aika", "olla", "sisäänkirjautuminen"]
+    },
+    {
+      "id": "hotel-008",
+      "finnish": "Mihin aikaan on uloskirjautuminen?",
+      "english": "What time is check-out?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "What time-to(illative) is out-registration?",
+      "notes": "'Uloskirjautuminen' is a compound word from 'ulos' (out) + 'kirjautuminen' (registration). Check-out in Finnish hotels is typically by 11:00-12:00.",
+      "words": ["mikä", "aika", "olla", "uloskirjautuminen"]
+    },
+    {
+      "id": "hotel-009",
+      "finnish": "Missä on hissi?",
+      "english": "Where is the elevator?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Where is elevator?",
+      "notes": "'Hissi' means 'elevator/lift'. Most Finnish hotels have elevators. Ground floor is called 'ensimmäinen kerros' (first floor) or sometimes '0. kerros'.",
+      "words": ["missä", "olla", "hissi"]
+    },
+    {
+      "id": "hotel-010",
+      "finnish": "Huoneessani on ongelma.",
+      "english": "There's a problem with my room.",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Room-my-in(inessive) is problem.",
+      "notes": "'Huoneessani' is the inessive case of 'huone' with the possessive suffix '-ni' (my). 'Ongelma' means 'problem'. Use this to start a complaint at the front desk ('vastaanotto').",
+      "words": ["huone", "olla", "ongelma"]
+    },
+    {
+      "id": "hotel-011",
+      "finnish": "Tarvitsen ylimääräisen tyynyn.",
+      "english": "I need an extra pillow.",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Need-I extra pillow(genitive/accusative).",
+      "notes": "'Ylimääräisen' is the genitive/accusative of 'ylimääräinen' (extra). 'Tyynyn' is the genitive/accusative of 'tyyny' (pillow). Finnish hotels generally provide high-quality bedding.",
+      "words": ["tarvita", "ylimääräinen", "tyyny"]
+    },
+    {
+      "id": "hotel-012",
+      "finnish": "Ilmastointi ei toimi.",
+      "english": "The AC doesn't work.",
+      "category": "hotel",
+      "difficulty": 2,
+      "literalTranslation": "Air-conditioning not works.",
+      "notes": "'Ilmastointi' means 'air conditioning'. 'Ei toimi' means 'doesn't work' (negative of 'toimia'). Note that many older Finnish hotels may not have AC, as summer temperatures are usually mild.",
+      "words": ["ilmastointi", "ei", "toimia"]
+    },
+    {
+      "id": "hotel-013",
+      "finnish": "Haluaisin herätyksen kello seitsemältä.",
+      "english": "I'd like a wake-up call at seven.",
+      "category": "hotel",
+      "difficulty": 2,
+      "literalTranslation": "Would-like-I wake-up clock seven-from(ablative).",
+      "notes": "'Herätys' means 'wake-up (call)'. 'Kello seitsemältä' means 'at seven o'clock' using the ablative case for time. Finnish uses 24-hour clock in formal settings, so 7 AM would be 'kello 7' and 7 PM 'kello 19'.",
+      "words": ["haluta", "herätys", "kello", "seitsemän"]
+    },
+    {
+      "id": "hotel-014",
+      "finnish": "Onko wifi ilmainen?",
+      "english": "Is the wifi free?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Is wifi free?",
+      "notes": "'Ilmainen' means 'free (of charge)'. Most Finnish hotels offer free wifi. You can also ask 'Mikä on wifi-salasana?' (What is the wifi password?).",
+      "words": ["olla", "wifi", "ilmainen"]
+    },
+    {
+      "id": "hotel-015",
+      "finnish": "Missä on uima-allas?",
+      "english": "Where is the pool?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Where is swimming-pool?",
+      "notes": "'Uima-allas' is a compound word from 'uima' (swimming) + 'allas' (pool/basin). Many Finnish hotels also have a sauna ('sauna'), which is a must-try cultural experience.",
+      "words": ["missä", "olla", "uima-allas"]
+    },
+    {
+      "id": "hotel-016",
+      "finnish": "Voisinko saada avaimen?",
+      "english": "Could I get a key?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Could-I get key(genitive/accusative)?",
+      "notes": "'Voisinko' is the conditional of 'voida' with question suffix '-ko', meaning 'could I'. 'Avaimen' is the genitive/accusative of 'avain' (key). Most Finnish hotels now use key cards ('avainkortti').",
+      "words": ["voida", "saada", "avain"]
+    },
+    {
+      "id": "hotel-017",
+      "finnish": "Haluaisin jatkaa varaustani.",
+      "english": "I'd like to extend my stay.",
+      "category": "hotel",
+      "difficulty": 2,
+      "literalTranslation": "Would-like-I continue reservation-my(partitive).",
+      "notes": "'Jatkaa' means 'to continue/extend'. 'Varaustani' is the partitive of 'varaus' (reservation) with possessive suffix '-ni' (my). Subject to availability.",
+      "words": ["haluta", "jatkaa", "varaus"]
+    },
+    {
+      "id": "hotel-018",
+      "finnish": "Missä voin pysäköidä?",
+      "english": "Where can I park?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Where can-I park?",
+      "notes": "'Pysäköidä' means 'to park'. Hotel parking in Finland may be free or paid. In cities, parking is often in underground garages ('parkkihalli'). Look for the blue 'P' sign.",
+      "words": ["missä", "voida", "pysäköidä"]
+    },
+    {
+      "id": "hotel-019",
+      "finnish": "Voitteko kutsua taksin?",
+      "english": "Can you call a taxi?",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Can-you(formal) call taxi(genitive/accusative)?",
+      "notes": "'Voitteko' is the formal/plural 'can you' from 'voida'. 'Kutsua' means 'to call/summon'. Finnish taxis can also be ordered via apps like Taksi Helsinki or Uber (available in larger cities).",
+      "words": ["voida", "kutsua", "taksi"]
+    },
+    {
+      "id": "hotel-020",
+      "finnish": "Kiitos majoituksesta.",
+      "english": "Thank you for the accommodation.",
+      "category": "hotel",
+      "difficulty": 1,
+      "literalTranslation": "Thanks accommodation-from(elative).",
+      "notes": "'Majoituksesta' is the elative case of 'majoitus' (accommodation). 'Kiitos' + elative case is the standard Finnish way to say 'thank you for...'. A polite phrase when checking out.",
+      "words": ["kiitos", "majoitus"]
+    }
+  ]
+}

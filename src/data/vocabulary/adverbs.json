@@ -1,0 +1,259 @@
+{
+  "category": "adverbs",
+  "categoryLabel": "Adverbs",
+  "icon": "arrow-right",
+  "description": "Common Finnish adverbs for describing how, when, and where",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "adverbs-001",
+      "finnish": "nopeasti",
+      "english": "quickly / fast",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'NO-pe-as-ti'. Formed from adjective 'nopea' (fast) + -sti suffix, similar to English '-ly'.",
+      "examples": ["Hän juoksee nopeasti. — He/she runs quickly.", "Tule nopeasti! — Come quickly!"]
+    },
+    {
+      "id": "adverbs-002",
+      "finnish": "hitaasti",
+      "english": "slowly",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'HI-taas-ti'. From adjective 'hidas' (slow) + -sti suffix. Double 'a' is long.",
+      "examples": ["Puhu hitaasti, kiitos. — Speak slowly, please.", "Auto ajoi hitaasti. — The car drove slowly."]
+    },
+    {
+      "id": "adverbs-003",
+      "finnish": "hyvin",
+      "english": "well / very",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'HY-vin'. Extremely common. Means 'well' (manner) and also 'very' (degree). From 'hyvä' (good).",
+      "examples": ["Puhut suomea hyvin. — You speak Finnish well.", "Olen hyvin väsynyt. — I am very tired."]
+    },
+    {
+      "id": "adverbs-004",
+      "finnish": "huonosti",
+      "english": "badly / poorly",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'HUO-nos-ti'. From adjective 'huono' (bad) + -sti suffix. The 'uo' is a diphthong.",
+      "examples": ["Nukuin huonosti. — I slept badly.", "Koe meni huonosti. — The exam went poorly."]
+    },
+    {
+      "id": "adverbs-005",
+      "finnish": "paljon",
+      "english": "a lot / much",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'PAL-jon'. Very common word. Used with partitive case: paljon vettä (a lot of water).",
+      "examples": ["Kiitos paljon! — Thank you very much!", "Syön paljon hedelmiä. — I eat a lot of fruits."]
+    },
+    {
+      "id": "adverbs-006",
+      "finnish": "vähän",
+      "english": "a little / a bit",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'VÄ-hän'. Both vowels are front vowels (ä). Used with partitive: vähän maitoa (a little milk).",
+      "examples": ["Puhun vähän suomea. — I speak a little Finnish.", "Odota vähän. — Wait a little."]
+    },
+    {
+      "id": "adverbs-007",
+      "finnish": "aina",
+      "english": "always",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'AI-na'. The 'ai' diphthong. Short and very common word.",
+      "examples": ["Hän on aina myöhässä. — He/she is always late.", "Juon aina kahvia aamulla. — I always drink coffee in the morning."]
+    },
+    {
+      "id": "adverbs-008",
+      "finnish": "usein",
+      "english": "often",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'U-sein'. The 'ei' diphthong sounds like 'ay' in 'say'.",
+      "examples": ["Käyn usein kirjastossa. — I often visit the library.", "Syömme usein ulkona. — We often eat out."]
+    },
+    {
+      "id": "adverbs-009",
+      "finnish": "joskus",
+      "english": "sometimes",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'JOS-kus'. From 'jos' (if) + -kus. Used for occasional events.",
+      "examples": ["Joskus sataa. — Sometimes it rains.", "Käyn joskus uimassa. — I sometimes go swimming."]
+    },
+    {
+      "id": "adverbs-010",
+      "finnish": "harvoin",
+      "english": "rarely / seldom",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'HAR-voin'. From 'harva' (sparse/rare). The 'oi' is a diphthong.",
+      "examples": ["Syön harvoin lihaa. — I rarely eat meat.", "Hän tulee harvoin myöhään. — He/she rarely comes late."]
+    },
+    {
+      "id": "adverbs-011",
+      "finnish": "koskaan",
+      "english": "never / ever",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'KOS-kaan'. Double 'a' is long. Used with 'ei' for 'never': en koskaan = I never. Without negation, means 'ever'.",
+      "examples": ["En ole koskaan käynyt Suomessa. — I have never been to Finland.", "Oletko koskaan maistanut salmiakkia? — Have you ever tasted salmiak?"]
+    },
+    {
+      "id": "adverbs-012",
+      "finnish": "jo",
+      "english": "already",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'YO'. Very short word, just one syllable. Extremely common in everyday speech.",
+      "examples": ["Olen jo syönyt. — I have already eaten.", "Onko hän jo täällä? — Is he/she already here?"]
+    },
+    {
+      "id": "adverbs-013",
+      "finnish": "vielä",
+      "english": "still / yet",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'VIE-lä'. The 'ie' diphthong. Means 'still' in positive sentences, 'yet' in questions and negatives.",
+      "examples": ["Hän nukkuu vielä. — He/she is still sleeping.", "Ei vielä. — Not yet."]
+    },
+    {
+      "id": "adverbs-014",
+      "finnish": "nyt",
+      "english": "now",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'NYT'. Short one-syllable word. The 'y' sounds like German 'ü'. Very common.",
+      "examples": ["Tule tänne nyt! — Come here now!", "Mitä teemme nyt? — What do we do now?"]
+    },
+    {
+      "id": "adverbs-015",
+      "finnish": "sitten",
+      "english": "then / after that",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'SIT-ten'. Double 't' is long. Used for sequence ('then') and past time ('ago'): kaksi vuotta sitten = two years ago.",
+      "examples": ["Ensin syömme, sitten lähdemme. — First we eat, then we leave.", "Kaksi päivää sitten. — Two days ago."]
+    },
+    {
+      "id": "adverbs-016",
+      "finnish": "täällä",
+      "english": "here (in this place)",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'TÄÄL-lä'. Double 'ä' and double 'l'. Means 'here' as a location. Compare: 'tänne' = 'to here' (direction).",
+      "examples": ["Istun täällä. — I'm sitting here.", "Onko kukaan täällä? — Is anyone here?"]
+    },
+    {
+      "id": "adverbs-017",
+      "finnish": "siellä",
+      "english": "there (in that place)",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'SIEL-lä'. Double 'l'. Means 'there' as a location. Compare: 'sinne' = 'to there' (direction).",
+      "examples": ["Hän asuu siellä. — He/she lives there.", "Mitä siellä tapahtuu? — What's happening there?"]
+    },
+    {
+      "id": "adverbs-018",
+      "finnish": "yllä",
+      "english": "above / overhead",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'YL-lä'. Double 'l' is long. Used as an adverb or postposition with genitive: pöydän yllä = above the table.",
+      "examples": ["Lamppu on yllä. — The lamp is above.", "Lintu lensi meidän yllämme. — A bird flew above us."]
+    },
+    {
+      "id": "adverbs-019",
+      "finnish": "alla",
+      "english": "below / underneath",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'AL-la'. Double 'l' is long. Used as adverb or postposition with genitive: pöydän alla = under the table.",
+      "examples": ["Kissa on pöydän alla. — The cat is under the table.", "Laita se tämän alle. — Put it under this."]
+    },
+    {
+      "id": "adverbs-020",
+      "finnish": "edessä",
+      "english": "in front (of)",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'E-des-sä'. Double 's' is long. Also a postposition with genitive: talon edessä = in front of the house.",
+      "examples": ["Auto on talon edessä. — The car is in front of the house.", "Istun sinun edessäsi. — I sit in front of you."]
+    },
+    {
+      "id": "adverbs-021",
+      "finnish": "takana",
+      "english": "behind",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'TA-ka-na'. Also a postposition with genitive: talon takana = behind the house.",
+      "examples": ["Puisto on talon takana. — The park is behind the house.", "Kuka on oven takana? — Who is behind the door?"]
+    },
+    {
+      "id": "adverbs-022",
+      "finnish": "lähellä",
+      "english": "near / close by",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'LÄ-hel-lä'. Double 'l' is long. Also a postposition with partitive: koulua lähellä = near the school.",
+      "examples": ["Kauppa on lähellä. — The shop is nearby.", "Asun lähellä keskustaa. — I live near the center."]
+    },
+    {
+      "id": "adverbs-023",
+      "finnish": "kaukana",
+      "english": "far (away)",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 1,
+      "notes": "Pronounced 'KAU-ka-na'. The 'au' diphthong. Opposite of 'lähellä'. Also postposition with elative: kaupungista kaukana = far from the city.",
+      "examples": ["Lentokenttä on kaukana. — The airport is far away.", "Hän asuu kaukana täältä. — He/she lives far from here."]
+    },
+    {
+      "id": "adverbs-024",
+      "finnish": "yhdessä",
+      "english": "together",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'YH-des-sä'. From 'yksi' (one). Double 's' is long. A warm, commonly used word.",
+      "examples": ["Teemme työtä yhdessä. — We work together.", "Syödään yhdessä. — Let's eat together."]
+    },
+    {
+      "id": "adverbs-025",
+      "finnish": "erikseen",
+      "english": "separately / apart",
+      "category": "adverbs",
+      "partOfSpeech": "adverb",
+      "difficulty": 2,
+      "notes": "Pronounced 'E-rik-seen'. Double 'e' at the end is long. Opposite of 'yhdessä'.",
+      "examples": ["Maksamme erikseen. — We pay separately.", "Pidä nämä erikseen. — Keep these separate."]
+    }
+  ]
+}

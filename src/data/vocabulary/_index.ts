@@ -18,6 +18,16 @@ import travelData from './travel.json';
 import emotionsData from './emotions.json';
 import verbsCommonData from './verbs-common.json';
 import adjectivesData from './adjectives.json';
+import kitchenData from './kitchen.json';
+import cityData from './city.json';
+import natureData from './nature.json';
+import adverbsData from './adverbs.json';
+import prepositionsData from './prepositions.json';
+import clothingData from './clothing.json';
+import healthData from './health.json';
+import technologyData from './technology.json';
+import professionsData from './professions.json';
+import sportsHobbiesData from './sports-hobbies.json';
 
 /** Metadata for a vocabulary category (without items for lightweight listing) */
 export interface VocabCategoryMeta {
@@ -79,6 +89,16 @@ register(travelData as unknown as Parameters<typeof register>[0]);
 register(emotionsData as unknown as Parameters<typeof register>[0]);
 register(verbsCommonData as unknown as Parameters<typeof register>[0]);
 register(adjectivesData as unknown as Parameters<typeof register>[0]);
+register(kitchenData as unknown as Parameters<typeof register>[0]);
+register(cityData as unknown as Parameters<typeof register>[0]);
+register(natureData as unknown as Parameters<typeof register>[0]);
+register(adverbsData as unknown as Parameters<typeof register>[0]);
+register(prepositionsData as unknown as Parameters<typeof register>[0]);
+register(clothingData as unknown as Parameters<typeof register>[0]);
+register(healthData as unknown as Parameters<typeof register>[0]);
+register(technologyData as unknown as Parameters<typeof register>[0]);
+register(professionsData as unknown as Parameters<typeof register>[0]);
+register(sportsHobbiesData as unknown as Parameters<typeof register>[0]);
 
 /**
  * Ordered list of all vocabulary category metadata.
@@ -103,6 +123,16 @@ export const categories: VocabCategoryMeta[] = [
   categoryMap['emotions'].meta,
   categoryMap['verbs-common'].meta,
   categoryMap['adjectives'].meta,
+  categoryMap['kitchen'].meta,
+  categoryMap['city'].meta,
+  categoryMap['nature'].meta,
+  categoryMap['adverbs'].meta,
+  categoryMap['prepositions'].meta,
+  categoryMap['clothing'].meta,
+  categoryMap['health'].meta,
+  categoryMap['technology'].meta,
+  categoryMap['professions'].meta,
+  categoryMap['sports-hobbies'].meta,
 ];
 
 /** Flat array of ALL vocabulary items across all categories */

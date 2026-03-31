@@ -6,6 +6,11 @@ import restaurantData from './restaurant.json';
 import directionsData from './directions.json';
 import emergencyData from './emergency.json';
 import dailyLifeData from './daily-life.json';
+import shoppingPhrasesData from './shopping-phrases.json';
+import hotelData from './hotel.json';
+import doctorData from './doctor.json';
+import transportPhrasesData from './transport-phrases.json';
+import socialData from './social.json';
 
 /** Metadata for a phrase category (without items for lightweight listing) */
 export interface PhraseCategoryMeta {
@@ -55,6 +60,11 @@ register(restaurantData as unknown as Parameters<typeof register>[0]);
 register(directionsData as unknown as Parameters<typeof register>[0]);
 register(emergencyData as unknown as Parameters<typeof register>[0]);
 register(dailyLifeData as unknown as Parameters<typeof register>[0]);
+register(shoppingPhrasesData as unknown as Parameters<typeof register>[0]);
+register(hotelData as unknown as Parameters<typeof register>[0]);
+register(doctorData as unknown as Parameters<typeof register>[0]);
+register(transportPhrasesData as unknown as Parameters<typeof register>[0]);
+register(socialData as unknown as Parameters<typeof register>[0]);
 
 /**
  * Ordered list of all phrase category metadata.
@@ -67,6 +77,11 @@ export const categories: PhraseCategoryMeta[] = [
   categoryMap['directions'].meta,
   categoryMap['emergency'].meta,
   categoryMap['daily-life'].meta,
+  categoryMap['shopping-phrases'].meta,
+  categoryMap['hotel'].meta,
+  categoryMap['doctor'].meta,
+  categoryMap['transport-phrases'].meta,
+  categoryMap['social'].meta,
 ];
 
 /** Flat array of ALL phrase items across all categories */

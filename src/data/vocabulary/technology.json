@@ -1,0 +1,259 @@
+{
+  "category": "technology",
+  "categoryLabel": "Technology",
+  "icon": "smartphone",
+  "description": "Technology, devices, and digital terms",
+  "difficulty": 2,
+  "items": [
+    {
+      "id": "technology-001",
+      "finnish": "tietokone",
+      "english": "computer",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TIE-to-KO-ne'. Compound: tieto (knowledge/data) + kone (machine). Partitive: tietokonetta.",
+      "examples": ["Tietokone on pöydällä. — The computer is on the desk.", "Tarvitsen uuden tietokoneen. — I need a new computer."]
+    },
+    {
+      "id": "technology-002",
+      "finnish": "puhelin",
+      "english": "phone",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PU-he-lin'. Derived from 'puhe' (speech). Partitive: puhelinta. 'Matkapuhelin' = mobile phone.",
+      "examples": ["Missä puhelimeni on? — Where is my phone?", "Puhelin soi. — The phone is ringing."]
+    },
+    {
+      "id": "technology-003",
+      "finnish": "näyttö",
+      "english": "screen / display",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'NÄYT-tö'. Derived from 'näyttää' (to show). Partitive: näyttöä. Also means 'evidence' in legal context.",
+      "examples": ["Näyttö on liian pieni. — The screen is too small.", "Tietokoneen näyttö on rikki. — The computer screen is broken."]
+    },
+    {
+      "id": "technology-004",
+      "finnish": "näppäimistö",
+      "english": "keyboard",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'NÄP-päi-MIS-tö'. Derived from 'näppäin' (key/button). Partitive: näppäimistöä.",
+      "examples": ["Näppäimistö on langaton. — The keyboard is wireless.", "Tarvitsen suomalaisen näppäimistön. — I need a Finnish keyboard."]
+    },
+    {
+      "id": "technology-005",
+      "finnish": "hiiri",
+      "english": "mouse",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HII-ri'. Same word as the animal 'mouse'. Partitive: hiirtä. Plural: hiiret.",
+      "examples": ["Hiiri ei toimi. — The mouse is not working.", "Ostan langattoman hiiren. — I will buy a wireless mouse."]
+    },
+    {
+      "id": "technology-006",
+      "finnish": "tulostin",
+      "english": "printer",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TU-los-tin'. Derived from 'tulostaa' (to print). Partitive: tulostinta. Plural: tulostimet.",
+      "examples": ["Tulostin on paperitukossa. — The printer has a paper jam.", "Tarvitsen uuden tulostimen. — I need a new printer."]
+    },
+    {
+      "id": "technology-007",
+      "finnish": "internet",
+      "english": "internet",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'IN-ter-net'. Loanword, used as-is. Also 'netti' in casual speech. Inessive: internetissä (on the internet).",
+      "examples": ["Internet ei toimi. — The internet is not working.", "Etsin tietoa internetistä. — I search for information on the internet."]
+    },
+    {
+      "id": "technology-008",
+      "finnish": "sähköposti",
+      "english": "email",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SÄH-kö-POS-ti'. Compound: sähkö (electricity) + posti (mail). Often shortened to 'meili' in casual speech.",
+      "examples": ["Lähetin sinulle sähköpostin. — I sent you an email.", "Tarkista sähköpostisi. — Check your email."]
+    },
+    {
+      "id": "technology-009",
+      "finnish": "salasana",
+      "english": "password",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SA-la-SA-na'. Compound: sala (secret) + sana (word). Partitive: salasanaa.",
+      "examples": ["Unohdin salasanani. — I forgot my password.", "Vaihda salasana säännöllisesti. — Change the password regularly."]
+    },
+    {
+      "id": "technology-010",
+      "finnish": "sovellus",
+      "english": "app / application",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SO-vel-lus'. Derived from 'soveltaa' (to apply). Partitive: sovellusta. Often 'äppi' in casual speech.",
+      "examples": ["Lataa sovellus puhelimeesi. — Download the app to your phone.", "Tämä sovellus on hyödyllinen. — This app is useful."]
+    },
+    {
+      "id": "technology-011",
+      "finnish": "verkkosivusto",
+      "english": "website",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'VERK-ko-SI-vus-to'. Compound: verkko (net) + sivusto (site). Often shortened to 'verkkosivu' or 'nettisivu'.",
+      "examples": ["Verkkosivusto on päivitetty. — The website has been updated.", "Käy yrityksen verkkosivustolla. — Visit the company's website."]
+    },
+    {
+      "id": "technology-012",
+      "finnish": "kamera",
+      "english": "camera",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KA-me-ra'. Loanword, easy to recognize. Partitive: kameraa. Plural: kamerat.",
+      "examples": ["Puhelimen kamera on hyvä. — The phone's camera is good.", "Ostan uuden kameran. — I will buy a new camera."]
+    },
+    {
+      "id": "technology-013",
+      "finnish": "kuulokkeet",
+      "english": "headphones",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KUU-lok-keet'. Plural of 'kuuloke', derived from 'kuulla' (to hear). Always used in plural.",
+      "examples": ["Missä kuulokkeeni ovat? — Where are my headphones?", "Nämä kuulokkeet ovat langattomat. — These headphones are wireless."]
+    },
+    {
+      "id": "technology-014",
+      "finnish": "tabletti",
+      "english": "tablet",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TAB-let-ti'. Loanword from English. Double 't'. Partitive: tablettia. Plural: tabletit.",
+      "examples": ["Luen kirjoja tabletilla. — I read books on a tablet.", "Tabletti on kevyt ja kätevä. — A tablet is light and handy."]
+    },
+    {
+      "id": "technology-015",
+      "finnish": "laturi",
+      "english": "charger",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LA-tu-ri'. Derived from 'ladata' (to charge/load). Partitive: laturia. Plural: laturit.",
+      "examples": ["Unohdin laturin kotiin. — I forgot the charger at home.", "Puhelin tarvitsee laturin. — The phone needs a charger."]
+    },
+    {
+      "id": "technology-016",
+      "finnish": "wifi",
+      "english": "wifi",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'VEE-fee' in Finnish (not 'why-fye'). Used as-is in Finnish. Also 'langaton verkko' (wireless network).",
+      "examples": ["Onko täällä wifi? — Is there wifi here?", "Wifi-salasana on tiskillä. — The wifi password is at the counter."]
+    },
+    {
+      "id": "technology-017",
+      "finnish": "päivitys",
+      "english": "update",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PÄI-vi-tys'. Derived from 'päivittää' (to update). Partitive: päivitystä. Plural: päivitykset.",
+      "examples": ["Asenna päivitys nyt. — Install the update now.", "Sovellus tarvitsee päivityksen. — The app needs an update."]
+    },
+    {
+      "id": "technology-018",
+      "finnish": "lataus",
+      "english": "download",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LA-ta-us'. Derived from 'ladata' (to download/charge). Can mean both download and charging. Partitive: latausta.",
+      "examples": ["Lataus on valmis. — The download is complete.", "Tiedoston lataus kestää hetken. — The file download takes a moment."]
+    },
+    {
+      "id": "technology-019",
+      "finnish": "tallentaa",
+      "english": "to save",
+      "category": "technology",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Pronounced 'TAL-len-taa'. Infinitive form. Conjugation: tallennan (I save), tallennat (you save). Also means 'to record'.",
+      "examples": ["Muista tallentaa tiedosto. — Remember to save the file.", "Tallennan työn joka tunti. — I save the work every hour."]
+    },
+    {
+      "id": "technology-020",
+      "finnish": "hakukone",
+      "english": "search engine",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'HA-ku-KO-ne'. Compound: haku (search) + kone (machine). Partitive: hakukonetta.",
+      "examples": ["Google on suosittu hakukone. — Google is a popular search engine.", "Käytä hakukonetta tiedon etsimiseen. — Use a search engine to find information."]
+    },
+    {
+      "id": "technology-021",
+      "finnish": "selain",
+      "english": "browser",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SE-lain'. Derived from 'selata' (to browse). Partitive: selainta. Plural: selaimet.",
+      "examples": ["Avaa selain ja kirjoita osoite. — Open the browser and type the address.", "Mikä selain sinulla on? — Which browser do you have?"]
+    },
+    {
+      "id": "technology-022",
+      "finnish": "tekoäly",
+      "english": "AI / artificial intelligence",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TE-ko-Ä-ly'. Compound: teko (artificial/made) + äly (intelligence). A modern and increasingly common term.",
+      "examples": ["Tekoäly kehittyy nopeasti. — AI is developing rapidly.", "Tekoäly auttaa monissa tehtävissä. — AI helps with many tasks."]
+    },
+    {
+      "id": "technology-023",
+      "finnish": "ohjelma",
+      "english": "program",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'OH-jel-ma'. Can mean a computer program or a TV program. Partitive: ohjelmaa. Plural: ohjelmat.",
+      "examples": ["Ohjelma kaatui. — The program crashed.", "Asenna ohjelma tietokoneelle. — Install the program on the computer."]
+    },
+    {
+      "id": "technology-024",
+      "finnish": "tiedosto",
+      "english": "file",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TIE-dos-to'. Derived from 'tieto' (data/knowledge). Partitive: tiedostoa. Plural: tiedostot.",
+      "examples": ["Avaa tiedosto klikkaamalla. — Open the file by clicking.", "Tiedosto on liian suuri. — The file is too large."]
+    },
+    {
+      "id": "technology-025",
+      "finnish": "pilvi",
+      "english": "cloud",
+      "category": "technology",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PIL-vi'. Same word as weather 'cloud'. In tech context: 'pilvipalvelu' = cloud service. Partitive: pilveä.",
+      "examples": ["Tallenna tiedostot pilveen. — Save the files to the cloud.", "Pilvipalvelu on kätevä. — A cloud service is handy."]
+    }
+  ]
+}

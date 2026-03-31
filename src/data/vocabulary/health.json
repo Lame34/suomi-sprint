@@ -1,0 +1,259 @@
+{
+  "category": "health",
+  "categoryLabel": "Health & Body",
+  "icon": "heart-pulse",
+  "description": "Health, medical terms, and well-being",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "health-001",
+      "finnish": "lääkäri",
+      "english": "doctor",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LÄÄ-kä-ri'. One of the most important words to know. Partitive: lääkäriä. Plural: lääkärit.",
+      "examples": ["Minun täytyy mennä lääkäriin. — I have to go to the doctor.", "Lääkäri tutkii potilaan. — The doctor examines the patient."]
+    },
+    {
+      "id": "health-002",
+      "finnish": "sairaala",
+      "english": "hospital",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SAI-raa-la'. Derived from 'sairas' (sick). Partitive: sairaalaa. Inessive: sairaalassa (in the hospital).",
+      "examples": ["Sairaala on lähellä. — The hospital is nearby.", "Hän on sairaalassa. — He/she is in the hospital."]
+    },
+    {
+      "id": "health-003",
+      "finnish": "apteekki",
+      "english": "pharmacy",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'AP-teek-ki'. Loanword from German/Swedish. Double 'k'. Partitive: apteekkia.",
+      "examples": ["Apteekki on avoinna klo 9–18. — The pharmacy is open 9–18.", "Ostan lääkkeet apteekista. — I buy the medicines from the pharmacy."]
+    },
+    {
+      "id": "health-004",
+      "finnish": "lääke",
+      "english": "medicine / medication",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LÄÄ-ke'. Related to 'lääkäri' (doctor). Partitive: lääkettä. Plural: lääkkeet.",
+      "examples": ["Ota lääke kolme kertaa päivässä. — Take the medicine three times a day.", "Tämä lääke auttaa kipuun. — This medicine helps with pain."]
+    },
+    {
+      "id": "health-005",
+      "finnish": "kipu",
+      "english": "pain",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KI-pu'. Essential medical vocabulary. Partitive: kipua. 'Minulla on kipua' = I have pain.",
+      "examples": ["Minulla on kipua selässä. — I have pain in my back.", "Kipu on kova. — The pain is severe."]
+    },
+    {
+      "id": "health-006",
+      "finnish": "kuume",
+      "english": "fever",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KUU-me'. Partitive: kuumetta. 'Minulla on kuumetta' = I have a fever.",
+      "examples": ["Lapsella on kuumetta. — The child has a fever.", "Kuume nousi yöllä. — The fever rose during the night."]
+    },
+    {
+      "id": "health-007",
+      "finnish": "yskä",
+      "english": "cough",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'YS-kä'. Partitive: yskää. The verb 'to cough' is 'yskiä'. Note the y is pronounced like German ü.",
+      "examples": ["Minulla on paha yskä. — I have a bad cough.", "Yskä ei lopu. — The cough does not stop."]
+    },
+    {
+      "id": "health-008",
+      "finnish": "nuha",
+      "english": "cold / runny nose",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'NU-ha'. Specifically refers to a runny nose or nasal congestion. Partitive: nuhaa.",
+      "examples": ["Minulla on nuha. — I have a runny nose.", "Nuha on yleinen talvella. — A cold is common in winter."]
+    },
+    {
+      "id": "health-009",
+      "finnish": "päänsärky",
+      "english": "headache",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'PÄÄN-sär-ky'. Compound: pään (head's) + särky (ache). Pattern: body part + särky = that body part ache.",
+      "examples": ["Minulla on päänsärky. — I have a headache.", "Päänsärky johtuu stressistä. — The headache is caused by stress."]
+    },
+    {
+      "id": "health-010",
+      "finnish": "vatsakipu",
+      "english": "stomachache",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'VAT-sa-KI-pu'. Compound: vatsa (stomach) + kipu (pain). Partitive: vatsakipua.",
+      "examples": ["Lapsella on vatsakipu. — The child has a stomachache.", "Vatsakipu meni ohi. — The stomachache passed."]
+    },
+    {
+      "id": "health-011",
+      "finnish": "hampaat",
+      "english": "teeth",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HAM-paat'. Plural of 'hammas' (tooth). Consonant gradation: hammas → hampaat.",
+      "examples": ["Pese hampaat aamulla ja illalla. — Brush your teeth in the morning and evening.", "Hampaat ovat terveet. — The teeth are healthy."]
+    },
+    {
+      "id": "health-012",
+      "finnish": "hammaslääkäri",
+      "english": "dentist",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'HAM-mas-LÄÄ-kä-ri'. Compound: hammas (tooth) + lääkäri (doctor). A long but logical compound word.",
+      "examples": ["Käyn hammaslääkärissä kerran vuodessa. — I visit the dentist once a year.", "Hammaslääkäri tarkistaa hampaat. — The dentist checks the teeth."]
+    },
+    {
+      "id": "health-013",
+      "finnish": "silmälasit",
+      "english": "glasses / eyeglasses",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SIL-mä-LA-sit'. Compound: silmä (eye) + lasit (glasses, from 'lasi' = glass). Always plural.",
+      "examples": ["Tarvitsen silmälasit lukemiseen. — I need glasses for reading.", "Missä minun silmälasini ovat? — Where are my glasses?"]
+    },
+    {
+      "id": "health-014",
+      "finnish": "resepti",
+      "english": "prescription",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'RE-sep-ti'. Loanword. Means both a medical prescription and a cooking recipe. Context determines meaning.",
+      "examples": ["Lääkäri kirjoitti reseptin. — The doctor wrote a prescription.", "Tarvitset reseptin tähän lääkkeeseen. — You need a prescription for this medicine."]
+    },
+    {
+      "id": "health-015",
+      "finnish": "rokote",
+      "english": "vaccine",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'RO-ko-te'. Related to 'rokottaa' (to vaccinate). Partitive: rokotetta. Plural: rokotteet.",
+      "examples": ["Influenssarokote on saatavilla. — The flu vaccine is available.", "Lapset saavat rokotteen koulussa. — The children get the vaccine at school."]
+    },
+    {
+      "id": "health-016",
+      "finnish": "allergia",
+      "english": "allergy",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'AL-ler-gi-a'. Loanword, easy to recognize. Partitive: allergiaa. 'Allerginen' = allergic.",
+      "examples": ["Minulla on allergia siitepölylle. — I have an allergy to pollen.", "Allergia aiheuttaa aivastelua. — The allergy causes sneezing."]
+    },
+    {
+      "id": "health-017",
+      "finnish": "veri",
+      "english": "blood",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'VE-ri'. Partitive: verta (note the stem change). 'Verikoe' = blood test.",
+      "examples": ["Lääkäri otti verinäytteen. — The doctor took a blood sample.", "Veriryhmäni on A+. — My blood type is A+."]
+    },
+    {
+      "id": "health-018",
+      "finnish": "haava",
+      "english": "wound / cut",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HAA-va'. Partitive: haavaa. Can mean a cut, wound, or sore. Plural: haavat.",
+      "examples": ["Haava täytyy puhdistaa. — The wound must be cleaned.", "Haava parani nopeasti. — The wound healed quickly."]
+    },
+    {
+      "id": "health-019",
+      "finnish": "sidos",
+      "english": "bandage",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SI-dos'. Related to 'sitoa' (to bind). Partitive: sidosta. Plural: sidokset.",
+      "examples": ["Laita sidos haavan ympärille. — Put a bandage around the wound.", "Sidos pitää vaihtaa päivittäin. — The bandage must be changed daily."]
+    },
+    {
+      "id": "health-020",
+      "finnish": "terveys",
+      "english": "health",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TER-veys'. Abstract noun. Partitive: terveyttä. 'Terveydeksi!' = 'Bless you!' (after a sneeze).",
+      "examples": ["Terveys on tärkeää. — Health is important.", "Hyvää terveyttä sinulle! — Good health to you!"]
+    },
+    {
+      "id": "health-021",
+      "finnish": "sairas",
+      "english": "sick / ill",
+      "category": "health",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'SAI-ras'. Related to 'sairaala' (hospital). Partitive: sairasta. 'Olen sairas' = I am sick.",
+      "examples": ["Olen sairas, en voi tulla töihin. — I am sick, I cannot come to work.", "Sairas lapsi tarvitsee lepoa. — A sick child needs rest."]
+    },
+    {
+      "id": "health-022",
+      "finnish": "terve",
+      "english": "healthy / well",
+      "category": "health",
+      "partOfSpeech": "adjective",
+      "difficulty": 1,
+      "notes": "Pronounced 'TER-ve'. Also used as a greeting meaning 'hello'. Opposite of 'sairas'. Partitive: tervettä.",
+      "examples": ["Hän on terve ja vahva. — He/she is healthy and strong.", "Terve ruoka on tärkeää. — Healthy food is important."]
+    },
+    {
+      "id": "health-023",
+      "finnish": "lepo",
+      "english": "rest",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LE-po'. Partitive: lepoa. The verb 'to rest' is 'levätä'. Note consonant gradation: lepo → levätä.",
+      "examples": ["Tarvitset lepoa. — You need rest.", "Lepo auttaa parantumaan. — Rest helps to recover."]
+    },
+    {
+      "id": "health-024",
+      "finnish": "uni",
+      "english": "sleep",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'U-ni'. Also means 'dream'. Partitive: unta. The verb 'to sleep' is 'nukkua'.",
+      "examples": ["Tarvitsen kahdeksan tuntia unta. — I need eight hours of sleep.", "Uni on tärkeää terveydelle. — Sleep is important for health."]
+    },
+    {
+      "id": "health-025",
+      "finnish": "stressi",
+      "english": "stress",
+      "category": "health",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'STRES-si'. Loanword from English. Double 's'. Partitive: stressiä. 'Stressaantunut' = stressed.",
+      "examples": ["Stressi vaikuttaa terveyteen. — Stress affects health.", "Yritä välttää stressiä. — Try to avoid stress."]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo, useCallback } from 'react';
+import { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import { ChevronDown, Target, Shuffle, Type, AlignLeft } from 'lucide-react';
 import type { DataItem, ExerciseType, UserSettings } from '../types';
@@ -54,10 +54,12 @@ export function PracticePage() {
   const [enabledTypes, setEnabledTypes] = useState<ExerciseType[]>([
     'mcq', 'match-pairs', 'free-translation', 'fill-blank',
   ]);
+  const [settingsLoaded, setSettingsLoaded] = useState(false);
+  const autoStarted = useRef(false);
 
   const categoryOptions = useMemo(() => buildCategoryOptions(), []);
 
-  // Handle deep-link from WordCard/PhraseCard "Practice this category" button
+  // Handle deep-link from category "Start Lesson" button
   useEffect(() => {
     const cat = searchParams.get('category');
     const type = searchParams.get('type');
@@ -70,12 +72,29 @@ export function PracticePage() {
   // Load settings on mount
   useEffect(() => {
     getSettings().then((s: UserSettings) => {
-      setQuestionsPerSession(s.questionsPerSession);  
+      setQuestionsPerSession(s.questionsPerSession);
       if (s.exerciseTypes.length > 0) {
         setEnabledTypes(s.exerciseTypes);
       }
+      setSettingsLoaded(true);
     });
   }, []);
+
+  // Auto-start session when coming from category "Start Lesson" button
+  useEffect(() => {
+    if (!settingsLoaded || autoStarted.current) return;
+    const autostart = searchParams.get('autostart');
+    if (autostart === 'true' && selectedCategory && state.status === 'idle') {
+      autoStarted.current = true;
+      const items: readonly DataItem[] = selectedType === 'phrase'
+        ? getPhrasesByCategory(selectedCategory)
+        : getVocabByCategory(selectedCategory);
+      const exercises = generateExercises(items, questionsPerSession, enabledTypes);
+      if (exercises.length > 0) {
+        startSession(exercises);
+      }
+    }
+  }, [settingsLoaded, searchParams, selectedCategory, selectedType, questionsPerSession, enabledTypes, state.status, startSession]);
 
   const toggleType = useCallback((type: ExerciseType) => {
     setEnabledTypes((prev) => {

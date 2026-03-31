@@ -1,0 +1,259 @@
+{
+  "category": "kitchen",
+  "categoryLabel": "Kitchen & Cooking",
+  "icon": "chef-hat",
+  "description": "Kitchen items, utensils, and cooking vocabulary",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "kitchen-001",
+      "finnish": "keittiö",
+      "english": "kitchen",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KEIT-ti-ö'. The double 't' is pronounced long. Partitive: keittiötä.",
+      "examples": ["Keittiö on siisti. — The kitchen is clean.", "Syömme keittiössä. — We eat in the kitchen."]
+    },
+    {
+      "id": "kitchen-002",
+      "finnish": "liesi",
+      "english": "stove",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LIE-si'. Can also mean 'range' or 'cooktop'. Partitive: liettä.",
+      "examples": ["Liesi on kuuma. — The stove is hot.", "Laitoin kattilan liedelle. — I put the pot on the stove."]
+    },
+    {
+      "id": "kitchen-003",
+      "finnish": "uuni",
+      "english": "oven",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'UU-ni'. The double 'u' is long. Also means 'furnace'. Partitive: uunia.",
+      "examples": ["Laita uuni päälle. — Turn the oven on.", "Kakku on uunissa. — The cake is in the oven."]
+    },
+    {
+      "id": "kitchen-004",
+      "finnish": "jääkaappi",
+      "english": "fridge / refrigerator",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'YÄÄ-kaap-pi'. Compound word: jää (ice) + kaappi (cabinet). Partitive: jääkaappia.",
+      "examples": ["Maito on jääkaapissa. — The milk is in the fridge.", "Jääkaappi on tyhjä. — The fridge is empty."]
+    },
+    {
+      "id": "kitchen-005",
+      "finnish": "astianpesukone",
+      "english": "dishwasher",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'AS-ti-an-PE-su-ko-ne'. Compound: astia (dish) + pesu (wash) + kone (machine). A long but logical compound word.",
+      "examples": ["Laita lautaset astianpesukoneeseen. — Put the plates in the dishwasher.", "Astianpesukone on täynnä. — The dishwasher is full."]
+    },
+    {
+      "id": "kitchen-006",
+      "finnish": "kattila",
+      "english": "pot",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KAT-ti-la'. Double 't' is pronounced long. Partitive: kattilaa.",
+      "examples": ["Keitän vettä kattilassa. — I'm boiling water in a pot.", "Tarvitsen ison kattilan. — I need a big pot."]
+    },
+    {
+      "id": "kitchen-007",
+      "finnish": "pannu",
+      "english": "pan / frying pan",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PAN-nu'. Double 'n' is long. A 'paistinpannu' is specifically a frying pan. Partitive: pannua.",
+      "examples": ["Paista kananmunat pannulla. — Fry the eggs in the pan.", "Pannu on kuuma. — The pan is hot."]
+    },
+    {
+      "id": "kitchen-008",
+      "finnish": "veitsi",
+      "english": "knife",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'VEIT-si'. The 'ei' diphthong sounds like 'ay' in 'day'. Partitive: veistä.",
+      "examples": ["Veitsi on terävä. — The knife is sharp.", "Anna minulle veitsi. — Give me a knife."]
+    },
+    {
+      "id": "kitchen-009",
+      "finnish": "haarukka",
+      "english": "fork",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HAA-ruk-ka'. Double 'k' is pronounced long. Partitive: haarukkaa.",
+      "examples": ["Syön haarukalla. — I eat with a fork.", "Missä on haarukka? — Where is the fork?"]
+    },
+    {
+      "id": "kitchen-010",
+      "finnish": "lusikka",
+      "english": "spoon",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LU-sik-ka'. Double 'k' is pronounced long. Partitive: lusikkaa.",
+      "examples": ["Tarvitsen lusikan soppaa varten. — I need a spoon for the soup.", "Sekoita lusikalla. — Stir with a spoon."]
+    },
+    {
+      "id": "kitchen-011",
+      "finnish": "lautanen",
+      "english": "plate",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LAU-ta-nen'. Follows the -nen noun pattern. Partitive: lautasta.",
+      "examples": ["Lautanen on pöydällä. — The plate is on the table.", "Pese lautaset. — Wash the plates."]
+    },
+    {
+      "id": "kitchen-012",
+      "finnish": "kuppi",
+      "english": "cup",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KUP-pi'. Double 'p' is long. Used for coffee cups and mugs. Partitive: kuppia.",
+      "examples": ["Haluatko kupin kahvia? — Would you like a cup of coffee?", "Kuppi on likainen. — The cup is dirty."]
+    },
+    {
+      "id": "kitchen-013",
+      "finnish": "lasi",
+      "english": "glass",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LA-si'. Also means 'glass' as a material. Partitive: lasia.",
+      "examples": ["Juon lasin vettä. — I drink a glass of water.", "Lasi meni rikki. — The glass broke."]
+    },
+    {
+      "id": "kitchen-014",
+      "finnish": "kulho",
+      "english": "bowl",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KUL-ho'. Partitive: kulhoa. Used for serving bowls and mixing bowls.",
+      "examples": ["Laita salaatti kulhoon. — Put the salad in a bowl.", "Tarvitsen ison kulhon. — I need a big bowl."]
+    },
+    {
+      "id": "kitchen-015",
+      "finnish": "leikkuulauta",
+      "english": "cutting board",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LEIK-kuu-lau-ta'. Compound: leikkuu (cutting) + lauta (board). Double 'k' and 'u' are long.",
+      "examples": ["Leikkaa sipuli leikkuulaudalla. — Cut the onion on the cutting board.", "Pese leikkuulauta käytön jälkeen. — Wash the cutting board after use."]
+    },
+    {
+      "id": "kitchen-016",
+      "finnish": "keittää",
+      "english": "to cook / to boil",
+      "category": "kitchen",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Pronounced 'KEIT-tää'. Double 't' is long. Conjugation: keitän (I cook), keität (you cook), keittää (he/she cooks). Also means 'to boil'.",
+      "examples": ["Keitän perunoita. — I'm cooking potatoes.", "Äiti keittää soppa. — Mom is cooking soup."]
+    },
+    {
+      "id": "kitchen-017",
+      "finnish": "paistaa",
+      "english": "to fry / to roast",
+      "category": "kitchen",
+      "partOfSpeech": "verb",
+      "difficulty": 1,
+      "notes": "Pronounced 'PAIS-taa'. Conjugation: paistan (I fry), paistat (you fry), paistaa (he/she fries). Used for frying and oven roasting.",
+      "examples": ["Paistan kalaa pannulla. — I'm frying fish in a pan.", "Paista liha uunissa. — Roast the meat in the oven."]
+    },
+    {
+      "id": "kitchen-018",
+      "finnish": "sekoittaa",
+      "english": "to mix / to stir",
+      "category": "kitchen",
+      "partOfSpeech": "verb",
+      "difficulty": 2,
+      "notes": "Pronounced 'SE-koit-taa'. Double 't' is long. Conjugation: sekoitan (I stir), sekoitat (you stir). Works for both mixing ingredients and stirring a pot.",
+      "examples": ["Sekoita taikina hyvin. — Mix the dough well.", "Sekoitan keittoa. — I'm stirring the soup."]
+    },
+    {
+      "id": "kitchen-019",
+      "finnish": "resepti",
+      "english": "recipe",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'RE-sep-ti'. A loanword, similar to English. Partitive: reseptiä.",
+      "examples": ["Tämä resepti on helppo. — This recipe is easy.", "Löysin hyvän reseptin. — I found a good recipe."]
+    },
+    {
+      "id": "kitchen-020",
+      "finnish": "mauste",
+      "english": "spice / seasoning",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'MAUS-te'. The 'au' diphthong is like 'ow' in 'how'. Partitive: maustetta.",
+      "examples": ["Lisää mausteita ruokaan. — Add spices to the food.", "Tämä mauste on vahva. — This spice is strong."]
+    },
+    {
+      "id": "kitchen-021",
+      "finnish": "suola",
+      "english": "salt",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SUO-la'. The 'uo' diphthong is common in Finnish. Partitive: suolaa.",
+      "examples": ["Lisää suolaa. — Add salt.", "Ruuassa on liikaa suolaa. — The food has too much salt."]
+    },
+    {
+      "id": "kitchen-022",
+      "finnish": "pippuri",
+      "english": "pepper",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PIP-pu-ri'. Double 'p' is long. Refers to black pepper. Partitive: pippuria.",
+      "examples": ["Haluatko pippuria? — Would you like pepper?", "Lisää pippuria ja suolaa. — Add pepper and salt."]
+    },
+    {
+      "id": "kitchen-023",
+      "finnish": "öljy",
+      "english": "oil",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'ÖL-jy'. Note both ö and y are front vowels. Partitive: öljyä. 'Oliiviöljy' = olive oil.",
+      "examples": ["Lisää öljyä pannulle. — Add oil to the pan.", "Käytän oliiviöljyä. — I use olive oil."]
+    },
+    {
+      "id": "kitchen-024",
+      "finnish": "sokeri",
+      "english": "sugar",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SO-ke-ri'. Partitive: sokeria. A common kitchen staple.",
+      "examples": ["Laita sokeria kahviin. — Put sugar in the coffee.", "En käytä sokeria. — I don't use sugar."]
+    },
+    {
+      "id": "kitchen-025",
+      "finnish": "jauhot",
+      "english": "flour",
+      "category": "kitchen",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'JAU-hot'. Usually used in plural form (jauhot). Singular 'jauho' means a single grain of flour. Partitive: jauhoja.",
+      "examples": ["Tarvitsen jauhoja leivontaan. — I need flour for baking.", "Lisää jauhoja taikinaan. — Add flour to the dough."]
+    }
+  ]
+}

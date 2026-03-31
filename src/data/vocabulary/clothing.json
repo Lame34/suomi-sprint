@@ -1,0 +1,309 @@
+{
+  "category": "clothing",
+  "categoryLabel": "Clothing",
+  "icon": "shirt",
+  "description": "Common clothing and accessories",
+  "difficulty": 1,
+  "items": [
+    {
+      "id": "clothing-001",
+      "finnish": "paita",
+      "english": "shirt",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PAI-ta'. One of the most basic clothing words. Partitive: paitaa. Plural: paidat.",
+      "examples": ["Tämä paita on sininen. — This shirt is blue.", "Ostan uuden paidan. — I will buy a new shirt."]
+    },
+    {
+      "id": "clothing-002",
+      "finnish": "housut",
+      "english": "pants / trousers",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HOU-sut'. Always plural in Finnish (like 'trousers' in British English). Singular form 'housu' is rarely used alone.",
+      "examples": ["Nämä housut ovat liian pitkät. — These pants are too long.", "Tarvitsen uudet housut. — I need new pants."]
+    },
+    {
+      "id": "clothing-003",
+      "finnish": "mekko",
+      "english": "dress",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'MEK-ko'. Double 'k'. Partitive: mekkoa. Plural: mekot.",
+      "examples": ["Hänellä on kaunis mekko. — She has a beautiful dress.", "Punainen mekko sopii sinulle. — The red dress suits you."]
+    },
+    {
+      "id": "clothing-004",
+      "finnish": "takki",
+      "english": "jacket / coat",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TAK-ki'. Double 'k'. General word for any jacket or coat. Partitive: takkia. Plural: takit.",
+      "examples": ["Ota takki mukaan, ulkona on kylmä. — Take a jacket, it is cold outside.", "Missä minun takkini on? — Where is my jacket?"]
+    },
+    {
+      "id": "clothing-005",
+      "finnish": "kengät",
+      "english": "shoes",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'KEN-gät'. Plural form; singular 'kenkä' (one shoe). Note the consonant gradation: kenkä → kengät (nk → ng).",
+      "examples": ["Nämä kengät ovat mukavat. — These shoes are comfortable.", "Riisu kengät eteisessä. — Take off your shoes in the hallway."]
+    },
+    {
+      "id": "clothing-006",
+      "finnish": "hattu",
+      "english": "hat",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HAT-tu'. Double 't'. Refers to a brimmed hat. Partitive: hattua. Plural: hatut.",
+      "examples": ["Hänellä on iso hattu. — He/she has a big hat.", "Laita hattu päähän. — Put a hat on your head."]
+    },
+    {
+      "id": "clothing-007",
+      "finnish": "sukat",
+      "english": "socks",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SU-kat'. Plural of 'sukka'. Consonant gradation: sukka → sukat (kk → k).",
+      "examples": ["Missä ovat puhtaat sukat? — Where are the clean socks?", "Tarvitsen lämpimät sukat. — I need warm socks."]
+    },
+    {
+      "id": "clothing-008",
+      "finnish": "hansikkaat",
+      "english": "gloves",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'HAN-sik-kaat'. Plural of 'hansikas'. Refers to fingered gloves specifically. Compare with 'käsineet' (mittens).",
+      "examples": ["Laita hansikkaat käsiin. — Put gloves on your hands.", "Unohdin hansikkaani kotiin. — I forgot my gloves at home."]
+    },
+    {
+      "id": "clothing-009",
+      "finnish": "huivi",
+      "english": "scarf",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HUI-vi'. Can mean a scarf or a headscarf. Partitive: huivia. Plural: huivit.",
+      "examples": ["Huivi pitää kaulan lämpimänä. — A scarf keeps the neck warm.", "Ostan villahuivin. — I will buy a wool scarf."]
+    },
+    {
+      "id": "clothing-010",
+      "finnish": "saappaat",
+      "english": "boots",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SAAP-paat'. Plural of 'saapas'. Essential in Finnish winters. Consonant gradation: saapas → saappaat.",
+      "examples": ["Talvella tarvitset saappaat. — In winter you need boots.", "Nämä saappaat ovat vedenpitävät. — These boots are waterproof."]
+    },
+    {
+      "id": "clothing-011",
+      "finnish": "puku",
+      "english": "suit",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PU-ku'. Can mean a suit (formal) or a costume. Context determines meaning. Partitive: pukua.",
+      "examples": ["Hänellä on tumma puku. — He has a dark suit.", "Puen puvun juhliin. — I will wear a suit to the party."]
+    },
+    {
+      "id": "clothing-012",
+      "finnish": "hame",
+      "english": "skirt",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'HA-me'. Simple and common word. Partitive: hametta. Plural: hameet.",
+      "examples": ["Tämä hame on liian lyhyt. — This skirt is too short.", "Hänellä on punainen hame. — She has a red skirt."]
+    },
+    {
+      "id": "clothing-013",
+      "finnish": "pusero",
+      "english": "blouse",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PU-se-ro'. A lighter top, typically for women. Partitive: puseroa. Plural: puserot.",
+      "examples": ["Valkoinen pusero on tyylikäs. — A white blouse is stylish.", "Ostan uuden puseron. — I will buy a new blouse."]
+    },
+    {
+      "id": "clothing-014",
+      "finnish": "neule",
+      "english": "sweater / knit",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'NEU-le'. Refers to a knitted garment. Also 'villapaita' (wool shirt) is used for sweater. Partitive: neuletta.",
+      "examples": ["Tämä neule on lämmin. — This sweater is warm.", "Mummo kutoi minulle neuleen. — Grandma knitted me a sweater."]
+    },
+    {
+      "id": "clothing-015",
+      "finnish": "vyö",
+      "english": "belt",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'VYÖ'. Short word with the Finnish ö vowel. Partitive: vyötä. Plural: vyöt.",
+      "examples": ["Tarvitsen uuden vyön. — I need a new belt.", "Nahkavyö on kestävä. — A leather belt is durable."]
+    },
+    {
+      "id": "clothing-016",
+      "finnish": "solmio",
+      "english": "tie / necktie",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SOL-mi-o'. Derived from 'solmu' (knot). Partitive: solmiota. Plural: solmiot.",
+      "examples": ["Hänellä on punainen solmio. — He has a red tie.", "En osaa sitoa solmiota. — I cannot tie a necktie."]
+    },
+    {
+      "id": "clothing-017",
+      "finnish": "alusvaatteet",
+      "english": "underwear",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'A-lus-VAAT-teet'. Compound: alus (under) + vaatteet (clothes). Always plural. Singular: alusvaate.",
+      "examples": ["Pakkaa alusvaatteet mukaan. — Pack underwear along.", "Ostan puhtaat alusvaatteet. — I will buy clean underwear."]
+    },
+    {
+      "id": "clothing-018",
+      "finnish": "t-paita",
+      "english": "t-shirt",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'TEE-pai-ta'. Compound of the letter T + paita (shirt). Very common in casual speech. Plural: t-paidat.",
+      "examples": ["Kesällä käytän t-paitaa. — In summer I wear a t-shirt.", "Tämä t-paita on mukava. — This t-shirt is comfortable."]
+    },
+    {
+      "id": "clothing-019",
+      "finnish": "farkut",
+      "english": "jeans",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'FAR-kut'. Loanword, always plural in Finnish. Singular 'farkku' is not typically used. Partitive: farkkuja.",
+      "examples": ["Pidän sinisistä farkuista. — I like blue jeans.", "Nämä farkut ovat uudet. — These jeans are new."]
+    },
+    {
+      "id": "clothing-020",
+      "finnish": "lenkkarit",
+      "english": "sneakers / trainers",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'LENK-ka-rit'. Plural of 'lenkkari', derived from 'lenkki' (jog/loop). Casual athletic shoes.",
+      "examples": ["Laita lenkkarit jalkaan. — Put on your sneakers.", "Ostan uudet lenkkarit juoksemista varten. — I will buy new sneakers for running."]
+    },
+    {
+      "id": "clothing-021",
+      "finnish": "sandaalit",
+      "english": "sandals",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SAN-daa-lit'. Loanword, easy to recognize. Plural of 'sandaali'.",
+      "examples": ["Kesällä käytän sandaaleja. — In summer I wear sandals.", "Nämä sandaalit ovat mukavat. — These sandals are comfortable."]
+    },
+    {
+      "id": "clothing-022",
+      "finnish": "käsineet",
+      "english": "mittens",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'KÄ-si-neet'. Plural of 'käsine', derived from 'käsi' (hand). Mittens without separate fingers. Compare with 'hansikkaat' (fingered gloves).",
+      "examples": ["Lapset tarvitsevat käsineet. — The children need mittens.", "Villaiset käsineet ovat lämpimät. — Wool mittens are warm."]
+    },
+    {
+      "id": "clothing-023",
+      "finnish": "pipo",
+      "english": "beanie / knit cap",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'PI-po'. Very common Finnish word, essential for winter. Partitive: pipoa. Plural: pipot.",
+      "examples": ["Laita pipo päähän, on kylmä! — Put a beanie on, it is cold!", "Tämä pipo on villainen. — This beanie is made of wool."]
+    },
+    {
+      "id": "clothing-024",
+      "finnish": "liivi",
+      "english": "vest / waistcoat",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'LII-vi'. Can mean a formal waistcoat or a casual vest. Partitive: liiviä. Plural: liivit.",
+      "examples": ["Hänellä on harmaa liivi. — He/she has a grey vest.", "Liivi sopii paidan päälle. — A vest goes over a shirt."]
+    },
+    {
+      "id": "clothing-025",
+      "finnish": "shortsit",
+      "english": "shorts",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 1,
+      "notes": "Pronounced 'SHORT-sit'. Loanword from English, always plural. Partitive: shortseja.",
+      "examples": ["Kesällä käytän shortseja. — In summer I wear shorts.", "Nämä shortsit ovat liian pienet. — These shorts are too small."]
+    },
+    {
+      "id": "clothing-026",
+      "finnish": "uimapuku",
+      "english": "swimsuit",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'UI-ma-PU-ku'. Compound: uima (swimming) + puku (suit). Partitive: uimapukua. Also 'uimahousuit' for swim trunks.",
+      "examples": ["Ota uimapuku mukaan rannalle. — Take a swimsuit to the beach.", "Tarvitsen uuden uimapuvun. — I need a new swimsuit."]
+    },
+    {
+      "id": "clothing-027",
+      "finnish": "sadetakki",
+      "english": "raincoat",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'SA-de-TAK-ki'. Compound: sade (rain) + takki (jacket). Very useful in Finnish weather. Partitive: sadetakkia.",
+      "examples": ["Ota sadetakki mukaan, sataa kohta. — Take a raincoat, it will rain soon.", "Sadetakki on vedenpitävä. — The raincoat is waterproof."]
+    },
+    {
+      "id": "clothing-028",
+      "finnish": "talvitakki",
+      "english": "winter jacket",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'TAL-vi-TAK-ki'. Compound: talvi (winter) + takki (jacket). Essential item in Finland. Partitive: talvitakkia.",
+      "examples": ["Talvitakki pitää sinut lämpimänä. — A winter jacket keeps you warm.", "Ostan uuden talvitakin syksyllä. — I will buy a new winter jacket in autumn."]
+    },
+    {
+      "id": "clothing-029",
+      "finnish": "villasukka",
+      "english": "wool sock",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'VIL-la-SUK-ka'. Compound: villa (wool) + sukka (sock). A beloved Finnish tradition. Plural: villasukat.",
+      "examples": ["Villasukat ovat lämpimät. — Wool socks are warm.", "Mummo kutoi villasukkia. — Grandma knitted wool socks."]
+    },
+    {
+      "id": "clothing-030",
+      "finnish": "haalari",
+      "english": "overalls / jumpsuit",
+      "category": "clothing",
+      "partOfSpeech": "noun",
+      "difficulty": 2,
+      "notes": "Pronounced 'HAA-la-ri'. Can mean work overalls or a children's snow suit (toppahaalari). Partitive: haalaria. Plural: haalarit.",
+      "examples": ["Lapset käyttävät haalareita talvella. — Children wear overalls in winter.", "Työ haalari suojaa vaatteita. — Work overalls protect the clothes."]
+    }
+  ]
+}
