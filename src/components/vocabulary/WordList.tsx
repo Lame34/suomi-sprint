@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { Search, ArrowLeft, Play } from 'lucide-react';
 import { getVocabByCategory, getCategoryMeta } from '../../data/vocabulary/_index';
-import { DynamicIcon } from '../../lib/icons';
+import { getIcon } from '../../lib/icons';
 import { db } from '../../lib/db';
 import type { VocabEntry, ProgressRecord } from '../../types';
 import { WordCard } from './WordCard';
@@ -93,11 +93,14 @@ export function WordList() {
         >
           <ArrowLeft className="w-5 h-5 text-primary" />
         </button>
-        {meta.icon && (
-          <div className="w-10 h-10 rounded-lg bg-ice flex items-center justify-center shrink-0">
-            <DynamicIcon name={meta.icon} className="w-5 h-5 text-primary" />
-          </div>
-        )}
+        {meta.icon && (() => {
+          const Icon = getIcon(meta.icon);
+          return (
+            <div className="w-10 h-10 rounded-lg bg-ice flex items-center justify-center shrink-0">
+              <Icon className="w-5 h-5 text-primary" />
+            </div>
+          );
+        })()}
         <div className="flex-1 min-w-0">
           <h2 className="font-display text-xl font-bold text-primary truncate">
             {meta.label}

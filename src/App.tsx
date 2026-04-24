@@ -1,6 +1,8 @@
 import { lazy, Suspense } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { AppShell } from './components/layout/AppShell';
+import { ThemeProvider } from './context/ThemeContext';
+import { ExerciseProvider } from './context/ExerciseContext';
 
 /* Lazy-loaded pages */
 const HomePage = lazy(() => import('./pages/HomePage'));
@@ -30,23 +32,27 @@ function PageLoader() {
 
 function App() {
   return (
-    <BrowserRouter>
-      <Suspense fallback={<PageLoader />}>
-        <Routes>
-          <Route element={<AppShell />}>
-            <Route index element={<HomePage />} />
-            <Route path="learn" element={<VocabularyPage />} />
-            <Route path="learn/vocab/:categoryId" element={<WordList />} />
-            <Route path="learn/phrases/:categoryId" element={<PhraseList />} />
-            <Route path="phrases" element={<PhrasesPage />} />
-            <Route path="practice" element={<PracticePage />} />
-            <Route path="review" element={<ReviewPage />} />
-            <Route path="stats" element={<StatsPage />} />
-            <Route path="settings" element={<SettingsPage />} />
-          </Route>
-        </Routes>
-      </Suspense>
-    </BrowserRouter>
+    <ThemeProvider>
+      <ExerciseProvider>
+        <BrowserRouter>
+          <Suspense fallback={<PageLoader />}>
+            <Routes>
+              <Route element={<AppShell />}>
+                <Route index element={<HomePage />} />
+                <Route path="learn" element={<VocabularyPage />} />
+                <Route path="learn/vocab/:categoryId" element={<WordList />} />
+                <Route path="learn/phrases/:categoryId" element={<PhraseList />} />
+                <Route path="phrases" element={<PhrasesPage />} />
+                <Route path="practice" element={<PracticePage />} />
+                <Route path="review" element={<ReviewPage />} />
+                <Route path="stats" element={<StatsPage />} />
+                <Route path="settings" element={<SettingsPage />} />
+              </Route>
+            </Routes>
+          </Suspense>
+        </BrowserRouter>
+      </ExerciseProvider>
+    </ThemeProvider>
   );
 }
 

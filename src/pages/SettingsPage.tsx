@@ -16,6 +16,7 @@ import {
 } from 'lucide-react';
 import type { ExerciseType, ProgressRecord, Theme } from '../types';
 import { useSettings } from '../hooks/useSettings';
+import { useTheme } from '../context/ThemeContext';
 import { db } from '../lib/db';
 import {
   getDataStats,
@@ -44,6 +45,7 @@ const reviewModeOptions: { value: 'mixed' | 'vocabOnly' | 'phrasesOnly'; label: 
  */
 export function SettingsPage() {
   const { settings, loading, update } = useSettings();
+  const { theme, setTheme } = useTheme();
   const [resetConfirmStep, setResetConfirmStep] = useState(0);
   const [catResetOpen, setCatResetOpen] = useState(false);
   const [catResetTarget, setCatResetTarget] = useState<string | null>(null);
@@ -223,15 +225,11 @@ export function SettingsPage() {
             { value: 'dark' as Theme, label: 'Dark', icon: Moon },
             { value: 'light' as Theme, label: 'Light', icon: Sun },
           ]).map(({ value, label, icon: Icon }) => {
-            const active = (settings.theme ?? 'dark') === value;
+            const active = theme === value;
             return (
               <button
                 key={value}
-                onClick={() => {
-                  update('theme', value);
-                  document.documentElement.setAttribute('data-theme', value);
-                  window.dispatchEvent(new CustomEvent('theme-change', { detail: value }));
-                }}
+                onClick={() => setTheme(value)}
                 className={`flex-1 flex items-center justify-center gap-2 p-3 rounded-xl border-2 transition-all duration-200 min-h-[48px] ${
                   active
                     ? 'border-primary bg-selected'

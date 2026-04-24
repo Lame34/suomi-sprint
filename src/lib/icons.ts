@@ -1,4 +1,3 @@
-import { createElement } from 'react';
 import {
   Sliders,
   PawPrint,
@@ -64,14 +63,4 @@ const iconMap: Record<string, LucideIcon> = {
  */
 export function getIcon(name: string): LucideIcon {
   return iconMap[name] ?? BookOpen;
-}
-
-/**
- * Static component that renders a dynamic icon by name.
- * Use this instead of calling getIcon() during render to satisfy
- * the react-hooks/static-components rule.
- */
-export function DynamicIcon({ name, className }: { name: string; className?: string }) {
-  const icon = iconMap[name] ?? BookOpen;
-  return createElement(icon, { className });
 }
